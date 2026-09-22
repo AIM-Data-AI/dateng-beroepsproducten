@@ -1,0 +1,148 @@
+======================================================================
+  EPD DATA VERIFICATION REPORT
+  Generated: 2026-05-11 14:17:52
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  1. FILE PRESENCE AND ROW COUNTS
+──────────────────────────────────────────────────────────────────────
+  patient.csv                                      3,581 rows  |  cols: ['pid', 'firstname', 'lastname', 'dob']
+  patient_statistic_type.csv                           3 rows  |  cols: ['stid', 'stname', 'sttype']
+  patient_statistic.csv                           10,743 rows  |  cols: ['pid', 'stid', 'stvalue_int', 'stvalue_float', 'stvalue_bool', 'stvalue_string', 'stat_ts', 'stat_note']
+  treatment_type.csv                                   5 rows  |  cols: ['tid', 'tname']
+  eoc.csv                                          3,581 rows  |  cols: ['eocid', 'pid', 'intake_date', 'discharge_date']
+  eoc_treatment.csv                                4,081 rows  |  cols: ['eocid', 'tid', 'is_primary', 'eoc_time']
+  eoc_treatment_anesthesia.csv                     4,081 rows  |  cols: ['eocid', 'anesthesia_type', 'anesthesia_time']
+  hip_treatment_position.csv                       3,581 rows  |  cols: ['eocid', 'position_type', 'position_time']
+
+──────────────────────────────────────────────────────────────────────
+  2. REQUIRED COLUMNS
+──────────────────────────────────────────────────────────────────────
+  [OK]    patient: all required columns present
+  [OK]    patient_statistic_type: all required columns present
+  [OK]    patient_statistic: all required columns present
+  [OK]    treatment_type: all required columns present
+  [OK]    eoc: all required columns present
+  [OK]    eoc_treatment: all required columns present
+  [OK]    eoc_treatment_anesthesia: all required columns present
+  [OK]    hip_treatment_position: all required columns present
+
+──────────────────────────────────────────────────────────────────────
+  3. REFERENTIAL INTEGRITY (FOREIGN KEYS)
+──────────────────────────────────────────────────────────────────────
+  [OK]    eoc.pid → patient.pid: no orphans
+  [OK]    eoc_treatment.eocid → eoc.eocid: no orphans
+  [OK]    eoc_treatment_anesthesia.eocid → eoc.eocid: no orphans
+  [OK]    hip_treatment_position.eocid → eoc.eocid: no orphans
+  [OK]    patient_statistic.pid → patient.pid: no orphans
+
+──────────────────────────────────────────────────────────────────────
+  4. PRIMARY KEY UNIQUENESS
+──────────────────────────────────────────────────────────────────────
+  [OK]    patient PK ['pid']: all unique
+  [OK]    eoc PK ['eocid']: all unique
+  [OK]    eoc_treatment PK ['eocid', 'tid']: all unique
+  [OK]    eoc_treatment_anesthesia PK ['eocid', 'anesthesia_time']: all unique
+  [OK]    hip_treatment_position PK ['eocid', 'position_time']: all unique
+  [OK]    patient_statistic PK ['pid', 'stid', 'stat_ts']: all unique
+
+──────────────────────────────────────────────────────────────────────
+  5. EOC COUNTS PER YEAR
+──────────────────────────────────────────────────────────────────────
+
+    Year    Count   Expected  Status
+    ----    -----   --------  ------
+    2016      355        355  OK
+    2017      368        368  OK
+    2018      381        381  OK
+    2019      394        394  OK
+    2020       78         78  OK
+    2021      115        115  OK
+    2022      512        512  OK
+    2023      498        498  OK
+    2024      432        432  OK
+    2025      448        448  OK
+
+──────────────────────────────────────────────────────────────────────
+  6. PATIENT AGES AT PRIMARY TREATMENT
+──────────────────────────────────────────────────────────────────────
+  Age range: 65.0 – 79.9 years  (mean: 72.6)
+  [OK]    All patient ages within expected range [65, 80]
+
+──────────────────────────────────────────────────────────────────────
+  7. BMI STATISTICS
+──────────────────────────────────────────────────────────────────────
+  Count: 3,581  |  min=15  max=40  mean=27.07  std=4.06
+  [OK]    All BMI values in range [15, 40]
+  [OK]    BMI mean (27.07) close to target ~27
+
+──────────────────────────────────────────────────────────────────────
+  8. SMOKING RATE
+──────────────────────────────────────────────────────────────────────
+  Smoking rate: 10.3%  (target ~10 %)
+  [OK]    Smoking rate within expected range [7 %, 13 %]
+
+──────────────────────────────────────────────────────────────────────
+  9. ASA SCORE DISTRIBUTION
+──────────────────────────────────────────────────────────────────────
+   1,990 (55.6%)  mild to moderate systemic abnormality that does not result in functional impairment
+     892 (24.9%)  Severe functionally limiting systemic abnormality
+     546 (15.2%)  healthy
+     153 ( 4.3%)  systemic abnormality that poses a constant life-threatening danger
+
+──────────────────────────────────────────────────────────────────────
+  10. FOLLOW-UP TREATMENT RATE PER YEAR
+──────────────────────────────────────────────────────────────────────
+
+    Year    Actual %    Target %    Primary    FU EOCs
+    ----    --------    --------    -------    -------
+    2016       17.2%       20.0%        355         61
+    2017       15.5%       18.3%        368         57
+    2018       15.7%       16.7%        381         60
+    2019       15.5%       15.0%        394         61
+    2020       12.8%       13.3%         78         10
+    2021       16.5%       11.7%        115         19
+    2022       17.2%       15.5%        512         88
+    2023       13.9%       14.5%        498         69
+    2024        5.6%        6.7%        432         24
+    2025        3.3%        5.0%        448         15
+
+──────────────────────────────────────────────────────────────────────
+  11. HOSPITAL STAY DISTRIBUTION
+──────────────────────────────────────────────────────────────────────
+  stay_days: min=2  max=55  mean=3.60  median=2
+  2-day stays:  70.0%  (target ~70 %)
+  3-day stays:  14.5%  (target ~15 %)
+  14+ day stays:2.8%  (target ~3 %)
+  [OK]    No stays shorter than 2 days
+  [OK]    No stays longer than 55 days
+
+──────────────────────────────────────────────────────────────────────
+  12. ANESTHESIA TYPE DISTRIBUTION
+──────────────────────────────────────────────────────────────────────
+   1,831 (44.87%)  spinal anesthesia
+   1,118 (27.40%)  general anesthesia
+     671 (16.44%)  epidural anesthesia
+     434 (10.63%)  nerve block
+      27 ( 0.66%)  unknown
+  [OK]    'unknown' anesthesia rate 0.66% ≤ 2 %  (target ~0.5 %)
+
+──────────────────────────────────────────────────────────────────────
+  13. POSITION TYPE DISTRIBUTION
+──────────────────────────────────────────────────────────────────────
+   1,210 (33.79%)  posterolateral
+     812 (22.68%)  anterior
+     693 (19.35%)  anterolateral
+     691 (19.30%)  direct lateral
+     175 ( 4.89%)  unknown
+  [OK]    'unknown' position rate 4.89% within [2 %, 8 %]  (target ~5 %)
+
+──────────────────────────────────────────────────────────────────────
+  14. FOLLOW-UP TIMESTAMP SANITY
+──────────────────────────────────────────────────────────────────────
+  [OK]    All follow-up treatments are after the primary treatment
+  [OK]    All follow-up treatments are before the discharge date
+
+======================================================================
+  END OF REPORT
+======================================================================

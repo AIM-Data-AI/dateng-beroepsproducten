@@ -1,0 +1,101 @@
+@startuml
+
+package "EPD database" {
+
+entity "patient" as patient {
+  *pid
+  --
+  firstname
+  lastname
+  dob
+}
+
+entity "patient_statistic_type" as patient_statistic_type {
+  *stid
+  --
+  stname
+  sttype
+}
+
+entity "patient_observation" as patient_observation {
+  *poid
+  --
+  pid
+  note_ts
+  note_text
+  pain_score
+}
+
+patient_observation --> patient
+
+entity "patient_statistic" as patient_statistic {
+  *pid
+  *stid
+  *stat_ts
+  --
+  stvalue_int
+  stvalue_float
+  stvalue_bool
+  stvalue_string
+  stat_note
+}
+
+patient_statistic --> patient
+patient_statistic --> patient_statistic_type
+
+entity "treatment_type" as treatment_type {
+  *tid
+  --
+  tname
+}
+
+entity "eoc" as eoc {
+  *eocid
+  --
+  pid
+  intake_date
+  discharge_date
+}
+
+eoc --> patient
+
+entity "eoc_treatment" as eoc_treatment {
+  *eocid
+  *tid
+  --
+  is_primary
+  eoc_time
+}
+
+eoc_treatment --> eoc
+eoc_treatment --> treatment_type
+
+entity "eoc_treatment_anesthesia" as eoc_treatment_anesthesia {
+  *eocid
+  *anesthesia_time
+  --
+  anesthesia_type
+}
+
+eoc_treatment_anesthesia --> eoc
+
+entity "hip_treatment_position" as hip_treatment_position {
+  *eocid
+  *position_time
+  --
+  position_type
+}
+
+hip_treatment_position --> eoc
+
+}
+
+note bottom of eoc_treatment_anesthesia
+  FK is on eocid only (references eoc,
+  not eoc_treatment), per the DDL --
+  even though the comment in the DDL
+  describes this table as linked to
+  a specific treatment.
+end note
+
+@enduml

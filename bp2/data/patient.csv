@@ -1,0 +1,3582 @@
+pid,firstname,lastname,dob
+1,Hans,Jansen,1938-06-16
+2,Jaap,Peters,1941-10-23
+3,Gert,Smit,1944-12-28
+4,Griet,Evers,1936-08-06
+5,Ferdinand,Bakker,1939-01-01
+6,Igor,Hoekstra,1950-03-26
+7,Carla,Jansen,1941-01-04
+8,Gerrit,Bos,1942-05-19
+9,Oda,Schipper,1941-04-23
+10,Bea,Postma,1947-11-10
+11,Maria,Wolff,1948-05-02
+12,Judith,Prins,1941-02-17
+13,Oda,Maas,1941-01-31
+14,Igor,van Leeuwen,1947-07-14
+15,Anna,de Boer,1937-05-20
+16,Victor,Dijkstra,1946-11-13
+17,Sandra,Meijer,1940-02-17
+18,Nathalie,Dijkstra,1940-12-08
+19,Griet,Bakker,1936-09-29
+20,Ruud,Janssen,1943-10-28
+21,Xandra,Smits,1938-03-08
+22,Jorn,Hendriks,1944-02-15
+23,Henk,Schouten,1946-07-05
+24,Ferdinand,Visser,1950-10-08
+25,Zoe,Bakker,1939-03-14
+26,Truus,Kuipers,1944-03-19
+27,Kurt,de Graaf,1942-10-29
+28,Maria,van Dijk,1936-06-07
+29,Henk,Timmermans,1946-08-29
+30,Oda,Dekker,1945-04-15
+31,Gerrit,Vos,1948-09-06
+32,Johan,van der Berg,1939-06-09
+33,Jaap,Schouten,1939-08-28
+34,Yvonne,de Boer,1949-01-12
+35,Paul,Smits,1941-05-14
+36,Nathalie,Timmermans,1944-03-11
+37,Sandra,Huisman,1947-10-02
+38,Willem,Peeters,1940-11-27
+39,Bert,Willems,1941-01-17
+40,Herman,de Boer,1945-02-28
+41,Arnold,van der Berg,1940-08-02
+42,Sandra,Kuipers,1949-10-08
+43,Oda,Evers,1947-08-31
+44,Martin,van den Berg,1941-08-18
+45,Oda,de Vries,1948-04-29
+46,Vera,Linden,1939-01-20
+47,Sandra,van Dijk,1938-11-11
+48,Nathalie,Knol,1939-07-15
+49,Vera,Bos,1946-01-10
+50,Gerda,Linden,1949-04-06
+51,Emma,Meijer,1949-04-25
+52,Roos,Smit,1949-06-18
+53,Herman,Postma,1944-11-25
+54,Judith,Hendriks,1947-03-24
+55,Corine,Hermans,1949-07-27
+56,Sjoerd,de Graaf,1937-08-29
+57,Oda,Smit,1936-05-23
+58,David,Koster,1943-07-28
+59,Gerrit,van den Berg,1936-07-03
+60,Hilde,Meijer,1951-03-13
+61,Karin,Evers,1938-09-23
+62,Victor,Peeters,1941-02-13
+63,Willem,van der Berg,1937-03-30
+64,Zoe,Peeters,1942-11-02
+65,Arnold,van der Meer,1949-08-22
+66,Roos,Postma,1944-11-23
+67,Jan,Evers,1939-09-18
+68,Hilde,Evers,1938-07-18
+69,Ferdinand,van Leeuwen,1950-11-22
+70,Nico,Visser,1940-02-03
+71,Karel,Hoekstra,1938-05-05
+72,Karin,Schouten,1938-03-07
+73,Anna,Hendriks,1945-09-15
+74,Hanneke,Mulder,1937-11-06
+75,Hanneke,Janssen,1949-09-21
+76,Ursula,Kuipers,1939-02-08
+77,David,Peeters,1945-07-27
+78,Maria,Meijer,1937-11-11
+79,Yvonne,de Boer,1945-05-12
+80,Ferdinand,van der Meer,1938-09-05
+81,Jan,Peeters,1943-12-17
+82,Martin,Koster,1944-06-23
+83,Pieter,Visser,1939-05-15
+84,Yvonne,Brouwer,1937-03-20
+85,Petra,van den Berg,1942-05-16
+86,Herman,Knol,1937-10-29
+87,Gerrit,Bakker,1939-02-11
+88,Gerda,van Dijk,1944-09-16
+89,Ferdinand,Smit,1943-11-16
+90,Irene,Timmermans,1942-08-25
+91,Francien,Postma,1946-02-08
+92,Karin,Hendriks,1948-12-02
+93,Ineke,Peeters,1944-08-14
+94,Corine,Bos,1946-04-01
+95,Judith,Huisman,1944-12-16
+96,Eduard,Brouwer,1939-12-26
+97,Anke,Timmermans,1943-04-03
+98,Yvonne,Maas,1950-03-22
+99,Evert,Maas,1937-02-26
+100,Hans,Peters,1944-11-13
+101,Gert,van Dijk,1947-01-04
+102,Nico,Jansen,1948-07-11
+103,Igor,Postma,1942-09-09
+104,Oda,Hermans,1938-12-27
+105,Oda,de Jong,1946-01-15
+106,Els,Kuipers,1937-08-31
+107,Dora,Vos,1940-03-25
+108,Els,de Vries,1950-12-10
+109,Nico,van Dijk,1950-06-01
+110,Hanneke,Peters,1949-07-19
+111,Sandra,Timmermans,1945-02-27
+112,Gerda,Bos,1941-11-30
+113,Ferdinand,Smit,1939-05-05
+114,Francien,Peters,1942-06-05
+115,Bas,Prins,1950-10-05
+116,Maria,Janssen,1945-12-09
+117,Griet,Timmermans,1945-10-12
+118,Corine,Smits,1944-02-28
+119,Victor,Prins,1942-07-21
+120,Emma,van den Berg,1949-01-08
+121,Johan,van den Berg,1948-11-09
+122,Anke,Dijkstra,1941-08-07
+123,Griet,Peters,1949-08-03
+124,Eduard,de Groot,1945-12-05
+125,Ferdinand,Maas,1946-03-05
+126,Maarten,Hoekstra,1949-07-02
+127,Dick,van Leeuwen,1942-08-10
+128,Arnold,Peters,1950-08-19
+129,Willem,Maas,1940-12-07
+130,Guus,Janssen,1946-05-16
+131,Kees,Wolff,1944-06-14
+132,Ferdinand,de Jong,1940-03-13
+133,Gerrit,Peters,1940-11-01
+134,Bert,Prins,1945-08-22
+135,Gerda,Bosman,1940-09-17
+136,Frans,Linden,1948-09-24
+137,Kees,de Boer,1941-06-02
+138,Zoe,de Jong,1943-01-26
+139,Ruud,Hendriks,1942-12-16
+140,Emma,Dekker,1941-12-12
+141,Corine,Huisman,1944-12-21
+142,Guus,Timmermans,1950-11-22
+143,Gerda,Meijer,1945-06-14
+144,Eduard,Dekker,1940-03-11
+145,Frans,van den Berg,1938-07-28
+146,Judith,van den Berg,1943-05-14
+147,Vera,van den Berg,1937-05-03
+148,Dora,Hermans,1946-11-25
+149,Bas,Schipper,1949-08-04
+150,Evert,de Boer,1949-06-14
+151,Kees,Schipper,1936-11-27
+152,Femke,Mulder,1937-07-06
+153,Willem,Peeters,1950-12-13
+154,Els,Evers,1948-02-06
+155,Herman,Linden,1943-06-07
+156,Hilde,Knol,1939-06-27
+157,Herman,Hermans,1945-04-27
+158,Carla,Verhoeven,1950-04-08
+159,Gerrit,Prins,1938-01-04
+160,Ineke,de Wit,1941-05-17
+161,Ivo,Bos,1944-07-15
+162,Martin,Peters,1944-09-17
+163,Roos,Linden,1944-05-19
+164,Maarten,Timmermans,1943-08-08
+165,Leo,Schouten,1938-05-02
+166,Vera,van Dijk,1943-06-17
+167,Anna,Schouten,1943-11-25
+168,Kurt,Knol,1948-12-30
+169,Griet,van Dijk,1950-12-20
+170,Judith,Bos,1945-10-10
+171,Hanneke,Hendriks,1941-01-09
+172,Maarten,Smits,1938-12-08
+173,Els,Peters,1942-03-02
+174,Paul,Dekker,1945-05-16
+175,Bert,Maas,1948-07-19
+176,Ferdinand,Brouwer,1946-10-07
+177,Kurt,Wolff,1948-06-07
+178,Ineke,de Jong,1940-12-05
+179,Guus,Brouwer,1937-05-05
+180,Griet,Smit,1947-04-30
+181,Roos,Visser,1939-05-14
+182,Griet,Postma,1948-01-13
+183,Joke,van Leeuwen,1945-09-01
+184,Karel,Peeters,1950-05-06
+185,Frans,Dijkstra,1943-09-09
+186,Nathalie,Evers,1936-11-26
+187,Roos,Schipper,1940-11-13
+188,Chris,Hendriks,1950-08-27
+189,Dora,Bakker,1950-09-19
+190,Corine,van Leeuwen,1950-03-23
+191,Carla,de Jong,1942-03-07
+192,Nico,Smit,1942-07-12
+193,Ivo,de Boer,1947-06-21
+194,Daphne,Postma,1949-05-11
+195,Corine,Postma,1942-11-10
+196,Jan,Visser,1937-01-26
+197,Willem,Huisman,1940-08-19
+198,Joke,Willems,1937-01-21
+199,Henk,de Graaf,1940-01-06
+200,Joke,Hoekstra,1941-11-20
+201,Irene,de Vries,1947-12-25
+202,Leo,de Graaf,1939-11-16
+203,Carla,Smits,1950-08-23
+204,Frans,Evers,1947-04-14
+205,Petra,Timmermans,1940-05-11
+206,Griet,Smits,1946-10-08
+207,Guus,Prins,1939-05-10
+208,Joke,Peters,1944-11-19
+209,Bert,Mulder,1945-01-23
+210,Brigitte,Jansen,1945-08-07
+211,Laura,Dijkstra,1944-03-21
+212,Brigitte,Timmermans,1948-04-16
+213,Herman,van Leeuwen,1949-06-07
+214,Karin,Huisman,1949-05-08
+215,Johan,van der Berg,1947-04-02
+216,Carla,Bosman,1947-03-23
+217,Gert,de Groot,1949-07-07
+218,Emma,Smits,1938-03-08
+219,Leo,Vos,1937-06-22
+220,Gert,Jansen,1942-06-15
+221,Eduard,Linden,1938-02-27
+222,Nico,van Leeuwen,1944-08-09
+223,Willem,van Leeuwen,1946-08-02
+224,Otto,Wolff,1937-03-01
+225,Hanneke,Linden,1945-09-19
+226,Judith,Dijkstra,1948-07-30
+227,Pieter,Visser,1938-09-03
+228,Ivo,Mulder,1950-03-02
+229,Igor,Hendriks,1941-08-17
+230,Carla,Janssen,1937-12-10
+231,Corine,Smits,1946-11-21
+232,Vera,Hoekstra,1940-01-11
+233,Jorn,Schipper,1946-03-06
+234,Hilde,van der Berg,1950-01-03
+235,Maria,Hendriks,1945-04-17
+236,Carla,Hoekstra,1940-07-14
+237,Anna,van der Meer,1938-07-23
+238,Judith,Evers,1951-03-29
+239,Maria,de Graaf,1949-05-12
+240,Victor,van Dijk,1943-11-25
+241,Wies,Verhoeven,1946-05-03
+242,Vera,Timmermans,1942-05-16
+243,Hilde,Brouwer,1943-12-27
+244,Hanneke,Brouwer,1941-11-26
+245,Brigitte,de Wit,1948-06-01
+246,Anke,Huisman,1936-12-11
+247,Karel,Postma,1937-12-11
+248,Irene,de Groot,1945-01-31
+249,Theo,Timmermans,1946-01-16
+250,Ruud,Evers,1940-11-28
+251,Dick,Verhoeven,1938-07-21
+252,Ursula,Linden,1939-05-07
+253,Anna,Brouwer,1949-03-20
+254,Truus,Bos,1950-10-27
+255,Corine,Hermans,1946-02-08
+256,Jorn,Wolff,1940-03-04
+257,Vera,Schouten,1937-04-25
+258,Daphne,Maas,1940-02-21
+259,Frans,Schipper,1937-05-06
+260,Bas,de Boer,1939-05-09
+261,Femke,Dekker,1948-07-03
+262,Hanneke,Timmermans,1938-09-28
+263,Wies,Bakker,1946-08-15
+264,Petra,Evers,1939-10-03
+265,Ursula,Vos,1942-06-18
+266,Maria,Meijer,1948-11-19
+267,Bea,de Vries,1939-02-16
+268,Petra,Bosman,1947-08-22
+269,Els,Schouten,1944-06-24
+270,Brigitte,Kuipers,1939-02-26
+271,Maria,Huisman,1951-04-05
+272,Ruud,Koster,1943-05-11
+273,Sjoerd,Peters,1947-08-27
+274,Joke,Wolff,1947-01-02
+275,Anna,Janssen,1943-01-21
+276,Corine,Vos,1936-11-23
+277,Dick,Huisman,1949-03-02
+278,Evert,Schouten,1950-10-20
+279,Dora,Postma,1938-08-22
+280,Herman,Visser,1946-06-23
+281,Emma,Smit,1940-11-15
+282,Emma,Timmermans,1942-01-31
+283,Evert,Postma,1941-08-09
+284,Jorn,de Wit,1947-05-11
+285,Wim,Verhoeven,1945-12-06
+286,David,Hoekstra,1950-06-21
+287,Daphne,de Boer,1941-03-10
+288,Bas,Maas,1950-03-05
+289,Roos,Peters,1951-07-08
+290,Jaap,van der Meer,1951-05-12
+291,Gerda,Kuipers,1941-01-03
+292,Herman,van Leeuwen,1951-07-07
+293,Daphne,van Dijk,1943-03-09
+294,Karel,Peters,1949-08-30
+295,Sandra,Dijkstra,1944-09-01
+296,Martin,Willems,1939-02-03
+297,Femke,Smit,1945-01-17
+298,Joke,Vos,1946-04-13
+299,Zoe,Huisman,1950-05-09
+300,Joke,Bos,1938-09-01
+301,Willem,Prins,1940-03-09
+302,Brigitte,Dijkstra,1937-07-18
+303,Ferdinand,Schouten,1939-03-15
+304,Brigitte,van den Berg,1947-02-04
+305,Nathalie,Prins,1948-05-02
+306,Ruud,Hermans,1950-06-17
+307,Pieter,Knol,1949-09-02
+308,Zoe,Bosman,1937-11-07
+309,Anna,Smits,1939-04-14
+310,Leo,van der Berg,1942-04-12
+311,Brigitte,Willems,1949-07-10
+312,Ferdinand,Peeters,1948-06-09
+313,Gert,Koster,1937-03-23
+314,Gert,van Leeuwen,1941-05-06
+315,Corine,Koster,1945-09-12
+316,Pieter,van der Berg,1938-09-10
+317,Wies,Timmermans,1943-01-11
+318,Anke,de Boer,1937-12-30
+319,Emma,Smit,1937-06-17
+320,Judith,Jansen,1949-03-07
+321,Sjoerd,Hermans,1944-11-26
+322,Harold,Timmermans,1944-01-21
+323,Pieter,Bakker,1940-03-28
+324,Corine,Smit,1941-01-04
+325,Emma,Mulder,1943-05-16
+326,Dora,Hendriks,1938-02-07
+327,Ruud,de Wit,1940-12-17
+328,Nathalie,Schouten,1950-05-14
+329,Martin,Dijkstra,1946-07-03
+330,Zoe,van Leeuwen,1937-02-25
+331,Brigitte,Hendriks,1951-10-03
+332,Gerrit,Bosman,1937-12-28
+333,Bea,Willems,1940-06-05
+334,Kees,Smits,1950-06-24
+335,Gert,Wolff,1945-08-19
+336,Els,Wolff,1941-01-22
+337,Carla,Jansen,1937-05-26
+338,Petra,de Groot,1937-09-17
+339,Pieter,Verhoeven,1947-02-05
+340,Joke,Peters,1942-06-18
+341,Maarten,Bosman,1948-10-29
+342,Hans,Knol,1945-07-01
+343,Frans,Schouten,1944-11-14
+344,Roos,de Graaf,1941-04-24
+345,Bert,Peeters,1942-04-08
+346,Jorn,Visser,1938-12-20
+347,Karin,Brouwer,1949-03-10
+348,Griet,Hermans,1946-09-29
+349,Pieter,Brouwer,1944-05-27
+350,Zoe,Linden,1942-09-14
+351,Eduard,van Dijk,1937-03-11
+352,Petra,Janssen,1944-08-13
+353,Ursula,Evers,1942-01-31
+354,Jorn,Visser,1946-11-10
+355,Carla,Smits,1944-07-07
+356,Judith,Hoekstra,1942-01-16
+357,Paul,van Dijk,1943-12-03
+358,Hanneke,Wolff,1939-09-12
+359,Wies,de Jong,1940-03-18
+360,Brigitte,Koster,1939-08-17
+361,Johan,Hoekstra,1948-02-27
+362,Paul,Kuipers,1945-05-25
+363,Emma,Meijer,1949-03-21
+364,Victor,Mulder,1942-01-23
+365,Ineke,Wolff,1940-01-18
+366,Sandra,Verhoeven,1940-12-21
+367,Ferdinand,Bosman,1951-12-30
+368,Arnold,Hoekstra,1948-10-30
+369,Igor,van Leeuwen,1939-10-28
+370,Martin,Peters,1946-12-09
+371,Femke,van Leeuwen,1939-07-13
+372,Wim,Peters,1938-09-03
+373,Emma,Knol,1938-09-15
+374,Zoe,Dijkstra,1941-12-28
+375,Bea,Koster,1946-05-03
+376,Vera,Mulder,1943-11-16
+377,Gerda,Bos,1944-10-19
+378,Xandra,Hendriks,1940-01-04
+379,Wies,van Leeuwen,1952-01-04
+380,Sandra,Postma,1947-07-05
+381,Anna,van der Meer,1939-09-18
+382,Maria,Bakker,1939-04-05
+383,Petra,Prins,1940-04-03
+384,Chris,Postma,1940-11-09
+385,Herman,Huisman,1948-05-26
+386,Bas,Wolff,1948-11-12
+387,Gerda,Maas,1946-08-03
+388,Pieter,Bakker,1943-07-01
+389,Truus,Vos,1946-02-25
+390,Anke,Huisman,1950-04-30
+391,Petra,Brouwer,1949-12-31
+392,Igor,de Graaf,1940-05-26
+393,Francien,Postma,1947-04-26
+394,Ineke,Smits,1941-05-10
+395,Corine,Postma,1949-10-07
+396,Nico,Smits,1951-12-17
+397,Arnold,van Leeuwen,1943-11-23
+398,Ursula,Hendriks,1948-11-25
+399,Oda,Visser,1938-08-27
+400,Maria,de Wit,1949-09-11
+401,Hans,Willems,1949-06-08
+402,Laura,de Groot,1937-09-21
+403,Frans,Bosman,1938-01-16
+404,Sandra,Hermans,1945-09-07
+405,Evert,Peeters,1940-03-17
+406,Truus,Janssen,1948-03-03
+407,Maria,Dekker,1949-07-25
+408,Oda,de Graaf,1943-01-11
+409,Laura,Brouwer,1947-10-28
+410,Anna,Willems,1943-04-12
+411,Maarten,van Leeuwen,1940-12-12
+412,Carla,van den Berg,1937-09-25
+413,Guus,Dekker,1940-08-01
+414,Maarten,Kuipers,1945-08-28
+415,Gerda,Janssen,1941-03-10
+416,Jan,Knol,1949-01-07
+417,Karel,Bosman,1949-03-30
+418,Francien,Maas,1948-07-14
+419,Nico,Mulder,1951-09-10
+420,Dora,Hendriks,1950-02-13
+421,Francien,Visser,1949-12-09
+422,Willem,Linden,1952-01-07
+423,Gerda,van Dijk,1947-01-10
+424,Dora,Meijer,1949-10-04
+425,Joke,Knol,1939-07-04
+426,Leo,Bakker,1941-12-16
+427,Herman,Visser,1951-08-02
+428,Brigitte,Peeters,1938-07-06
+429,Jorn,Verhoeven,1939-01-07
+430,Gert,van der Meer,1941-07-28
+431,Zoe,Maas,1951-05-26
+432,Daphne,Brouwer,1948-02-10
+433,Igor,Hoekstra,1950-05-22
+434,Leo,Knol,1940-07-19
+435,Kurt,van den Berg,1945-05-24
+436,Griet,Bos,1941-03-23
+437,Nathalie,Hendriks,1946-01-09
+438,Femke,de Boer,1950-04-11
+439,Petra,Mulder,1951-06-28
+440,Els,de Boer,1938-04-02
+441,Jan,Prins,1941-06-01
+442,Daphne,Huisman,1952-01-09
+443,Jorn,Bosman,1940-05-28
+444,Truus,de Vries,1940-09-01
+445,Oda,Dekker,1940-02-29
+446,Truus,Huisman,1940-10-09
+447,Emma,van Dijk,1952-01-19
+448,Oda,Hendriks,1938-04-06
+449,Igor,Timmermans,1943-01-06
+450,Eduard,Hoekstra,1947-09-20
+451,Hilde,Willems,1944-06-03
+452,Oda,Wolff,1943-08-08
+453,Anton,van Leeuwen,1945-09-05
+454,Joke,van Dijk,1948-05-23
+455,Dora,de Boer,1947-06-23
+456,Ursula,Peeters,1946-01-29
+457,Harold,Dekker,1945-11-25
+458,Daphne,Visser,1940-11-01
+459,Emma,Huisman,1949-03-31
+460,Leo,Huisman,1947-01-18
+461,Anke,van Leeuwen,1945-06-05
+462,Hanneke,Willems,1950-03-17
+463,Gerda,Maas,1944-10-29
+464,Gerrit,Peeters,1944-10-28
+465,Carla,Hoekstra,1940-02-20
+466,Martin,Peeters,1937-08-03
+467,Ivo,Jansen,1951-03-01
+468,Femke,Vos,1951-10-26
+469,Harold,Hermans,1938-07-15
+470,Bea,Evers,1944-03-11
+471,Sandra,Knol,1937-10-11
+472,Carla,Mulder,1951-06-28
+473,Francien,van der Meer,1942-05-28
+474,Daphne,van Leeuwen,1950-08-29
+475,Laura,Hermans,1938-07-07
+476,Corine,Kuipers,1938-12-10
+477,Chris,Bakker,1944-12-04
+478,Francien,Smits,1942-04-06
+479,Theo,Dijkstra,1942-04-23
+480,Vera,Timmermans,1941-03-04
+481,Griet,de Boer,1943-08-01
+482,Wies,Prins,1950-10-07
+483,Gerda,Dekker,1944-02-22
+484,Anke,Postma,1944-09-08
+485,Henk,Schouten,1942-06-29
+486,Gerrit,de Wit,1944-12-22
+487,Ivo,de Wit,1941-08-13
+488,Hilde,Linden,1940-06-06
+489,David,de Jong,1940-02-01
+490,Judith,Schouten,1946-12-16
+491,Brigitte,van den Berg,1940-12-24
+492,Eduard,van der Meer,1944-11-24
+493,Paul,Verhoeven,1943-09-05
+494,Gerda,Kuipers,1947-05-24
+495,Daphne,van den Berg,1946-08-20
+496,Nathalie,van Leeuwen,1946-09-15
+497,Guus,Smit,1945-10-20
+498,Truus,Maas,1938-07-24
+499,Chris,Visser,1948-11-23
+500,Bea,Kuipers,1943-06-03
+501,Petra,de Boer,1939-12-13
+502,Ursula,Postma,1949-04-10
+503,Anna,Postma,1942-04-20
+504,Brigitte,Bakker,1943-11-10
+505,Gert,Visser,1950-12-02
+506,Arnold,Visser,1944-10-25
+507,Anton,Koster,1951-08-12
+508,Karel,Schipper,1944-07-12
+509,Jaap,Prins,1947-01-26
+510,Francien,Bosman,1938-04-19
+511,Herman,Schouten,1947-12-17
+512,Joke,van der Berg,1943-02-06
+513,Maria,Peeters,1940-04-20
+514,Hanneke,Smit,1942-09-18
+515,Els,van Leeuwen,1942-04-13
+516,Brigitte,Dijkstra,1938-01-21
+517,David,van Leeuwen,1946-10-07
+518,Anna,Dekker,1937-09-23
+519,Ursula,Hermans,1937-12-15
+520,Gerda,Meijer,1942-03-07
+521,Daphne,Willems,1949-06-10
+522,Francien,Smits,1941-07-07
+523,Wies,Postma,1948-01-17
+524,Judith,van der Berg,1942-06-06
+525,Emma,de Wit,1938-03-20
+526,Eduard,Huisman,1943-03-14
+527,Herman,Knol,1937-09-18
+528,Zoe,Vos,1943-08-12
+529,Brigitte,de Vries,1945-04-05
+530,Vera,Bosman,1948-12-14
+531,Ruud,van der Berg,1942-08-16
+532,Joke,Koster,1941-11-13
+533,Carla,Smit,1942-05-22
+534,David,Hermans,1945-10-05
+535,Wies,Janssen,1951-01-16
+536,Daphne,Janssen,1947-12-15
+537,Ineke,Schouten,1950-02-19
+538,Jan,Meijer,1940-12-04
+539,Theo,Wolff,1941-07-16
+540,Anton,van Dijk,1937-08-10
+541,Francien,Hendriks,1945-07-27
+542,Wies,Verhoeven,1941-01-27
+543,Sjoerd,Wolff,1946-11-18
+544,Gerrit,Dijkstra,1945-08-11
+545,Judith,van der Berg,1949-11-09
+546,Martin,Kuipers,1946-07-25
+547,Gerda,Willems,1946-04-16
+548,Carla,Verhoeven,1948-08-04
+549,Willem,Peters,1946-02-16
+550,Truus,Vos,1949-02-20
+551,Gerrit,Hoekstra,1945-05-19
+552,Griet,Kuipers,1950-11-09
+553,Griet,Maas,1944-09-24
+554,Bert,Huisman,1945-07-10
+555,Leo,Jansen,1944-03-31
+556,Carla,de Wit,1947-03-23
+557,Dora,Dekker,1938-06-26
+558,Otto,de Graaf,1951-06-05
+559,Corine,Meijer,1945-12-12
+560,Herman,van der Meer,1938-02-18
+561,Theo,Knol,1939-11-06
+562,Laura,de Boer,1942-10-11
+563,Laura,Bakker,1951-09-04
+564,Zoe,Verhoeven,1943-07-28
+565,Herman,Koster,1941-05-05
+566,Joke,Vos,1946-05-31
+567,Emma,Kuipers,1944-01-15
+568,Roos,Schouten,1951-08-04
+569,Roos,Timmermans,1949-04-12
+570,Anna,Schouten,1948-07-09
+571,Truus,Evers,1950-02-24
+572,Ferdinand,de Boer,1944-09-20
+573,Willem,Maas,1950-10-03
+574,Otto,Hermans,1937-10-21
+575,Ursula,Kuipers,1944-02-19
+576,Corine,Huisman,1946-07-27
+577,Ivo,Schouten,1947-04-10
+578,Ursula,de Groot,1944-12-05
+579,Ruud,Bosman,1952-07-30
+580,Johan,Peters,1944-05-08
+581,Zoe,Knol,1945-02-20
+582,Otto,Knol,1950-11-20
+583,Karel,Huisman,1946-11-23
+584,Truus,Jansen,1941-10-05
+585,Anke,van Leeuwen,1952-01-18
+586,Anna,Knol,1952-02-09
+587,Dora,Peeters,1945-12-11
+588,Gerda,Dekker,1948-09-16
+589,Oda,Peeters,1941-04-20
+590,Otto,Vos,1942-08-15
+591,Maria,Verhoeven,1952-01-30
+592,Roos,Evers,1952-06-06
+593,Maarten,Kuipers,1949-05-28
+594,Griet,Kuipers,1946-12-07
+595,Henk,Brouwer,1939-06-19
+596,Daphne,de Vries,1944-07-15
+597,Yvonne,Smit,1938-11-12
+598,Femke,Dekker,1946-03-13
+599,Martin,Prins,1940-03-15
+600,Laura,de Groot,1949-12-18
+601,Maarten,Willems,1944-05-30
+602,Yvonne,van der Meer,1943-10-16
+603,Hanneke,van Leeuwen,1938-04-13
+604,Karin,Hendriks,1947-09-02
+605,Bas,Dekker,1947-05-24
+606,Nico,Visser,1942-01-05
+607,Emma,van Dijk,1939-01-21
+608,Joke,Vos,1941-03-06
+609,Anke,Postma,1940-09-14
+610,Yvonne,Bakker,1943-06-29
+611,Anke,de Jong,1948-04-14
+612,Ivo,Willems,1944-11-30
+613,Hans,Schouten,1951-11-23
+614,Yvonne,Evers,1943-04-07
+615,Roos,Hermans,1941-03-02
+616,Ruud,Kuipers,1940-10-12
+617,Paul,Janssen,1941-11-05
+618,Oda,Bosman,1938-09-05
+619,Bea,Verhoeven,1943-04-17
+620,Vera,Verhoeven,1950-01-19
+621,Oda,Wolff,1943-08-03
+622,Els,Kuipers,1941-08-21
+623,Emma,Huisman,1940-04-23
+624,Leo,Wolff,1942-01-26
+625,Brigitte,Visser,1942-11-20
+626,Irene,de Vries,1948-10-09
+627,Carla,Brouwer,1939-11-04
+628,Chris,Visser,1939-12-17
+629,Johan,Peters,1944-08-21
+630,Judith,Smit,1950-09-16
+631,Zoe,Schouten,1942-04-16
+632,Paul,Timmermans,1949-04-30
+633,Judith,Prins,1939-08-11
+634,Joke,Prins,1946-06-10
+635,Griet,Koster,1947-03-01
+636,Brigitte,van Leeuwen,1940-09-01
+637,Carla,Huisman,1939-10-20
+638,Paul,Bos,1938-05-05
+639,Wim,Maas,1942-03-16
+640,Petra,de Graaf,1944-12-31
+641,Johan,Evers,1945-03-07
+642,Yvonne,Willems,1943-10-20
+643,Xandra,van den Berg,1944-09-04
+644,Anke,van Leeuwen,1938-10-01
+645,Eduard,Visser,1944-11-04
+646,Emma,Bakker,1939-06-04
+647,Nathalie,Wolff,1938-06-06
+648,Jorn,Jansen,1941-03-30
+649,Kees,Dijkstra,1952-01-09
+650,Herman,Smit,1947-08-20
+651,Nathalie,van Dijk,1943-02-24
+652,Nathalie,Hermans,1942-05-30
+653,Nathalie,Vos,1947-03-25
+654,Wies,Meijer,1942-06-03
+655,Jorn,de Jong,1946-03-16
+656,Sandra,Meijer,1950-09-03
+657,Irene,Willems,1947-01-17
+658,Ivo,Mulder,1944-04-25
+659,Hilde,Timmermans,1939-09-29
+660,Bea,Smit,1940-02-12
+661,Jan,Smits,1952-08-14
+662,Herman,Hermans,1947-12-02
+663,Martin,Jansen,1937-11-26
+664,Laura,Hendriks,1942-11-10
+665,Dora,Smit,1947-03-25
+666,Theo,van der Meer,1944-07-31
+667,Hilde,van Dijk,1949-12-03
+668,Francien,Maas,1942-06-21
+669,Paul,Schipper,1942-02-06
+670,Griet,Maas,1944-10-29
+671,David,Vos,1945-09-11
+672,Carla,Timmermans,1947-09-14
+673,Ineke,Brouwer,1940-06-01
+674,Emma,Wolff,1947-06-15
+675,Pieter,van den Berg,1947-12-16
+676,Francien,Linden,1941-06-18
+677,Corine,Evers,1952-01-14
+678,Johan,Koster,1946-10-08
+679,Wim,van Dijk,1952-05-20
+680,Gerrit,de Wit,1945-11-25
+681,Joke,van Dijk,1942-04-10
+682,Irene,van Leeuwen,1941-06-29
+683,Kurt,Kuipers,1942-12-18
+684,Igor,Postma,1952-06-16
+685,Vera,van der Berg,1945-04-11
+686,Ineke,Dekker,1946-07-08
+687,Arnold,Schipper,1941-09-23
+688,Corine,Janssen,1945-11-13
+689,Hans,Wolff,1949-06-07
+690,Nathalie,Hoekstra,1940-08-01
+691,Daphne,Vos,1942-08-07
+692,Theo,Dijkstra,1945-06-10
+693,Emma,Linden,1939-06-06
+694,Brigitte,Janssen,1938-12-27
+695,Vera,Hoekstra,1949-12-01
+696,Vera,Timmermans,1947-04-26
+697,Ivo,de Graaf,1946-12-15
+698,Anton,Evers,1938-06-06
+699,Bas,van Dijk,1952-12-14
+700,Femke,Bakker,1946-02-14
+701,Femke,Hoekstra,1939-02-17
+702,Griet,de Graaf,1947-10-11
+703,Maarten,Postma,1945-07-17
+704,Kees,Hermans,1950-04-08
+705,Guus,Postma,1945-10-09
+706,Wies,Timmermans,1949-12-17
+707,Hilde,Prins,1947-05-05
+708,Xandra,Timmermans,1944-10-07
+709,Corine,van den Berg,1944-07-29
+710,Truus,Peeters,1944-07-31
+711,Leo,Smits,1939-02-05
+712,Griet,Knol,1951-05-15
+713,Hanneke,Bos,1942-06-18
+714,Joke,Timmermans,1940-02-17
+715,Bas,Vos,1942-02-28
+716,Griet,Smits,1950-04-29
+717,Guus,de Graaf,1941-01-23
+718,Hans,van Leeuwen,1950-12-14
+719,Oda,Hoekstra,1949-06-05
+720,Guus,Verhoeven,1938-02-22
+721,Bea,Peeters,1947-06-29
+722,Sandra,Jansen,1939-03-14
+723,Dick,van Leeuwen,1947-10-12
+724,Ursula,Dijkstra,1938-10-07
+725,Otto,de Jong,1951-05-14
+726,Dick,Meijer,1950-04-21
+727,Harold,Timmermans,1947-08-31
+728,Anke,van Dijk,1952-08-19
+729,Joke,Kuipers,1949-09-21
+730,Bea,Bakker,1940-09-24
+731,Ineke,Bos,1952-04-29
+732,Zoe,Prins,1939-03-04
+733,Arnold,Dijkstra,1952-12-14
+734,Bert,de Graaf,1944-07-04
+735,Ursula,de Wit,1952-12-10
+736,Femke,van den Berg,1945-08-04
+737,Joke,de Boer,1946-12-30
+738,Dora,Evers,1939-11-23
+739,Femke,van Leeuwen,1953-01-18
+740,Daphne,Timmermans,1944-05-12
+741,Corine,Koster,1946-12-27
+742,Jorn,Maas,1945-10-13
+743,Brigitte,van Leeuwen,1941-03-07
+744,Nathalie,Schipper,1946-11-10
+745,Hilde,Smits,1950-07-03
+746,Corine,Visser,1943-08-02
+747,Truus,Evers,1949-09-06
+748,Igor,Koster,1945-06-01
+749,Ineke,Timmermans,1949-11-01
+750,Ursula,de Vries,1941-07-20
+751,Gert,Linden,1947-02-18
+752,Dora,de Jong,1938-09-15
+753,Nathalie,Brouwer,1949-01-30
+754,Nathalie,Smit,1949-09-22
+755,Ivo,Dekker,1943-09-20
+756,Vera,Visser,1938-08-31
+757,Anna,Koster,1949-09-21
+758,Victor,Mulder,1949-08-30
+759,Irene,van der Berg,1949-08-06
+760,Judith,Vos,1946-05-30
+761,Hanneke,Postma,1952-09-03
+762,Otto,van Dijk,1946-06-17
+763,Sjoerd,de Vries,1938-07-31
+764,Victor,Jansen,1938-12-16
+765,Arnold,van Dijk,1950-02-17
+766,Martin,Knol,1947-09-11
+767,Victor,Knol,1948-02-05
+768,Sjoerd,Kuipers,1949-09-07
+769,Brigitte,Dekker,1948-02-18
+770,Hilde,Linden,1938-04-13
+771,Bea,de Wit,1938-09-15
+772,Karin,Verhoeven,1947-07-20
+773,Arnold,Huisman,1940-12-18
+774,Yvonne,Bakker,1938-04-23
+775,Corine,Janssen,1952-02-05
+776,Petra,Hoekstra,1939-01-19
+777,Igor,Linden,1942-07-04
+778,Evert,Bakker,1947-04-30
+779,Anke,Brouwer,1943-11-05
+780,Wies,Vos,1942-12-21
+781,Wies,de Boer,1941-04-07
+782,Els,Schipper,1950-03-17
+783,Hilde,van der Meer,1947-09-18
+784,David,de Groot,1947-08-09
+785,Xandra,Smits,1952-12-13
+786,Joke,Peters,1938-12-11
+787,Griet,Meijer,1948-02-29
+788,Roos,de Groot,1951-03-11
+789,Laura,Peeters,1945-04-10
+790,Joke,Wolff,1942-03-24
+791,Els,Mulder,1947-10-07
+792,Chris,Schouten,1945-10-29
+793,Daphne,Evers,1949-04-09
+794,Vera,Kuipers,1941-04-18
+795,Vera,Meijer,1950-01-19
+796,Wim,van Dijk,1951-09-15
+797,Francien,Maas,1950-06-30
+798,Leo,van Leeuwen,1938-09-18
+799,Igor,van den Berg,1947-05-25
+800,Xandra,Schipper,1952-03-16
+801,Willem,Brouwer,1951-12-28
+802,Arnold,Maas,1941-08-24
+803,Carla,van den Berg,1947-12-17
+804,Paul,Dekker,1952-05-24
+805,Els,Wolff,1952-12-29
+806,Femke,Verhoeven,1946-04-26
+807,Jorn,Schipper,1944-04-22
+808,Ruud,Schouten,1944-03-14
+809,Igor,Postma,1943-02-23
+810,Carla,Maas,1946-06-02
+811,Maria,de Wit,1950-09-26
+812,Francien,Schipper,1944-08-24
+813,Joke,van den Berg,1949-04-14
+814,Daphne,Janssen,1939-12-15
+815,Wies,Bakker,1949-08-22
+816,Hanneke,Wolff,1941-04-30
+817,Laura,de Vries,1950-03-08
+818,Petra,Maas,1953-02-12
+819,Wim,van der Meer,1948-08-27
+820,Evert,Verhoeven,1951-02-06
+821,Karin,de Graaf,1943-06-29
+822,Paul,Dekker,1942-01-05
+823,Ruud,Prins,1952-09-20
+824,Nico,Evers,1939-01-30
+825,Dora,Kuipers,1943-12-22
+826,Wies,van Dijk,1944-01-02
+827,Nico,Janssen,1946-02-27
+828,Zoe,Dekker,1953-02-21
+829,Ivo,Timmermans,1946-10-17
+830,Jorn,Meijer,1949-04-01
+831,Nico,Bakker,1940-04-05
+832,Joke,Smits,1948-05-31
+833,Ursula,Wolff,1940-01-08
+834,Anke,Smit,1941-08-14
+835,Jorn,Bakker,1953-02-09
+836,Ursula,Postma,1939-03-26
+837,Zoe,Wolff,1950-10-04
+838,Wies,Smit,1941-08-21
+839,Ineke,Bakker,1952-03-19
+840,Corine,Schipper,1944-03-03
+841,Yvonne,Jansen,1946-12-26
+842,Paul,Brouwer,1946-05-12
+843,Laura,Bos,1942-12-01
+844,Nico,Koster,1948-08-17
+845,Eduard,Vos,1949-11-28
+846,Maarten,Meijer,1950-05-26
+847,Willem,Dekker,1949-09-09
+848,Griet,Schipper,1951-01-29
+849,Judith,van der Meer,1943-04-29
+850,Henk,Timmermans,1949-09-21
+851,Wies,Verhoeven,1943-08-10
+852,Irene,Peeters,1943-03-31
+853,Zoe,Meijer,1939-11-03
+854,Bert,Mulder,1947-12-30
+855,Karin,Maas,1948-05-31
+856,Carla,Prins,1953-02-03
+857,Yvonne,Evers,1938-11-26
+858,Herman,Maas,1942-10-15
+859,Truus,Maas,1945-02-23
+860,Gert,Willems,1952-10-08
+861,Petra,Brouwer,1944-08-23
+862,Bas,de Groot,1951-11-06
+863,Yvonne,Evers,1951-07-01
+864,Harold,Maas,1953-04-03
+865,Emma,Dekker,1948-08-25
+866,Zoe,Schipper,1953-06-07
+867,Evert,Prins,1947-04-26
+868,Bert,de Groot,1944-09-05
+869,Jorn,Smit,1948-10-02
+870,Ivo,van den Berg,1944-10-31
+871,Francien,de Graaf,1947-08-02
+872,Guus,Janssen,1951-06-27
+873,Ineke,Visser,1945-01-26
+874,Karel,Bakker,1946-08-14
+875,Karin,van Leeuwen,1953-01-30
+876,Daphne,Schipper,1951-10-18
+877,Joke,Hoekstra,1942-11-16
+878,Femke,Vos,1938-07-23
+879,Daphne,Smits,1946-06-30
+880,Bea,Prins,1941-02-09
+881,Dora,Linden,1943-10-14
+882,Hanneke,de Graaf,1951-12-30
+883,Petra,van der Berg,1952-06-07
+884,Femke,de Graaf,1951-01-31
+885,Oda,Jansen,1951-05-27
+886,Vera,Janssen,1947-01-22
+887,Nico,Meijer,1950-07-23
+888,Maarten,de Vries,1940-01-26
+889,Truus,Bosman,1953-02-18
+890,Maarten,Bosman,1945-08-15
+891,Wim,Verhoeven,1939-09-23
+892,Anna,Bakker,1943-08-13
+893,Pieter,Hendriks,1948-05-22
+894,Nathalie,Meijer,1945-04-08
+895,Ineke,Hoekstra,1944-01-07
+896,Hilde,Dekker,1951-12-22
+897,Petra,Brouwer,1940-12-10
+898,Hans,van den Berg,1943-03-30
+899,Petra,Prins,1942-02-25
+900,Emma,van Dijk,1947-08-25
+901,Hilde,Koster,1940-07-23
+902,Jorn,Willems,1943-02-15
+903,Pieter,Kuipers,1939-12-21
+904,David,Knol,1952-02-10
+905,Petra,Meijer,1947-01-18
+906,Truus,Hoekstra,1939-06-19
+907,Anna,Verhoeven,1952-01-30
+908,Xandra,Peters,1949-02-27
+909,Brigitte,Mulder,1939-11-05
+910,Femke,van der Meer,1938-11-27
+911,Yvonne,van Dijk,1938-12-25
+912,Evert,Willems,1945-04-21
+913,David,Schipper,1940-11-16
+914,Bea,van der Berg,1948-06-17
+915,Francien,de Vries,1950-02-11
+916,Zoe,de Graaf,1947-03-27
+917,Ivo,Jansen,1947-03-18
+918,Otto,van Dijk,1941-05-17
+919,Otto,Peters,1951-01-26
+920,Griet,Hermans,1952-04-13
+921,Nico,Smit,1941-06-20
+922,Carla,Smits,1942-10-09
+923,Ferdinand,Dijkstra,1950-01-05
+924,Dick,Evers,1945-08-25
+925,Arnold,Huisman,1953-03-16
+926,Francien,Kuipers,1940-08-11
+927,Dick,Smit,1948-01-11
+928,Els,Schouten,1949-02-18
+929,Carla,Dekker,1952-08-07
+930,Maria,de Vries,1941-10-07
+931,Maria,de Vries,1951-12-23
+932,Vera,Brouwer,1942-10-14
+933,Hanneke,Linden,1938-12-07
+934,Judith,Bosman,1952-11-27
+935,Roos,de Vries,1941-08-26
+936,Maria,Dekker,1939-06-11
+937,Xandra,van den Berg,1944-01-02
+938,Wies,van Leeuwen,1945-05-20
+939,Hilde,de Graaf,1940-01-06
+940,Corine,Linden,1953-04-07
+941,Wim,van der Berg,1953-02-07
+942,Wies,Mulder,1946-08-27
+943,Chris,Huisman,1949-07-23
+944,Gerda,de Graaf,1943-02-16
+945,Evert,van Leeuwen,1951-09-25
+946,Femke,Hoekstra,1941-07-10
+947,Femke,Hoekstra,1945-03-19
+948,Laura,Willems,1953-06-27
+949,Truus,de Wit,1951-09-04
+950,Johan,Bakker,1944-01-30
+951,Vera,Timmermans,1951-06-03
+952,Truus,Brouwer,1947-03-16
+953,Wim,Peeters,1942-02-25
+954,Corine,de Boer,1940-07-27
+955,Daphne,Smits,1950-10-19
+956,Daphne,de Vries,1951-12-18
+957,Xandra,Verhoeven,1949-05-13
+958,Victor,van Leeuwen,1949-10-24
+959,Kees,van Dijk,1939-08-11
+960,Sjoerd,de Graaf,1952-05-21
+961,David,Evers,1951-08-26
+962,Karin,Jansen,1939-09-16
+963,Joke,Peeters,1941-12-29
+964,Daphne,de Vries,1953-03-12
+965,Maarten,van Dijk,1949-11-26
+966,Herman,Wolff,1940-04-18
+967,Yvonne,de Graaf,1939-01-10
+968,Zoe,Knol,1943-06-14
+969,Henk,Peeters,1944-11-17
+970,Joke,Evers,1945-02-01
+971,Wim,de Graaf,1941-10-11
+972,Yvonne,Maas,1952-04-02
+973,Els,Knol,1947-07-15
+974,Irene,van der Meer,1944-12-31
+975,Paul,Linden,1941-06-05
+976,Vera,Wolff,1940-03-31
+977,Sandra,Peters,1942-05-15
+978,Hans,Jansen,1953-05-20
+979,Dick,Koster,1948-05-28
+980,Evert,van der Berg,1951-12-09
+981,Hilde,Hendriks,1940-07-27
+982,Ivo,Maas,1951-11-01
+983,Nathalie,Verhoeven,1945-06-27
+984,Truus,Huisman,1942-05-29
+985,Gerda,de Groot,1953-05-21
+986,Hilde,Smit,1945-04-10
+987,Willem,Maas,1943-09-06
+988,Laura,Maas,1944-11-03
+989,Femke,Evers,1952-04-09
+990,Martin,Timmermans,1939-04-21
+991,Otto,van Dijk,1946-12-04
+992,Guus,Willems,1947-07-29
+993,Truus,Brouwer,1951-03-13
+994,Bert,Huisman,1950-07-01
+995,Laura,de Graaf,1946-07-06
+996,David,Vos,1948-12-04
+997,Hilde,de Groot,1943-12-24
+998,Maarten,Peters,1946-07-27
+999,Gerda,Jansen,1940-05-07
+1000,Yvonne,Postma,1946-05-07
+1001,Yvonne,Schouten,1950-10-17
+1002,Irene,Verhoeven,1949-07-13
+1003,Femke,van Dijk,1950-11-01
+1004,Leo,Linden,1949-10-23
+1005,Francien,van der Meer,1946-02-11
+1006,Theo,Prins,1942-09-24
+1007,Els,Smit,1938-12-11
+1008,Vera,Wolff,1938-12-24
+1009,Willem,Maas,1942-09-17
+1010,Arnold,Evers,1952-09-26
+1011,Ineke,Smits,1953-10-03
+1012,Irene,Postma,1947-11-03
+1013,Igor,Mulder,1951-09-10
+1014,Irene,Hoekstra,1946-07-11
+1015,Hanneke,van den Berg,1948-03-14
+1016,Hans,van der Meer,1953-04-04
+1017,Joke,Brouwer,1952-10-27
+1018,Karin,de Boer,1948-07-14
+1019,Martin,Vos,1945-12-11
+1020,Otto,van der Meer,1947-03-05
+1021,Truus,Bakker,1951-05-24
+1022,Roos,de Groot,1948-08-10
+1023,Sandra,Smit,1941-10-01
+1024,Leo,Verhoeven,1945-10-20
+1025,Ferdinand,Bakker,1953-07-11
+1026,Hanneke,Wolff,1942-09-23
+1027,Karin,Hermans,1952-03-31
+1028,Joke,de Boer,1939-09-23
+1029,Wies,Knol,1945-12-04
+1030,Henk,Jansen,1940-10-20
+1031,Femke,de Vries,1945-04-26
+1032,Roos,Wolff,1946-06-16
+1033,Nathalie,Knol,1951-04-04
+1034,Brigitte,Verhoeven,1945-02-14
+1035,Bea,Koster,1951-12-28
+1036,Judith,Dekker,1953-09-13
+1037,Leo,Bosman,1950-04-23
+1038,Herman,Evers,1948-10-24
+1039,Sjoerd,Brouwer,1938-12-11
+1040,Emma,van Dijk,1947-10-13
+1041,Kees,de Boer,1947-10-27
+1042,Wim,Prins,1941-06-13
+1043,Francien,Schouten,1948-12-19
+1044,Nathalie,Dijkstra,1948-04-28
+1045,Joke,de Wit,1940-01-16
+1046,Vera,Smits,1946-07-02
+1047,Sjoerd,Smit,1947-11-24
+1048,Yvonne,Schipper,1939-03-20
+1049,Griet,de Wit,1946-10-08
+1050,Petra,Schouten,1942-01-03
+1051,Hilde,van Leeuwen,1942-11-08
+1052,Daphne,Peters,1953-09-27
+1053,Joke,Janssen,1953-06-04
+1054,Dora,Dekker,1939-10-30
+1055,Ruud,Verhoeven,1950-08-15
+1056,Theo,Peters,1946-06-09
+1057,Bert,de Wit,1950-02-08
+1058,Harold,de Wit,1942-09-02
+1059,Eduard,de Boer,1951-07-26
+1060,Chris,Schipper,1952-02-10
+1061,Arnold,Koster,1950-11-24
+1062,Leo,Koster,1942-03-16
+1063,Bea,Bakker,1943-01-29
+1064,Anke,Schipper,1940-02-20
+1065,Arnold,Peters,1943-09-26
+1066,Nathalie,Hermans,1947-06-25
+1067,Xandra,van den Berg,1952-02-29
+1068,Dora,Dekker,1944-04-07
+1069,Gerda,Peeters,1942-07-23
+1070,Bas,Dekker,1943-04-01
+1071,Judith,de Jong,1949-10-22
+1072,Griet,Hoekstra,1952-09-12
+1073,Irene,Hendriks,1951-12-29
+1074,Paul,Linden,1942-06-04
+1075,Yvonne,de Vries,1939-05-04
+1076,Sjoerd,van den Berg,1948-12-12
+1077,Harold,Postma,1945-09-16
+1078,Maria,de Graaf,1940-08-21
+1079,Truus,van Dijk,1952-12-22
+1080,Zoe,Schipper,1940-09-05
+1081,Wim,Postma,1947-08-18
+1082,Jaap,Verhoeven,1943-01-10
+1083,Hilde,Smit,1944-01-16
+1084,Griet,Linden,1943-12-16
+1085,Yvonne,Dijkstra,1939-02-22
+1086,Guus,de Graaf,1943-11-01
+1087,Joke,de Groot,1944-08-20
+1088,Hanneke,Linden,1942-11-27
+1089,Hanneke,de Vries,1941-06-29
+1090,Henk,de Vries,1939-04-24
+1091,Maarten,Dijkstra,1953-02-18
+1092,Francien,van der Meer,1947-04-06
+1093,Arnold,Meijer,1941-09-25
+1094,Hanneke,Smit,1952-05-23
+1095,Martin,Verhoeven,1945-03-04
+1096,Vera,de Boer,1951-01-25
+1097,Sjoerd,Verhoeven,1948-05-28
+1098,Ursula,Hermans,1942-12-12
+1099,Wies,Schipper,1944-03-14
+1100,David,Willems,1952-05-07
+1101,Gerda,Knol,1947-06-23
+1102,Ursula,Bosman,1950-02-01
+1103,Bea,de Graaf,1945-06-13
+1104,Wies,Evers,1941-04-19
+1105,Hans,Prins,1946-06-26
+1106,Ursula,Huisman,1944-09-07
+1107,Pieter,Peeters,1949-08-25
+1108,Francien,Hendriks,1939-08-27
+1109,Igor,Knol,1952-10-22
+1110,Gert,van den Berg,1953-06-04
+1111,Igor,Bosman,1942-11-20
+1112,Bert,van der Meer,1939-11-04
+1113,Kurt,van der Berg,1944-06-23
+1114,Joke,Evers,1950-09-25
+1115,Herman,de Vries,1942-04-03
+1116,Harold,Huisman,1950-06-11
+1117,Hans,de Groot,1943-12-23
+1118,Bea,Maas,1945-08-20
+1119,Vera,Prins,1944-09-24
+1120,Joke,Prins,1941-03-18
+1121,Frans,Prins,1940-09-04
+1122,Hanneke,Verhoeven,1946-01-08
+1123,Francien,van den Berg,1947-01-29
+1124,Irene,van der Meer,1949-04-26
+1125,Nathalie,Postma,1942-06-04
+1126,Vera,Timmermans,1946-06-15
+1127,Francien,van der Meer,1948-09-20
+1128,Ruud,de Wit,1951-12-19
+1129,Dick,Schouten,1947-02-13
+1130,Judith,Dijkstra,1944-06-08
+1131,Ferdinand,Smits,1944-03-12
+1132,Ivo,Verhoeven,1954-01-09
+1133,Francien,de Groot,1952-11-17
+1134,Petra,van Leeuwen,1953-02-07
+1135,Guus,Brouwer,1947-05-31
+1136,Oda,Brouwer,1950-01-14
+1137,Karel,Bos,1939-08-17
+1138,Gerda,de Wit,1939-03-09
+1139,Francien,Smits,1946-05-10
+1140,Guus,van Leeuwen,1942-05-18
+1141,Truus,Visser,1947-05-22
+1142,Harold,Evers,1947-04-05
+1143,Judith,van der Berg,1950-07-14
+1144,Anke,Smits,1947-11-20
+1145,Joke,Dekker,1941-07-05
+1146,Carla,Dekker,1943-09-07
+1147,Femke,Smits,1947-02-16
+1148,Daphne,Wolff,1951-03-23
+1149,Roos,Bosman,1944-08-08
+1150,Frans,de Groot,1953-03-18
+1151,Judith,van Leeuwen,1945-01-11
+1152,Guus,Huisman,1946-08-02
+1153,Sandra,Smit,1952-11-05
+1154,Griet,Verhoeven,1940-10-08
+1155,Igor,Peters,1940-02-18
+1156,Petra,van den Berg,1951-08-15
+1157,Ineke,Vos,1940-01-14
+1158,Oda,van den Berg,1944-04-16
+1159,Johan,Prins,1951-05-07
+1160,Nico,Bosman,1939-09-22
+1161,Griet,Evers,1945-11-09
+1162,Irene,de Jong,1944-08-15
+1163,Guus,de Boer,1949-05-15
+1164,Brigitte,Wolff,1942-05-07
+1165,Francien,Bosman,1950-11-05
+1166,Maria,Dekker,1945-01-26
+1167,Vera,Dekker,1946-03-13
+1168,Dora,Bakker,1949-07-10
+1169,Harold,Vos,1941-07-14
+1170,Judith,de Vries,1946-08-08
+1171,Laura,Prins,1943-01-23
+1172,Dick,de Vries,1944-10-09
+1173,Anke,Koster,1946-12-23
+1174,Laura,Dekker,1941-08-16
+1175,Carla,de Jong,1944-07-18
+1176,Leo,Knol,1946-02-24
+1177,Griet,Dijkstra,1941-05-30
+1178,Truus,Schouten,1939-11-21
+1179,Ferdinand,van der Meer,1949-01-02
+1180,Chris,Smit,1948-01-26
+1181,David,Schouten,1949-12-09
+1182,Sandra,de Groot,1951-10-31
+1183,Hilde,Dijkstra,1946-07-20
+1184,Karin,Schouten,1950-02-26
+1185,Roos,Mulder,1948-11-09
+1186,Jan,Dijkstra,1944-10-28
+1187,Truus,Knol,1940-08-12
+1188,Eduard,Mulder,1945-04-22
+1189,Anke,Hoekstra,1952-12-15
+1190,Hanneke,de Wit,1945-10-31
+1191,Gerrit,Linden,1944-09-16
+1192,Griet,Mulder,1946-04-25
+1193,Maarten,Bosman,1942-05-03
+1194,Martin,Peters,1953-01-03
+1195,Anna,Hendriks,1939-07-18
+1196,Zoe,Peters,1944-02-27
+1197,Daphne,van Leeuwen,1941-02-13
+1198,Nico,Brouwer,1941-09-12
+1199,Anna,Hendriks,1945-04-16
+1200,Paul,Huisman,1939-11-25
+1201,Petra,van den Berg,1950-05-08
+1202,Hans,Schouten,1945-12-29
+1203,Leo,de Boer,1941-08-26
+1204,Anke,Evers,1949-09-20
+1205,Hanneke,Brouwer,1950-01-30
+1206,Hilde,Kuipers,1942-05-30
+1207,Truus,de Graaf,1945-01-07
+1208,Oda,Vos,1943-09-24
+1209,Irene,Bosman,1948-10-20
+1210,Anton,Schouten,1940-09-09
+1211,Jorn,de Graaf,1943-04-14
+1212,Theo,Huisman,1940-09-21
+1213,Francien,Willems,1951-11-29
+1214,Frans,Peters,1943-05-13
+1215,Femke,van der Meer,1952-12-07
+1216,Daphne,van der Meer,1951-12-28
+1217,Yvonne,van Dijk,1945-11-18
+1218,Hilde,van den Berg,1939-05-31
+1219,Hanneke,de Groot,1950-04-21
+1220,Judith,Meijer,1943-04-26
+1221,Bert,de Wit,1951-09-03
+1222,Ineke,Maas,1941-02-12
+1223,Hans,Evers,1947-05-27
+1224,Nathalie,Hermans,1947-07-09
+1225,Gerda,Bakker,1949-01-31
+1226,Hanneke,Maas,1948-09-24
+1227,Kees,Schouten,1947-04-08
+1228,Irene,Schipper,1953-04-16
+1229,Brigitte,Schouten,1953-08-15
+1230,Dora,Postma,1941-03-27
+1231,Emma,Evers,1953-05-04
+1232,Leo,Jansen,1944-01-25
+1233,Anke,Hendriks,1952-12-14
+1234,Anna,Bos,1948-05-04
+1235,Igor,van Dijk,1947-03-07
+1236,Carla,Hoekstra,1949-04-18
+1237,Otto,Huisman,1951-11-29
+1238,Willem,Willems,1953-03-28
+1239,Kees,van Dijk,1948-04-25
+1240,Francien,de Vries,1947-05-07
+1241,Karel,Prins,1948-10-12
+1242,Laura,Smit,1951-08-22
+1243,Theo,de Graaf,1947-09-30
+1244,Zoe,Maas,1952-03-25
+1245,Zoe,van der Berg,1946-02-11
+1246,Gerrit,Evers,1948-11-26
+1247,Judith,Smit,1945-01-28
+1248,Otto,Visser,1950-09-01
+1249,Dick,Willems,1945-11-29
+1250,Anke,van der Meer,1953-03-10
+1251,Irene,Vos,1945-04-16
+1252,Anna,Jansen,1947-12-11
+1253,Leo,Schouten,1942-03-26
+1254,Judith,Hoekstra,1953-09-17
+1255,Judith,van der Berg,1948-07-16
+1256,Gert,Peters,1941-09-22
+1257,Arnold,Smits,1949-12-17
+1258,Anton,van Leeuwen,1948-06-15
+1259,Eduard,Visser,1953-11-26
+1260,Carla,Timmermans,1950-06-17
+1261,Brigitte,Verhoeven,1940-11-21
+1262,Bea,Peters,1947-04-10
+1263,Frans,van Dijk,1948-01-03
+1264,Johan,Peeters,1947-06-28
+1265,Henk,Maas,1948-02-02
+1266,Jorn,Evers,1945-05-01
+1267,Dora,Peters,1940-07-31
+1268,Carla,Linden,1945-02-05
+1269,Daphne,Vos,1942-02-11
+1270,Judith,Bos,1952-12-14
+1271,Kees,Smit,1939-10-27
+1272,Hanneke,Dekker,1944-10-29
+1273,Gert,Knol,1948-11-23
+1274,Martin,Knol,1942-01-31
+1275,Vera,Peters,1939-11-05
+1276,Ursula,Meijer,1945-08-26
+1277,Ineke,Vos,1947-05-17
+1278,Brigitte,Brouwer,1952-12-11
+1279,Jaap,van den Berg,1948-08-22
+1280,Laura,Kuipers,1948-12-10
+1281,Victor,Postma,1949-07-31
+1282,Chris,van den Berg,1949-10-27
+1283,Xandra,Wolff,1942-07-18
+1284,Ruud,van der Meer,1945-05-29
+1285,Martin,Huisman,1953-11-10
+1286,Theo,Prins,1946-11-29
+1287,Joke,Brouwer,1945-09-06
+1288,Zoe,Mulder,1948-10-11
+1289,Judith,Bosman,1940-06-02
+1290,Petra,Vos,1949-05-08
+1291,Leo,Meijer,1947-05-10
+1292,Arnold,van den Berg,1939-12-12
+1293,Guus,Prins,1950-01-28
+1294,Brigitte,Postma,1946-08-09
+1295,Ineke,Smit,1947-10-08
+1296,Ruud,Peters,1950-11-28
+1297,Roos,Bos,1941-02-02
+1298,Wies,Wolff,1941-01-03
+1299,Femke,Maas,1951-06-14
+1300,Yvonne,Bakker,1947-08-30
+1301,Ferdinand,de Groot,1949-01-23
+1302,Dora,van Leeuwen,1947-02-06
+1303,Ruud,Evers,1943-06-11
+1304,Jorn,Peeters,1944-01-01
+1305,Carla,van Dijk,1944-01-23
+1306,Eduard,Hermans,1943-12-31
+1307,Nathalie,Bosman,1952-01-03
+1308,Frans,Dijkstra,1948-10-22
+1309,Ursula,de Jong,1949-12-31
+1310,Frans,de Groot,1944-07-25
+1311,Hilde,Bosman,1948-01-18
+1312,Herman,Huisman,1952-05-30
+1313,Jorn,Bos,1940-06-26
+1314,Anke,Peters,1948-01-21
+1315,Guus,de Wit,1948-08-13
+1316,Truus,van der Berg,1941-12-18
+1317,Emma,Willems,1949-02-11
+1318,Otto,Brouwer,1952-11-14
+1319,Ivo,de Graaf,1941-12-16
+1320,Hanneke,Koster,1940-05-13
+1321,Emma,Janssen,1941-05-06
+1322,Bas,de Wit,1942-08-06
+1323,Frans,de Graaf,1947-07-04
+1324,Vera,Prins,1952-09-24
+1325,Carla,Knol,1951-02-23
+1326,Gert,Meijer,1948-05-24
+1327,Pieter,Hendriks,1952-03-15
+1328,Guus,Hermans,1940-06-04
+1329,Brigitte,Dekker,1953-10-28
+1330,Anton,de Groot,1940-09-21
+1331,Nico,Vos,1950-12-23
+1332,Zoe,Knol,1948-08-17
+1333,Petra,Koster,1950-07-08
+1334,Guus,Wolff,1940-02-13
+1335,Wies,Hendriks,1948-01-13
+1336,Chris,Wolff,1939-10-19
+1337,Chris,Schouten,1942-07-01
+1338,Bert,Smits,1948-10-07
+1339,Bert,Smit,1947-06-25
+1340,Judith,Koster,1953-10-19
+1341,Laura,Willems,1944-03-15
+1342,Kees,van der Meer,1941-05-19
+1343,Carla,van Dijk,1954-02-27
+1344,Dora,de Jong,1942-02-06
+1345,Brigitte,Smit,1947-12-14
+1346,Oda,van Dijk,1954-03-27
+1347,Anton,de Jong,1950-04-30
+1348,Nathalie,Schipper,1947-08-10
+1349,Emma,de Graaf,1947-01-25
+1350,Kees,Verhoeven,1948-06-09
+1351,Kurt,Bosman,1939-09-07
+1352,Chris,Jansen,1944-09-16
+1353,Jan,Willems,1941-09-17
+1354,Guus,Prins,1949-08-01
+1355,Jan,Jansen,1946-01-18
+1356,Ineke,van Leeuwen,1946-08-10
+1357,Ferdinand,Dekker,1948-07-05
+1358,Bea,Schipper,1949-12-19
+1359,Victor,Mulder,1951-05-01
+1360,Griet,Janssen,1942-04-17
+1361,Ineke,Meijer,1942-08-27
+1362,Petra,de Groot,1950-03-31
+1363,Ineke,Hendriks,1944-08-26
+1364,Otto,van Leeuwen,1947-10-25
+1365,Sjoerd,Bakker,1953-01-17
+1366,Paul,Linden,1952-04-18
+1367,Arnold,Knol,1947-10-29
+1368,Petra,Huisman,1952-04-06
+1369,Gert,Brouwer,1947-11-26
+1370,Femke,Wolff,1945-12-18
+1371,Henk,Bakker,1943-11-19
+1372,Anke,van der Berg,1942-12-12
+1373,Zoe,Postma,1947-06-02
+1374,Bas,van den Berg,1944-05-21
+1375,Jan,Huisman,1953-01-21
+1376,Bert,Bakker,1951-10-30
+1377,Chris,Hoekstra,1944-09-14
+1378,Wies,Knol,1946-08-21
+1379,Johan,van der Meer,1951-08-31
+1380,Henk,Vos,1954-06-08
+1381,Nathalie,Huisman,1953-07-19
+1382,Francien,van Leeuwen,1944-07-20
+1383,Carla,van Dijk,1948-03-02
+1384,Jaap,Willems,1944-10-28
+1385,Carla,Mulder,1945-03-06
+1386,Vera,Jansen,1944-02-29
+1387,Nathalie,Hermans,1950-08-03
+1388,Joke,Linden,1946-12-14
+1389,Willem,Brouwer,1952-10-24
+1390,Bert,Knol,1950-04-03
+1391,Petra,Knol,1944-06-10
+1392,Zoe,Evers,1944-11-11
+1393,Judith,Dijkstra,1944-05-07
+1394,Ruud,Smit,1947-01-24
+1395,Femke,Schipper,1942-04-11
+1396,Xandra,van den Berg,1946-04-30
+1397,Johan,Hoekstra,1943-08-13
+1398,Oda,van Dijk,1942-12-06
+1399,Nico,Peeters,1950-05-04
+1400,Anke,de Wit,1940-05-05
+1401,Pieter,Kuipers,1951-04-10
+1402,Sandra,Maas,1949-05-22
+1403,Gerda,Vos,1947-02-16
+1404,Xandra,Postma,1949-07-02
+1405,Ruud,Hoekstra,1940-04-13
+1406,Dick,Evers,1953-09-23
+1407,Zoe,Bakker,1942-03-18
+1408,Kurt,Dekker,1954-09-10
+1409,Herman,van Dijk,1945-09-21
+1410,Gerrit,van Leeuwen,1954-09-04
+1411,Anton,van der Berg,1948-10-05
+1412,Joke,van der Berg,1947-04-24
+1413,Martin,de Graaf,1947-12-28
+1414,Griet,Bakker,1953-02-03
+1415,Anna,Brouwer,1943-07-05
+1416,Daphne,de Graaf,1951-04-07
+1417,Jaap,Janssen,1950-02-13
+1418,Maarten,Bakker,1953-10-04
+1419,Dick,Hoekstra,1945-03-08
+1420,Wim,Postma,1939-12-06
+1421,Guus,Schipper,1944-07-03
+1422,Brigitte,Janssen,1948-04-10
+1423,Bea,Bakker,1950-01-29
+1424,Xandra,Postma,1946-03-03
+1425,Femke,Peeters,1954-10-18
+1426,Vera,van der Berg,1943-08-04
+1427,Anna,Dekker,1950-01-24
+1428,Theo,van der Berg,1947-07-29
+1429,Gerrit,Postma,1943-07-11
+1430,Herman,Knol,1950-06-20
+1431,Evert,de Boer,1950-02-03
+1432,Zoe,de Boer,1951-02-16
+1433,Maarten,van Leeuwen,1950-01-10
+1434,Ursula,van Leeuwen,1952-05-23
+1435,Gerda,Meijer,1947-07-21
+1436,Willem,de Boer,1944-12-21
+1437,Corine,van Leeuwen,1944-12-20
+1438,Brigitte,Brouwer,1944-12-26
+1439,Francien,van Dijk,1943-10-30
+1440,Paul,Hendriks,1940-10-11
+1441,Herman,Kuipers,1947-07-13
+1442,Gerda,Peeters,1953-04-21
+1443,Kurt,de Groot,1941-02-15
+1444,Emma,Janssen,1946-04-15
+1445,Irene,Brouwer,1954-05-15
+1446,Anna,Linden,1941-02-09
+1447,Nico,Verhoeven,1948-11-22
+1448,Zoe,Dijkstra,1952-05-20
+1449,Daphne,Dijkstra,1952-12-16
+1450,Corine,Wolff,1953-04-27
+1451,Irene,Brouwer,1950-08-15
+1452,Martin,Peeters,1950-10-13
+1453,Maria,Bosman,1942-11-05
+1454,Vera,Mulder,1948-03-29
+1455,Anke,de Wit,1947-12-07
+1456,Truus,Huisman,1954-11-03
+1457,Chris,Knol,1942-09-24
+1458,Petra,de Wit,1945-02-18
+1459,Zoe,van Leeuwen,1940-11-23
+1460,Anke,de Graaf,1953-10-09
+1461,Hilde,Knol,1946-08-16
+1462,Eduard,Hermans,1947-02-21
+1463,Ferdinand,Mulder,1943-06-23
+1464,Guus,Jansen,1942-06-23
+1465,Emma,Bos,1953-10-03
+1466,Wim,Dekker,1944-10-31
+1467,Willem,Prins,1941-07-04
+1468,Gerda,Smit,1945-05-06
+1469,Leo,Peters,1952-09-28
+1470,Ivo,Timmermans,1940-09-18
+1471,Joke,Hoekstra,1953-09-18
+1472,Zoe,van Dijk,1953-10-16
+1473,Wim,Peeters,1950-11-22
+1474,Francien,Hermans,1952-10-13
+1475,Sjoerd,Willems,1953-10-15
+1476,David,Huisman,1949-04-22
+1477,Theo,Willems,1948-10-02
+1478,Carla,de Graaf,1946-06-13
+1479,Judith,Peeters,1945-02-24
+1480,Femke,Janssen,1950-04-10
+1481,Herman,Timmermans,1947-01-10
+1482,Otto,de Boer,1941-03-07
+1483,Kurt,de Vries,1946-07-26
+1484,Anke,Dijkstra,1946-10-11
+1485,Victor,Janssen,1948-06-11
+1486,Jan,Janssen,1946-07-16
+1487,Roos,Vos,1950-03-10
+1488,Hanneke,van der Meer,1942-02-15
+1489,Guus,Hermans,1952-05-23
+1490,Harold,Vos,1942-11-09
+1491,Wim,de Graaf,1953-08-04
+1492,Anke,Schouten,1947-04-28
+1493,Hanneke,Meijer,1948-06-02
+1494,Otto,Jansen,1949-04-15
+1495,Bas,Janssen,1948-09-10
+1496,Karel,Prins,1942-02-22
+1497,Gerrit,Visser,1952-01-01
+1498,Joke,Smits,1941-07-08
+1499,Leo,Dijkstra,1946-02-20
+1500,Arnold,Bos,1940-03-28
+1501,Evert,Bosman,1944-02-01
+1502,Xandra,Bosman,1945-10-28
+1503,Griet,Maas,1942-02-01
+1504,Daphne,de Wit,1952-03-12
+1505,Willem,Brouwer,1944-09-22
+1506,Carla,Visser,1943-04-08
+1507,Bea,Dijkstra,1951-01-23
+1508,Johan,Evers,1951-05-10
+1509,Bert,Peters,1949-01-07
+1510,Ineke,Mulder,1953-10-04
+1511,Guus,de Boer,1948-08-25
+1512,Wies,Postma,1953-04-11
+1513,Corine,Schouten,1942-06-17
+1514,Oda,Linden,1942-08-29
+1515,Laura,Mulder,1940-12-23
+1516,Victor,Linden,1940-09-17
+1517,Bea,Verhoeven,1949-12-07
+1518,Maria,Maas,1943-01-27
+1519,Igor,Hoekstra,1946-11-14
+1520,Ruud,de Jong,1948-10-02
+1521,Frans,Bos,1945-05-18
+1522,Sandra,van Dijk,1943-02-05
+1523,Griet,Willems,1942-06-27
+1524,Laura,de Graaf,1950-03-19
+1525,Martin,de Groot,1954-02-09
+1526,Arnold,Visser,1952-04-27
+1527,Ivo,Timmermans,1942-03-29
+1528,Chris,van der Meer,1948-08-02
+1529,Martin,Peeters,1944-11-25
+1530,Ruud,Verhoeven,1946-07-04
+1531,Anke,Hermans,1943-02-13
+1532,Hilde,Smits,1943-02-15
+1533,Xandra,Schouten,1944-09-05
+1534,Laura,Evers,1950-01-19
+1535,Ursula,Verhoeven,1951-09-05
+1536,Femke,Evers,1949-07-18
+1537,Irene,de Wit,1942-01-04
+1538,Hilde,Peters,1947-06-03
+1539,Ursula,Visser,1951-07-12
+1540,Laura,de Graaf,1946-07-16
+1541,Joke,Schipper,1941-06-13
+1542,Zoe,Prins,1949-11-30
+1543,Irene,Knol,1953-02-15
+1544,Ruud,Hoekstra,1942-04-26
+1545,Laura,Koster,1942-09-04
+1546,Ferdinand,Huisman,1948-09-30
+1547,Laura,Postma,1947-03-27
+1548,Karin,Koster,1955-02-15
+1549,Truus,Smit,1944-06-14
+1550,Laura,de Wit,1949-12-12
+1551,Daphne,Verhoeven,1942-01-11
+1552,Kees,Smits,1947-10-11
+1553,Jan,Koster,1953-01-07
+1554,Maarten,de Groot,1947-10-14
+1555,Ruud,Postma,1947-09-03
+1556,Hanneke,Wolff,1950-10-05
+1557,Gerda,Prins,1945-06-16
+1558,Chris,Prins,1944-07-31
+1559,Wim,Koster,1952-12-22
+1560,Karin,Bakker,1944-04-10
+1561,Harold,Jansen,1943-05-24
+1562,Oda,Dekker,1951-03-11
+1563,Carla,van Leeuwen,1943-08-10
+1564,Gert,Willems,1946-02-24
+1565,Karel,de Boer,1950-11-28
+1566,Arnold,Knol,1947-12-25
+1567,Gerda,Postma,1943-12-27
+1568,Hanneke,Visser,1941-04-25
+1569,Hilde,van Leeuwen,1947-02-18
+1570,Ferdinand,de Graaf,1952-07-24
+1571,Judith,de Vries,1952-05-08
+1572,Daphne,Willems,1947-10-18
+1573,Nathalie,Hoekstra,1954-03-18
+1574,Griet,Wolff,1954-04-26
+1575,Petra,Brouwer,1949-07-01
+1576,Henk,Maas,1941-09-14
+1577,Roos,Smits,1955-07-29
+1578,Gerrit,Maas,1945-08-12
+1579,Hilde,Peters,1941-12-15
+1580,Nathalie,Hermans,1952-02-11
+1581,Xandra,Verhoeven,1944-03-17
+1582,Victor,de Boer,1947-01-29
+1583,Kurt,Smit,1944-07-09
+1584,Frans,Bos,1955-04-16
+1585,Dora,Knol,1941-07-01
+1586,Xandra,Willems,1947-06-05
+1587,Jaap,Peeters,1954-09-07
+1588,Judith,de Boer,1954-06-09
+1589,Vera,Dekker,1955-01-06
+1590,Truus,Knol,1955-03-06
+1591,Sandra,Schipper,1949-09-25
+1592,Johan,Smit,1955-10-13
+1593,Brigitte,van den Berg,1946-04-05
+1594,Sandra,Wolff,1949-04-26
+1595,Maarten,Huisman,1945-10-13
+1596,Irene,Peters,1941-07-18
+1597,Joke,de Wit,1946-04-14
+1598,Herman,Evers,1949-11-20
+1599,Anke,Koster,1948-10-20
+1600,Anton,Knol,1950-02-17
+1601,Sandra,Kuipers,1946-03-31
+1602,Theo,van der Berg,1947-08-02
+1603,Wim,van Dijk,1951-01-06
+1604,Femke,Linden,1955-05-31
+1605,Hanneke,van Leeuwen,1953-02-23
+1606,Yvonne,Schouten,1944-11-06
+1607,Gerda,de Wit,1946-10-31
+1608,Igor,de Jong,1941-10-17
+1609,Femke,Schouten,1955-02-22
+1610,Xandra,van Dijk,1944-01-14
+1611,Ferdinand,Linden,1950-08-07
+1612,Nathalie,Hoekstra,1947-01-05
+1613,Frans,Koster,1943-04-13
+1614,Sandra,de Wit,1942-01-05
+1615,Truus,Dijkstra,1944-07-25
+1616,Irene,Knol,1951-04-20
+1617,Chris,Dijkstra,1952-03-20
+1618,Dora,de Vries,1952-01-29
+1619,Griet,Kuipers,1948-11-30
+1620,Emma,Jansen,1956-04-22
+1621,Hans,de Boer,1944-12-10
+1622,Daphne,Schouten,1946-10-25
+1623,Jan,Hoekstra,1950-02-08
+1624,Maria,Huisman,1951-10-30
+1625,Irene,Wolff,1945-11-16
+1626,Ursula,de Boer,1945-12-27
+1627,Sandra,Bakker,1942-04-14
+1628,Paul,Hendriks,1946-02-21
+1629,Femke,de Graaf,1950-07-11
+1630,Bert,van den Berg,1951-05-31
+1631,Anke,Kuipers,1956-05-21
+1632,Leo,Huisman,1948-05-18
+1633,Oda,Hoekstra,1942-05-25
+1634,Gerrit,Janssen,1945-03-20
+1635,Anna,Bos,1956-01-12
+1636,Bas,van Dijk,1945-12-19
+1637,Irene,Hermans,1946-08-19
+1638,Oda,van der Meer,1953-02-04
+1639,Daphne,de Jong,1952-05-27
+1640,Jan,Huisman,1953-11-27
+1641,Wies,Visser,1954-04-16
+1642,Victor,Huisman,1946-05-10
+1643,Irene,Bosman,1949-08-19
+1644,Willem,Vos,1950-01-29
+1645,Ruud,Bakker,1948-02-17
+1646,Griet,Janssen,1944-07-26
+1647,Vera,de Graaf,1943-12-08
+1648,Ursula,Smit,1948-03-16
+1649,Zoe,Smit,1943-03-16
+1650,Joke,van Dijk,1949-12-21
+1651,Evert,Knol,1948-04-24
+1652,Jan,Verhoeven,1946-09-23
+1653,Karin,Maas,1944-09-21
+1654,Xandra,Bos,1949-05-25
+1655,Joke,Prins,1956-04-18
+1656,Daphne,Bos,1942-05-15
+1657,Femke,Janssen,1944-10-15
+1658,Maarten,Visser,1954-05-15
+1659,Igor,van der Berg,1954-10-31
+1660,Xandra,Hoekstra,1947-08-19
+1661,Vera,Smit,1942-12-12
+1662,Petra,van Leeuwen,1954-03-06
+1663,Gerrit,Peters,1955-09-17
+1664,Truus,Huisman,1945-04-17
+1665,Bea,Timmermans,1946-08-25
+1666,Leo,Bos,1955-11-25
+1667,Ineke,Peeters,1951-12-12
+1668,Hanneke,de Groot,1950-02-14
+1669,Anke,Dekker,1942-07-14
+1670,Kees,Peters,1942-10-05
+1671,Gerda,van der Berg,1949-10-29
+1672,Hans,Peters,1949-10-09
+1673,Chris,Kuipers,1956-05-10
+1674,Jorn,van Dijk,1943-02-04
+1675,Ineke,de Jong,1956-09-22
+1676,Paul,de Wit,1946-01-26
+1677,Irene,van der Berg,1950-07-23
+1678,Brigitte,de Graaf,1948-01-18
+1679,Judith,Evers,1950-04-05
+1680,Dick,Bosman,1948-10-20
+1681,Willem,Jansen,1948-01-01
+1682,Igor,van Dijk,1956-08-29
+1683,Jan,Hendriks,1948-07-22
+1684,Frans,de Vries,1951-08-31
+1685,Kees,Linden,1947-01-12
+1686,David,Dekker,1948-05-16
+1687,Hanneke,Prins,1950-10-26
+1688,Corine,Huisman,1944-05-19
+1689,Anke,Bakker,1947-03-30
+1690,Judith,Willems,1942-11-13
+1691,Kurt,Meijer,1950-11-21
+1692,Sandra,Bakker,1942-07-03
+1693,Ursula,Bakker,1951-05-15
+1694,Hanneke,Bos,1943-12-27
+1695,Joke,Willems,1947-05-27
+1696,Martin,Linden,1956-10-24
+1697,Igor,Kuipers,1949-11-07
+1698,Willem,Brouwer,1942-10-06
+1699,Corine,Peters,1948-07-03
+1700,Kees,Peters,1951-12-14
+1701,Femke,Hoekstra,1949-03-04
+1702,Hans,Schouten,1943-12-24
+1703,Kurt,Peeters,1953-04-05
+1704,Kees,Brouwer,1945-05-19
+1705,Laura,Visser,1949-03-12
+1706,Jan,Smit,1945-05-04
+1707,Anna,de Boer,1946-07-27
+1708,Gerda,Smits,1944-10-08
+1709,Ineke,van der Meer,1942-03-27
+1710,Roos,de Boer,1944-05-08
+1711,Yvonne,Smit,1952-03-15
+1712,Jaap,Visser,1948-07-07
+1713,Bea,Dijkstra,1953-04-05
+1714,Victor,van Leeuwen,1945-04-04
+1715,Evert,van Dijk,1953-05-23
+1716,Ivo,Knol,1949-08-15
+1717,Els,Koster,1955-05-26
+1718,Arnold,Schipper,1948-09-30
+1719,Paul,van den Berg,1946-04-10
+1720,Chris,Knol,1951-08-20
+1721,Bert,de Graaf,1951-07-02
+1722,Karin,Hendriks,1954-08-20
+1723,Johan,Knol,1945-02-19
+1724,Hans,Vos,1946-12-24
+1725,Hanneke,de Jong,1951-03-07
+1726,Carla,de Jong,1949-09-24
+1727,Herman,de Vries,1956-02-03
+1728,Francien,de Graaf,1943-05-31
+1729,Ruud,Meijer,1947-04-23
+1730,Laura,de Vries,1953-10-26
+1731,Brigitte,Vos,1946-05-05
+1732,Martin,Peters,1943-05-25
+1733,Theo,de Wit,1944-06-09
+1734,Jaap,van Dijk,1950-12-06
+1735,Harold,de Graaf,1952-05-08
+1736,Hans,Schipper,1942-04-22
+1737,Dora,Mulder,1956-02-14
+1738,Gert,van der Meer,1955-10-31
+1739,Carla,Linden,1950-08-02
+1740,Willem,Schouten,1948-08-02
+1741,Truus,Brouwer,1946-03-26
+1742,Martin,Bakker,1943-09-24
+1743,Emma,de Jong,1947-05-02
+1744,Yvonne,de Groot,1955-02-07
+1745,Truus,Knol,1950-03-07
+1746,Ursula,Verhoeven,1947-08-03
+1747,Petra,Schouten,1946-08-27
+1748,Yvonne,Hermans,1952-03-25
+1749,Chris,de Groot,1955-05-08
+1750,Judith,Peters,1946-09-16
+1751,Joke,de Jong,1951-10-09
+1752,Theo,Jansen,1952-06-11
+1753,Oda,Willems,1948-08-29
+1754,Otto,Kuipers,1947-05-07
+1755,Anna,Dijkstra,1947-11-14
+1756,Jan,Timmermans,1953-09-28
+1757,Zoe,Brouwer,1956-11-08
+1758,Griet,Bos,1946-03-03
+1759,Evert,Peters,1952-12-08
+1760,Brigitte,Koster,1948-12-18
+1761,Kees,Meijer,1945-02-10
+1762,Sandra,Bakker,1944-06-29
+1763,Henk,Vos,1953-07-10
+1764,Evert,Prins,1944-12-08
+1765,Yvonne,Schouten,1956-12-03
+1766,Gerrit,Hermans,1952-06-19
+1767,Griet,Schipper,1950-01-31
+1768,Maarten,Kuipers,1943-01-27
+1769,Sjoerd,van Dijk,1949-05-21
+1770,Dora,Hoekstra,1950-05-03
+1771,Irene,Peters,1944-10-26
+1772,Karel,Hendriks,1955-09-17
+1773,Martin,Linden,1956-08-07
+1774,Martin,de Wit,1944-07-15
+1775,Wim,van Leeuwen,1946-02-09
+1776,Oda,van Dijk,1949-12-06
+1777,Eduard,Smit,1942-12-28
+1778,Igor,Janssen,1949-04-10
+1779,Joke,Janssen,1943-04-14
+1780,Karin,Maas,1950-02-14
+1781,Arnold,de Wit,1945-02-21
+1782,Theo,Visser,1948-08-08
+1783,Judith,Smits,1944-06-07
+1784,Frans,Maas,1953-05-30
+1785,Ursula,Schouten,1946-11-13
+1786,Ivo,Visser,1950-11-24
+1787,Femke,de Boer,1953-03-12
+1788,Ursula,Huisman,1954-05-10
+1789,Carla,Bos,1950-11-27
+1790,Martin,Meijer,1955-10-05
+1791,Femke,Peters,1956-08-25
+1792,Otto,Linden,1949-08-26
+1793,Hanneke,van den Berg,1948-02-26
+1794,Leo,Hendriks,1947-05-08
+1795,Laura,Jansen,1943-04-12
+1796,Anke,Maas,1957-01-28
+1797,Petra,Janssen,1950-03-22
+1798,Emma,Janssen,1949-05-06
+1799,Maarten,Visser,1943-11-20
+1800,Anna,van den Berg,1956-01-22
+1801,Oda,Smit,1954-05-16
+1802,Maria,Linden,1956-01-14
+1803,Yvonne,Evers,1947-04-11
+1804,Femke,Hermans,1956-04-20
+1805,Roos,van Dijk,1942-10-29
+1806,Pieter,van Dijk,1946-11-30
+1807,Maria,Wolff,1952-03-25
+1808,Daphne,Smit,1945-07-27
+1809,Femke,Dijkstra,1944-08-17
+1810,Hilde,de Vries,1943-07-11
+1811,Arnold,van den Berg,1955-04-02
+1812,Bert,Knol,1956-05-04
+1813,Corine,Linden,1943-07-04
+1814,Gerda,Jansen,1955-06-11
+1815,Zoe,Evers,1949-04-03
+1816,Victor,Mulder,1956-11-02
+1817,Otto,Bos,1955-12-21
+1818,Dick,van Leeuwen,1945-12-09
+1819,Sandra,Maas,1947-08-09
+1820,Anton,de Vries,1955-09-03
+1821,Kurt,Verhoeven,1952-08-16
+1822,Petra,Wolff,1955-01-10
+1823,Truus,Koster,1946-03-20
+1824,Brigitte,Postma,1956-08-26
+1825,Bas,van den Berg,1949-07-18
+1826,Gerrit,van Leeuwen,1953-03-02
+1827,Zoe,Smit,1946-08-05
+1828,Brigitte,de Groot,1951-08-01
+1829,Evert,Peters,1942-07-09
+1830,Judith,Jansen,1952-08-26
+1831,Zoe,Smits,1944-04-27
+1832,Francien,Willems,1955-01-08
+1833,Gerda,Smits,1956-11-22
+1834,Harold,Schipper,1952-10-22
+1835,Vera,van der Berg,1954-12-01
+1836,Jaap,Mulder,1956-01-31
+1837,Bea,de Wit,1947-08-22
+1838,Oda,Jansen,1954-10-12
+1839,Jaap,van den Berg,1952-05-08
+1840,Francien,van der Meer,1945-11-15
+1841,Xandra,Hermans,1956-01-09
+1842,Gert,de Boer,1949-04-23
+1843,Griet,Peters,1943-07-13
+1844,Petra,van Leeuwen,1942-05-22
+1845,Ferdinand,van den Berg,1955-11-02
+1846,Oda,Knol,1953-06-28
+1847,Zoe,Smits,1947-06-23
+1848,Dick,Mulder,1953-02-07
+1849,Petra,Hermans,1951-06-09
+1850,Martin,Huisman,1954-08-19
+1851,Xandra,Hermans,1942-10-20
+1852,Pieter,Huisman,1945-09-25
+1853,Xandra,Knol,1945-05-07
+1854,Harold,Meijer,1948-04-27
+1855,Harold,de Groot,1943-09-18
+1856,Gerda,Willems,1953-04-20
+1857,Leo,Mulder,1942-05-23
+1858,Gerda,de Vries,1943-01-10
+1859,Gerrit,van den Berg,1952-03-07
+1860,Gert,Peeters,1949-04-29
+1861,Oda,Jansen,1948-08-31
+1862,Ineke,Bosman,1946-11-09
+1863,Anna,Dijkstra,1948-08-21
+1864,Maria,Smit,1943-07-18
+1865,Wies,Mulder,1943-10-15
+1866,Vera,van den Berg,1948-06-17
+1867,Bea,Meijer,1955-01-29
+1868,Igor,Meijer,1950-07-12
+1869,Hilde,van der Meer,1946-06-24
+1870,Yvonne,van Dijk,1943-11-17
+1871,Yvonne,Timmermans,1951-09-16
+1872,Sjoerd,Hermans,1950-03-03
+1873,Johan,Dijkstra,1948-05-05
+1874,Ursula,de Wit,1947-12-13
+1875,Maarten,de Boer,1956-10-28
+1876,Victor,Kuipers,1955-01-31
+1877,Chris,Wolff,1955-02-11
+1878,Vera,Mulder,1950-01-14
+1879,Xandra,Vos,1957-05-12
+1880,Laura,van der Berg,1950-05-19
+1881,Ursula,Huisman,1950-02-18
+1882,Karel,Smit,1952-05-04
+1883,Laura,de Jong,1948-07-17
+1884,Harold,Linden,1952-05-15
+1885,Carla,Mulder,1944-08-21
+1886,Vera,Verhoeven,1952-05-12
+1887,Gert,Kuipers,1956-10-22
+1888,Harold,Janssen,1954-04-25
+1889,Chris,Meijer,1954-08-06
+1890,Wies,van Dijk,1954-10-02
+1891,Herman,Smits,1955-05-27
+1892,Vera,de Boer,1943-08-22
+1893,Gerrit,Timmermans,1950-12-11
+1894,Wies,Maas,1942-06-25
+1895,Jan,Hendriks,1952-07-10
+1896,Frans,Peters,1951-06-24
+1897,Willem,Smits,1942-09-05
+1898,Ivo,Janssen,1949-03-09
+1899,Jan,van den Berg,1952-09-22
+1900,Zoe,Maas,1951-11-01
+1901,Theo,de Boer,1957-02-01
+1902,Brigitte,Koster,1953-08-11
+1903,Zoe,Smits,1947-11-25
+1904,Ferdinand,van der Berg,1945-02-01
+1905,Johan,Bosman,1956-01-18
+1906,Oda,de Boer,1947-07-26
+1907,Daphne,van Dijk,1946-08-24
+1908,Carla,Dekker,1952-05-10
+1909,Pieter,de Wit,1947-01-15
+1910,Roos,Janssen,1946-11-14
+1911,Els,Dijkstra,1951-03-06
+1912,Karin,van der Berg,1949-01-06
+1913,Karin,van Dijk,1956-11-04
+1914,Guus,Bakker,1952-06-16
+1915,Nico,Peeters,1955-06-10
+1916,Francien,Jansen,1943-06-05
+1917,Corine,Wolff,1954-11-28
+1918,Bert,Peeters,1944-06-01
+1919,Victor,de Boer,1944-10-11
+1920,Dora,Janssen,1956-04-09
+1921,Wies,Bos,1951-04-28
+1922,Eduard,Prins,1956-06-23
+1923,Guus,Willems,1955-09-01
+1924,Ivo,Timmermans,1955-03-16
+1925,Truus,Brouwer,1955-10-21
+1926,Herman,Janssen,1955-03-10
+1927,Kees,Linden,1952-04-05
+1928,Harold,Postma,1953-11-16
+1929,Chris,Meijer,1945-05-22
+1930,Dora,de Graaf,1945-07-21
+1931,Jan,Hoekstra,1948-11-04
+1932,Femke,Dekker,1946-07-30
+1933,Jorn,Bosman,1956-06-18
+1934,Eduard,Janssen,1943-11-17
+1935,Pieter,Bos,1942-11-07
+1936,Karin,Kuipers,1951-05-29
+1937,Truus,Bakker,1947-03-13
+1938,Francien,Visser,1953-08-26
+1939,Ursula,Linden,1944-09-01
+1940,Francien,Koster,1952-02-24
+1941,Ivo,Bakker,1944-09-18
+1942,Judith,van der Berg,1954-06-09
+1943,Laura,de Graaf,1954-10-01
+1944,Ruud,de Graaf,1946-04-27
+1945,Dick,Maas,1946-11-12
+1946,Carla,Hendriks,1947-02-16
+1947,Daphne,Schouten,1956-03-12
+1948,Roos,Vos,1955-01-11
+1949,Sandra,Knol,1955-06-16
+1950,Kees,Meijer,1955-09-17
+1951,Johan,Bakker,1943-05-11
+1952,Otto,Willems,1951-01-03
+1953,Theo,Hermans,1944-06-25
+1954,Gert,Postma,1951-07-11
+1955,Kees,van der Berg,1948-08-28
+1956,Evert,Prins,1955-03-07
+1957,Judith,Evers,1952-03-13
+1958,Francien,Knol,1953-10-09
+1959,Petra,Bosman,1946-04-27
+1960,Leo,Bakker,1947-01-14
+1961,Sjoerd,de Vries,1949-10-25
+1962,Hanneke,Knol,1953-06-11
+1963,Evert,Knol,1956-12-30
+1964,Joke,Visser,1948-09-17
+1965,Wim,Mulder,1948-08-08
+1966,Karin,Bos,1952-04-07
+1967,Maria,Smit,1949-02-11
+1968,Carla,Hoekstra,1944-11-08
+1969,Femke,Evers,1945-09-09
+1970,Corine,de Groot,1950-04-25
+1971,Anton,Peeters,1949-07-25
+1972,Roos,de Wit,1949-05-19
+1973,Willem,Bakker,1951-08-22
+1974,Zoe,Postma,1956-11-24
+1975,Anke,Postma,1957-04-26
+1976,Martin,van Leeuwen,1948-08-07
+1977,Ineke,Schouten,1950-11-26
+1978,Anna,Huisman,1947-09-01
+1979,Ineke,Prins,1957-02-18
+1980,Hilde,Prins,1954-02-14
+1981,Joke,Meijer,1945-09-09
+1982,Griet,Janssen,1949-05-13
+1983,Griet,Dekker,1955-04-16
+1984,Judith,Smits,1943-01-30
+1985,Theo,Hendriks,1945-04-28
+1986,Zoe,Wolff,1956-11-20
+1987,Chris,Knol,1949-04-17
+1988,Francien,de Vries,1953-02-04
+1989,Dick,van Leeuwen,1951-06-08
+1990,Sjoerd,Meijer,1953-03-02
+1991,Anke,de Vries,1952-10-26
+1992,Sjoerd,Dijkstra,1949-04-15
+1993,Petra,van den Berg,1943-02-08
+1994,Francien,van Leeuwen,1942-11-16
+1995,Yvonne,Jansen,1944-11-12
+1996,Nico,Brouwer,1951-01-03
+1997,Leo,van Leeuwen,1942-12-22
+1998,Gerda,Huisman,1957-05-07
+1999,Griet,Vos,1948-06-11
+2000,Irene,Brouwer,1944-10-24
+2001,Daphne,de Wit,1945-06-14
+2002,Sandra,Prins,1955-01-22
+2003,Femke,de Groot,1952-04-16
+2004,Daphne,Bos,1946-08-09
+2005,Theo,Koster,1945-10-06
+2006,Ineke,de Graaf,1953-07-31
+2007,Kees,Schipper,1944-11-08
+2008,Karin,van Dijk,1947-03-20
+2009,Leo,Schipper,1943-12-06
+2010,Anke,Smit,1950-01-02
+2011,Ineke,Knol,1950-07-08
+2012,Pieter,Mulder,1956-07-21
+2013,Eduard,de Groot,1953-10-22
+2014,Dora,Peters,1955-02-05
+2015,Carla,Schouten,1952-12-18
+2016,Kees,de Graaf,1952-07-25
+2017,Maria,van Leeuwen,1949-09-01
+2018,Paul,Schouten,1945-02-09
+2019,Hanneke,Linden,1947-01-18
+2020,Hilde,Evers,1949-09-10
+2021,Bea,Peters,1947-03-16
+2022,Yvonne,Koster,1947-08-05
+2023,Jorn,Maas,1946-04-20
+2024,Laura,Bosman,1956-09-06
+2025,Xandra,Smits,1956-03-20
+2026,Karin,Hendriks,1956-02-17
+2027,Femke,Dekker,1956-11-09
+2028,Bea,van der Berg,1943-01-08
+2029,Dora,de Boer,1947-10-08
+2030,Harold,Bos,1952-12-16
+2031,Gert,Wolff,1942-12-29
+2032,Gert,Evers,1951-08-06
+2033,Nathalie,van Leeuwen,1953-11-11
+2034,Theo,Schipper,1955-04-01
+2035,Pieter,Evers,1953-08-11
+2036,Anna,Bosman,1949-04-16
+2037,Maarten,Wolff,1948-08-22
+2038,Dick,Peeters,1951-12-26
+2039,Jan,Vos,1949-06-21
+2040,Ivo,Peeters,1950-03-08
+2041,Leo,Wolff,1956-09-14
+2042,Jaap,Hoekstra,1948-11-01
+2043,Ruud,Smits,1956-12-31
+2044,Emma,Hendriks,1953-09-25
+2045,Frans,Schouten,1956-10-13
+2046,Ursula,Evers,1950-02-23
+2047,Evert,Verhoeven,1950-12-01
+2048,Anke,Hermans,1957-03-06
+2049,Griet,de Jong,1949-01-28
+2050,David,Timmermans,1950-08-19
+2051,Paul,Postma,1943-02-14
+2052,Truus,Brouwer,1956-05-07
+2053,Griet,Bosman,1945-04-18
+2054,Willem,Dijkstra,1945-08-09
+2055,Sandra,Kuipers,1952-02-28
+2056,Vera,van Leeuwen,1944-08-07
+2057,Ivo,Wolff,1954-03-04
+2058,Leo,de Groot,1946-10-07
+2059,Anton,van der Meer,1949-07-31
+2060,Herman,van den Berg,1944-04-07
+2061,Jorn,Linden,1954-07-03
+2062,Martin,Evers,1946-01-10
+2063,Maarten,Jansen,1947-04-07
+2064,Gerda,Dekker,1953-03-23
+2065,Roos,Prins,1953-02-07
+2066,Sjoerd,van der Berg,1953-12-18
+2067,Carla,Hermans,1945-08-07
+2068,Maria,Dijkstra,1954-12-20
+2069,Oda,Evers,1955-10-07
+2070,Ferdinand,Kuipers,1951-11-04
+2071,Francien,Timmermans,1951-10-09
+2072,Otto,Schipper,1952-01-29
+2073,Leo,de Boer,1946-10-08
+2074,Laura,Dekker,1955-11-16
+2075,Griet,Bosman,1946-04-09
+2076,Irene,Hendriks,1945-04-10
+2077,Laura,Evers,1950-02-15
+2078,Nico,Wolff,1956-02-17
+2079,Gerrit,Vos,1952-12-07
+2080,Xandra,Vos,1944-10-22
+2081,Ursula,Prins,1951-04-15
+2082,Nico,de Graaf,1947-09-28
+2083,Roos,Hermans,1944-11-04
+2084,Truus,Schouten,1949-06-14
+2085,Hilde,Bosman,1949-11-11
+2086,Kees,Kuipers,1943-06-12
+2087,Igor,Hermans,1942-12-01
+2088,Kurt,van Dijk,1955-08-30
+2089,Francien,de Groot,1956-01-31
+2090,Hanneke,Visser,1943-02-03
+2091,Ruud,van der Meer,1945-01-09
+2092,Leo,Prins,1951-07-24
+2093,Dora,Meijer,1953-10-27
+2094,Irene,de Groot,1950-06-08
+2095,Wies,Prins,1955-08-05
+2096,Harold,Schouten,1945-12-06
+2097,Joke,de Wit,1948-09-07
+2098,Dick,Bakker,1956-01-27
+2099,Gerda,Dijkstra,1954-03-01
+2100,Laura,de Wit,1953-03-15
+2101,Dora,de Jong,1956-10-13
+2102,Daphne,van Leeuwen,1954-01-25
+2103,Frans,de Boer,1946-04-21
+2104,Harold,de Boer,1949-04-13
+2105,Gerda,Bakker,1955-08-20
+2106,Irene,Verhoeven,1945-02-08
+2107,Victor,Kuipers,1943-03-29
+2108,Corine,Linden,1947-05-10
+2109,Corine,Bosman,1957-07-03
+2110,Zoe,de Jong,1956-12-03
+2111,Carla,Willems,1953-07-11
+2112,Maria,de Graaf,1947-01-05
+2113,Anna,de Wit,1951-12-01
+2114,Ineke,de Groot,1953-05-04
+2115,Pieter,Evers,1955-10-12
+2116,Anna,Kuipers,1953-11-01
+2117,Petra,Vos,1957-02-26
+2118,Otto,Brouwer,1946-06-22
+2119,Irene,Janssen,1943-08-20
+2120,Zoe,Schipper,1955-03-16
+2121,Ursula,de Boer,1956-05-22
+2122,Willem,de Vries,1948-01-28
+2123,Ursula,Dekker,1942-12-05
+2124,Arnold,van der Meer,1954-06-02
+2125,Jorn,van der Meer,1949-05-23
+2126,Nico,Hoekstra,1954-05-18
+2127,Maarten,Dijkstra,1955-12-22
+2128,Gerda,Smits,1945-02-02
+2129,Maria,de Boer,1947-09-20
+2130,Anke,Jansen,1957-09-23
+2131,Oda,Vos,1955-10-02
+2132,Maarten,Bos,1952-10-31
+2133,Bea,Hermans,1946-04-25
+2134,Hanneke,de Boer,1953-09-07
+2135,Hans,de Graaf,1955-04-06
+2136,Henk,van der Berg,1945-03-12
+2137,Ivo,Willems,1946-12-16
+2138,Kurt,van den Berg,1944-05-01
+2139,Dora,Timmermans,1945-03-15
+2140,Griet,Wolff,1946-05-04
+2141,Bea,van den Berg,1950-09-28
+2142,Hilde,Prins,1949-11-11
+2143,Daphne,van der Berg,1948-08-23
+2144,Hans,Postma,1945-01-16
+2145,Ivo,Bosman,1946-08-26
+2146,Anton,Bos,1947-04-30
+2147,Jan,Brouwer,1944-11-30
+2148,Brigitte,Timmermans,1953-07-04
+2149,Griet,Timmermans,1947-03-29
+2150,Evert,van Leeuwen,1952-02-01
+2151,Irene,Prins,1954-05-30
+2152,Johan,Schipper,1950-10-04
+2153,Hilde,Dekker,1944-04-22
+2154,Hans,Janssen,1951-09-17
+2155,Chris,de Groot,1945-05-12
+2156,Jorn,de Groot,1945-02-09
+2157,Roos,van der Meer,1944-12-14
+2158,Maria,Smits,1946-08-18
+2159,Brigitte,Dekker,1949-04-13
+2160,Karin,de Vries,1947-12-28
+2161,Guus,Koster,1945-05-25
+2162,Frans,Huisman,1943-12-10
+2163,Francien,Dijkstra,1955-07-03
+2164,Petra,de Jong,1953-07-21
+2165,Jan,Timmermans,1948-10-08
+2166,Femke,Visser,1957-05-01
+2167,Gerda,Meijer,1953-03-05
+2168,Femke,Schipper,1945-07-20
+2169,Els,Janssen,1951-05-08
+2170,Roos,Wolff,1951-05-15
+2171,Oda,Schouten,1957-05-22
+2172,Karel,Hendriks,1954-04-22
+2173,Arnold,van den Berg,1950-02-21
+2174,Griet,Mulder,1943-06-25
+2175,Carla,Dekker,1952-08-02
+2176,Paul,Evers,1953-06-12
+2177,Martin,Hoekstra,1945-09-11
+2178,Hilde,Janssen,1949-08-14
+2179,Carla,de Jong,1945-03-30
+2180,Irene,Timmermans,1945-04-02
+2181,Karin,Dijkstra,1945-09-20
+2182,Otto,Maas,1957-03-02
+2183,Sandra,Bakker,1950-03-19
+2184,Paul,Dijkstra,1949-02-08
+2185,Laura,Visser,1952-03-13
+2186,Sjoerd,Linden,1943-12-27
+2187,Emma,van Leeuwen,1951-12-02
+2188,Zoe,Huisman,1947-05-19
+2189,Francien,Prins,1943-05-15
+2190,Karin,Visser,1952-07-23
+2191,Irene,Huisman,1948-05-03
+2192,Dora,de Boer,1948-06-25
+2193,Griet,Prins,1946-07-09
+2194,Francien,Knol,1957-12-12
+2195,Daphne,Mulder,1957-09-21
+2196,Kurt,van der Berg,1944-03-27
+2197,Xandra,Verhoeven,1947-02-25
+2198,Pieter,Evers,1955-01-02
+2199,Maarten,Bosman,1947-10-15
+2200,Chris,Visser,1949-01-10
+2201,Brigitte,Maas,1951-12-23
+2202,Carla,van Dijk,1945-06-06
+2203,Roos,Wolff,1947-11-28
+2204,Vera,de Jong,1950-12-18
+2205,Ineke,Knol,1946-11-05
+2206,Oda,Timmermans,1950-03-25
+2207,Wies,van der Meer,1951-12-12
+2208,Ineke,Huisman,1952-02-06
+2209,Griet,Hoekstra,1950-08-01
+2210,Petra,Bosman,1955-02-14
+2211,Xandra,Timmermans,1945-08-18
+2212,Zoe,Meijer,1955-01-15
+2213,Guus,Verhoeven,1955-05-03
+2214,Dora,de Jong,1952-08-13
+2215,Karin,Schipper,1956-12-13
+2216,Francien,Koster,1955-07-02
+2217,Bert,van Dijk,1944-06-21
+2218,Chris,de Wit,1944-05-21
+2219,Petra,Dijkstra,1946-06-17
+2220,Jaap,van den Berg,1944-12-01
+2221,David,Vos,1954-01-09
+2222,Guus,Wolff,1947-03-30
+2223,Zoe,Linden,1947-10-13
+2224,Herman,Bakker,1947-03-13
+2225,Arnold,Maas,1951-03-09
+2226,Harold,Maas,1945-08-11
+2227,Gerrit,Koster,1951-12-19
+2228,Wim,de Wit,1947-12-14
+2229,Hans,Koster,1945-09-30
+2230,Bea,Janssen,1952-07-19
+2231,Anke,Prins,1946-06-16
+2232,Henk,Postma,1943-03-04
+2233,Anna,Bakker,1954-12-20
+2234,Ursula,Schipper,1952-08-25
+2235,Nathalie,Wolff,1954-04-25
+2236,Emma,Dijkstra,1946-08-11
+2237,Paul,van den Berg,1952-07-22
+2238,Oda,Schouten,1954-07-19
+2239,Nico,Postma,1957-11-17
+2240,Kurt,Peeters,1954-08-20
+2241,Francien,Timmermans,1957-02-23
+2242,Yvonne,Maas,1949-03-11
+2243,Hans,Janssen,1943-09-02
+2244,Gert,de Jong,1956-04-15
+2245,Wies,Smits,1945-12-16
+2246,Karel,Postma,1950-11-20
+2247,Ineke,de Graaf,1952-04-06
+2248,Griet,de Vries,1949-08-15
+2249,Bert,Koster,1957-07-26
+2250,Irene,Prins,1945-03-03
+2251,Johan,Hendriks,1956-02-26
+2252,Maria,de Groot,1955-03-30
+2253,Hans,Linden,1948-09-15
+2254,Nathalie,Schouten,1948-04-28
+2255,Maria,Dijkstra,1949-08-03
+2256,Griet,Prins,1945-05-31
+2257,Carla,Kuipers,1951-06-09
+2258,Igor,Visser,1943-08-08
+2259,Daphne,Schouten,1951-04-12
+2260,Hanneke,Smit,1952-12-23
+2261,Chris,de Jong,1954-06-18
+2262,Ineke,van den Berg,1957-06-20
+2263,Corine,Hermans,1956-01-19
+2264,Bas,Schipper,1943-08-26
+2265,Laura,Huisman,1953-02-02
+2266,Laura,Smit,1957-02-04
+2267,Griet,van der Berg,1957-05-21
+2268,Vera,Schipper,1957-10-27
+2269,Ruud,Prins,1950-04-09
+2270,Petra,van Leeuwen,1950-06-10
+2271,Anke,Dijkstra,1947-12-16
+2272,Truus,Maas,1952-05-08
+2273,Irene,Smit,1956-09-22
+2274,Brigitte,Peeters,1956-05-18
+2275,David,Brouwer,1947-04-04
+2276,Vera,Postma,1946-08-31
+2277,Nathalie,de Groot,1951-08-12
+2278,Frans,Verhoeven,1950-06-29
+2279,Truus,Evers,1946-06-18
+2280,Xandra,Evers,1951-10-20
+2281,Maarten,Wolff,1955-04-23
+2282,Laura,Schipper,1949-11-02
+2283,Ferdinand,Huisman,1946-07-22
+2284,Martin,Visser,1948-11-07
+2285,Xandra,Postma,1956-06-03
+2286,Francien,Hermans,1950-10-03
+2287,Harold,Timmermans,1951-03-03
+2288,Theo,Evers,1951-05-20
+2289,Judith,Dekker,1943-10-07
+2290,Victor,de Jong,1943-10-03
+2291,Ineke,Janssen,1946-08-12
+2292,Bea,van der Berg,1957-12-25
+2293,Anton,van den Berg,1948-01-23
+2294,Dora,de Groot,1946-05-07
+2295,Jaap,de Boer,1949-09-23
+2296,Truus,Evers,1954-09-20
+2297,Ivo,Meijer,1950-04-23
+2298,Dora,Huisman,1949-01-13
+2299,Truus,Bos,1956-03-13
+2300,Judith,de Vries,1953-04-25
+2301,Xandra,Maas,1956-11-09
+2302,Johan,Verhoeven,1951-12-06
+2303,Guus,Vos,1955-05-11
+2304,Guus,van der Berg,1946-04-21
+2305,Petra,Schipper,1948-09-16
+2306,Karel,Huisman,1944-08-28
+2307,Dora,van der Berg,1944-11-25
+2308,Zoe,Prins,1946-09-27
+2309,Vera,Postma,1945-09-01
+2310,Kees,de Jong,1944-12-31
+2311,Roos,de Groot,1944-07-28
+2312,Daphne,Vos,1946-08-08
+2313,Yvonne,Hermans,1948-12-19
+2314,Judith,Peeters,1948-10-16
+2315,Eduard,de Groot,1954-02-15
+2316,Truus,Maas,1953-02-02
+2317,Laura,Evers,1946-05-22
+2318,Willem,Mulder,1943-06-06
+2319,Dick,Schipper,1953-12-30
+2320,Hilde,van der Berg,1956-07-23
+2321,Henk,Hoekstra,1946-05-02
+2322,Sandra,Postma,1948-01-04
+2323,Ivo,Smit,1955-07-08
+2324,Bert,Hermans,1950-09-13
+2325,Roos,de Jong,1945-05-13
+2326,Nico,Schouten,1946-09-29
+2327,Joke,de Vries,1953-12-09
+2328,Anton,de Wit,1947-12-16
+2329,Jorn,van den Berg,1945-11-17
+2330,Ursula,Koster,1951-11-30
+2331,Xandra,van Dijk,1947-04-30
+2332,Vera,van der Meer,1946-03-01
+2333,Gert,Mulder,1946-08-21
+2334,Evert,van Dijk,1946-08-18
+2335,Hanneke,de Boer,1945-11-21
+2336,Brigitte,Willems,1953-10-20
+2337,Judith,Linden,1950-10-22
+2338,Gerrit,Smits,1951-11-23
+2339,Gert,Bos,1949-10-16
+2340,Wies,Dijkstra,1955-11-18
+2341,Yvonne,Dekker,1956-07-16
+2342,Nathalie,Verhoeven,1957-08-30
+2343,Ineke,Bosman,1948-09-27
+2344,Anna,Visser,1953-06-07
+2345,Xandra,Maas,1945-10-10
+2346,Herman,Wolff,1948-02-11
+2347,Petra,de Vries,1957-08-03
+2348,Vera,van der Berg,1945-12-27
+2349,Hans,van der Berg,1943-06-24
+2350,Ivo,Willems,1958-03-09
+2351,Truus,Jansen,1952-02-03
+2352,Ineke,de Graaf,1950-06-02
+2353,David,Schipper,1946-12-25
+2354,Daphne,Koster,1945-03-19
+2355,Carla,Dekker,1953-06-25
+2356,Eduard,de Wit,1945-02-07
+2357,David,Bakker,1946-08-29
+2358,Johan,de Boer,1957-12-30
+2359,Judith,Willems,1946-01-09
+2360,Anna,Kuipers,1955-07-31
+2361,Els,Bos,1948-07-28
+2362,Nathalie,Evers,1957-12-27
+2363,Corine,Janssen,1949-02-20
+2364,Nathalie,Willems,1951-06-30
+2365,Corine,Wolff,1945-09-10
+2366,Willem,Evers,1944-01-27
+2367,Anton,Jansen,1950-06-28
+2368,Arnold,Dijkstra,1945-12-24
+2369,Henk,Bakker,1947-10-02
+2370,Els,van den Berg,1958-05-08
+2371,Laura,Hendriks,1952-09-07
+2372,Els,Knol,1957-08-29
+2373,Oda,Hendriks,1944-10-30
+2374,Theo,van der Berg,1957-12-10
+2375,Wim,Kuipers,1946-07-24
+2376,Sjoerd,Hoekstra,1953-08-03
+2377,Vera,Jansen,1952-07-01
+2378,Ruud,Evers,1953-01-06
+2379,Hilde,Willems,1944-01-06
+2380,Anna,Wolff,1943-09-07
+2381,Els,Hermans,1944-12-04
+2382,Carla,Huisman,1955-02-15
+2383,Willem,Smits,1950-03-06
+2384,Hanneke,Janssen,1947-04-10
+2385,Truus,Evers,1952-05-19
+2386,Ursula,Peeters,1950-07-26
+2387,Femke,Dekker,1945-03-16
+2388,Wim,van der Berg,1956-01-07
+2389,Sjoerd,Timmermans,1950-08-15
+2390,Pieter,Bosman,1945-03-23
+2391,Karin,Willems,1953-03-16
+2392,Oda,Smit,1949-01-03
+2393,Sjoerd,Willems,1950-01-09
+2394,Karel,Kuipers,1948-08-05
+2395,Joke,Brouwer,1952-05-17
+2396,Paul,de Jong,1956-07-25
+2397,Joke,Visser,1952-04-04
+2398,Henk,de Jong,1949-03-03
+2399,Anke,Willems,1943-08-11
+2400,Guus,Bakker,1949-09-17
+2401,Ursula,Bos,1953-04-06
+2402,Xandra,Bos,1957-12-24
+2403,Brigitte,Wolff,1949-12-28
+2404,Hanneke,Meijer,1951-07-30
+2405,Karin,Mulder,1954-02-06
+2406,Gert,Verhoeven,1946-11-07
+2407,Roos,de Groot,1949-07-25
+2408,Hans,Mulder,1957-05-19
+2409,Dora,Postma,1950-04-29
+2410,Emma,Wolff,1943-06-29
+2411,Guus,van Dijk,1950-10-04
+2412,Truus,Timmermans,1946-07-23
+2413,Willem,Hendriks,1957-12-03
+2414,Johan,de Groot,1953-06-05
+2415,Igor,Koster,1958-03-29
+2416,Wies,Smits,1945-01-06
+2417,Irene,Timmermans,1950-03-21
+2418,Herman,Janssen,1946-02-22
+2419,Truus,Verhoeven,1945-09-16
+2420,Willem,de Groot,1944-06-22
+2421,Vera,Koster,1953-10-08
+2422,Daphne,Dijkstra,1954-01-17
+2423,Kurt,Timmermans,1956-05-23
+2424,Leo,Huisman,1946-05-07
+2425,Joke,Knol,1945-07-29
+2426,Yvonne,de Wit,1944-08-17
+2427,Victor,de Boer,1944-03-17
+2428,Anna,de Wit,1951-05-01
+2429,Petra,Vos,1950-04-19
+2430,Corine,van Leeuwen,1946-07-16
+2431,Yvonne,Smit,1945-09-10
+2432,Nico,Bosman,1956-07-11
+2433,Arnold,Maas,1947-10-08
+2434,Xandra,Brouwer,1947-03-12
+2435,Gerda,Postma,1956-07-09
+2436,Griet,Mulder,1943-09-27
+2437,Femke,van Leeuwen,1948-12-17
+2438,Irene,Willems,1944-04-05
+2439,Eduard,Hendriks,1948-04-04
+2440,Els,van Dijk,1954-11-03
+2441,Pieter,Schipper,1944-01-18
+2442,Pieter,Hermans,1948-12-11
+2443,Igor,Linden,1948-07-29
+2444,Nathalie,de Vries,1947-08-21
+2445,Roos,Willems,1955-01-08
+2446,Judith,Bosman,1950-12-10
+2447,Anton,de Graaf,1946-07-03
+2448,Sjoerd,Vos,1943-08-12
+2449,Igor,Dekker,1944-01-28
+2450,Irene,Schouten,1945-08-09
+2451,Hanneke,Schipper,1956-01-11
+2452,Gerrit,Linden,1952-01-26
+2453,Paul,Schipper,1954-11-08
+2454,Jan,Timmermans,1944-05-05
+2455,Petra,Verhoeven,1955-02-16
+2456,Karin,Schipper,1946-11-24
+2457,Irene,Maas,1955-06-02
+2458,Bert,Mulder,1951-05-03
+2459,Harold,Knol,1955-07-01
+2460,Joke,Bosman,1948-03-14
+2461,Otto,de Vries,1946-03-15
+2462,Oda,Koster,1953-07-07
+2463,Oda,van Dijk,1947-09-14
+2464,Roos,de Graaf,1947-02-13
+2465,Oda,de Vries,1957-09-02
+2466,Nathalie,van der Meer,1947-07-31
+2467,Yvonne,van der Berg,1951-03-05
+2468,Bas,Schouten,1951-03-21
+2469,Carla,de Vries,1947-01-21
+2470,Martin,Janssen,1957-08-06
+2471,Ineke,Kuipers,1954-09-16
+2472,Jaap,Hendriks,1952-03-07
+2473,Igor,Willems,1951-12-08
+2474,Laura,van der Berg,1949-06-19
+2475,Zoe,de Graaf,1955-11-19
+2476,Els,van der Meer,1953-06-01
+2477,Roos,van der Berg,1953-06-07
+2478,Oda,van der Meer,1956-05-16
+2479,Anke,Smits,1956-10-05
+2480,Otto,Koster,1951-02-04
+2481,Francien,Peeters,1949-03-27
+2482,Anna,Schipper,1957-08-19
+2483,Irene,Maas,1951-10-01
+2484,Karin,Vos,1952-04-21
+2485,Willem,Schipper,1949-12-10
+2486,Sandra,Bos,1955-03-09
+2487,Anton,Mulder,1944-07-25
+2488,Karin,de Graaf,1948-12-12
+2489,Hilde,Timmermans,1951-07-13
+2490,Oda,Prins,1956-08-04
+2491,Wies,Visser,1945-09-01
+2492,Bas,Evers,1953-04-25
+2493,Bas,Bosman,1949-06-10
+2494,Nathalie,Hermans,1956-11-14
+2495,Bert,Wolff,1951-08-23
+2496,Brigitte,Jansen,1953-05-15
+2497,Petra,de Vries,1944-01-26
+2498,Irene,Knol,1947-12-04
+2499,Igor,de Boer,1947-02-10
+2500,Irene,Kuipers,1957-08-30
+2501,Hanneke,de Vries,1955-01-22
+2502,Joke,van den Berg,1953-10-13
+2503,Bert,Hendriks,1949-05-13
+2504,Dick,van der Meer,1952-01-15
+2505,Anke,Peeters,1955-03-27
+2506,Harold,Kuipers,1949-02-18
+2507,Pieter,Timmermans,1952-01-20
+2508,Karel,Bakker,1949-05-10
+2509,Frans,Maas,1946-06-21
+2510,Jorn,Bosman,1958-03-27
+2511,Francien,de Boer,1944-08-09
+2512,Oda,Prins,1950-01-12
+2513,Joke,Hermans,1953-07-01
+2514,Dick,Verhoeven,1953-02-19
+2515,David,Hendriks,1954-07-31
+2516,Karin,Evers,1944-08-28
+2517,Wies,Schouten,1954-06-21
+2518,Jorn,Hermans,1955-01-13
+2519,Willem,Vos,1957-05-10
+2520,Zoe,van der Berg,1954-12-25
+2521,Irene,Janssen,1957-07-01
+2522,Bea,de Groot,1956-07-19
+2523,Evert,Schipper,1948-04-29
+2524,Theo,Meijer,1949-05-26
+2525,Jorn,Janssen,1950-01-15
+2526,Laura,Bosman,1951-12-10
+2527,Kurt,Peeters,1944-08-25
+2528,Carla,Willems,1948-03-19
+2529,Hanneke,Visser,1953-05-29
+2530,Femke,Bosman,1947-04-08
+2531,Maarten,Peeters,1944-07-18
+2532,Ferdinand,de Jong,1944-02-13
+2533,Corine,van der Meer,1945-08-01
+2534,Theo,de Graaf,1953-07-19
+2535,Carla,Huisman,1957-11-13
+2536,Evert,Hoekstra,1945-11-27
+2537,Gert,Bosman,1956-01-16
+2538,Ruud,Smits,1946-07-15
+2539,Igor,Huisman,1944-01-26
+2540,Griet,Hoekstra,1945-02-03
+2541,Maarten,Hendriks,1944-07-15
+2542,Francien,Vos,1950-02-23
+2543,Femke,Dekker,1953-11-05
+2544,Judith,Prins,1947-12-17
+2545,Roos,de Groot,1956-09-10
+2546,Anna,de Jong,1948-06-11
+2547,Harold,van der Meer,1955-09-08
+2548,Hilde,van der Meer,1944-03-29
+2549,Anna,van der Berg,1947-06-14
+2550,Frans,Huisman,1953-04-14
+2551,Martin,Prins,1954-10-15
+2552,Yvonne,Janssen,1958-06-06
+2553,Anton,Hoekstra,1954-06-07
+2554,Roos,Hendriks,1947-07-17
+2555,Judith,Hoekstra,1948-11-19
+2556,Yvonne,Verhoeven,1947-03-09
+2557,Jaap,Evers,1944-02-16
+2558,Anke,Bos,1945-08-31
+2559,Brigitte,Postma,1949-06-30
+2560,Guus,Bosman,1948-03-08
+2561,Dick,de Graaf,1947-03-21
+2562,Francien,Hendriks,1945-07-03
+2563,Ursula,Knol,1943-10-20
+2564,Otto,Linden,1950-07-14
+2565,Maarten,Timmermans,1947-08-24
+2566,Hilde,Vos,1944-03-07
+2567,Daphne,Huisman,1954-03-27
+2568,Bert,Janssen,1954-09-07
+2569,Frans,Schipper,1948-05-21
+2570,Sjoerd,Dijkstra,1957-10-05
+2571,Guus,Verhoeven,1944-01-14
+2572,Dora,de Boer,1948-09-30
+2573,Ruud,Kuipers,1956-01-09
+2574,Anna,Bakker,1953-08-29
+2575,Joke,Bosman,1958-07-04
+2576,Jorn,Hoekstra,1947-04-02
+2577,Gerrit,van Dijk,1955-07-02
+2578,Ivo,Vos,1956-08-29
+2579,Yvonne,Bakker,1949-07-04
+2580,Jorn,de Vries,1958-01-02
+2581,Ruud,Linden,1950-11-07
+2582,Ineke,Dekker,1954-01-14
+2583,Jorn,van den Berg,1958-02-05
+2584,Laura,Kuipers,1956-04-07
+2585,Gerda,Maas,1958-06-09
+2586,Jan,de Groot,1949-06-08
+2587,Evert,Dekker,1949-07-02
+2588,Eduard,de Vries,1948-02-24
+2589,Jorn,Schipper,1948-05-10
+2590,Ineke,Huisman,1944-06-07
+2591,Oda,Verhoeven,1946-05-17
+2592,Karin,Evers,1954-02-13
+2593,Henk,de Graaf,1951-05-27
+2594,Petra,Wolff,1957-04-26
+2595,Anna,de Boer,1949-10-24
+2596,Gerrit,van Leeuwen,1956-04-23
+2597,Anke,Smits,1954-05-26
+2598,Anke,Linden,1944-06-19
+2599,Maria,van der Meer,1946-07-04
+2600,Anna,van Dijk,1958-08-02
+2601,Femke,Postma,1954-10-01
+2602,Karel,Postma,1954-10-27
+2603,Xandra,Smits,1951-07-16
+2604,Jaap,Vos,1948-07-05
+2605,Maria,Schouten,1951-03-16
+2606,Anke,Knol,1954-06-21
+2607,Jan,Hendriks,1958-08-01
+2608,Laura,Prins,1946-07-08
+2609,Hanneke,Janssen,1948-06-15
+2610,Els,Schipper,1956-10-04
+2611,Truus,Dijkstra,1957-03-30
+2612,Hans,Schipper,1946-01-04
+2613,Roos,Willems,1958-11-02
+2614,Roos,Huisman,1955-11-27
+2615,Daphne,van der Berg,1956-06-16
+2616,Francien,Peters,1949-07-02
+2617,Wies,Schouten,1949-07-05
+2618,Emma,Hermans,1945-10-17
+2619,Bea,Bosman,1951-04-01
+2620,Hilde,Hendriks,1955-09-08
+2621,Els,van der Berg,1956-06-03
+2622,Oda,Evers,1954-10-19
+2623,Gert,de Wit,1955-12-08
+2624,Brigitte,Smits,1955-12-08
+2625,Ineke,Willems,1951-06-26
+2626,Anna,Huisman,1958-04-20
+2627,Ivo,Peters,1945-04-25
+2628,Karel,Bakker,1958-05-13
+2629,Sjoerd,Evers,1951-11-26
+2630,Wies,van Dijk,1952-10-16
+2631,Laura,Bosman,1958-02-17
+2632,Martin,Smits,1947-04-28
+2633,Nathalie,Knol,1946-04-01
+2634,Sandra,Mulder,1958-03-17
+2635,Maria,Koster,1950-04-22
+2636,Maria,Peters,1946-01-29
+2637,Petra,Hendriks,1947-04-12
+2638,Nathalie,Vos,1944-01-29
+2639,Eduard,Peters,1946-09-04
+2640,Xandra,Meijer,1951-04-07
+2641,Griet,Visser,1958-09-02
+2642,Gerrit,Evers,1944-12-12
+2643,Gerda,Verhoeven,1955-02-22
+2644,Jan,Willems,1944-06-16
+2645,Henk,Bosman,1954-01-02
+2646,Yvonne,Verhoeven,1948-08-19
+2647,Vera,Koster,1949-03-21
+2648,Harold,van Leeuwen,1955-03-30
+2649,Gerda,Mulder,1951-08-20
+2650,Hanneke,van Leeuwen,1953-06-12
+2651,Anke,Vos,1951-03-21
+2652,Harold,Smit,1958-08-29
+2653,Kees,van der Meer,1956-04-30
+2654,Corine,Bosman,1946-02-04
+2655,Judith,de Vries,1955-01-05
+2656,Hanneke,Smits,1952-03-04
+2657,Anke,Evers,1953-03-06
+2658,Laura,Schouten,1957-04-22
+2659,Hilde,Huisman,1957-11-29
+2660,Evert,Schouten,1944-06-05
+2661,Vera,Huisman,1944-08-04
+2662,Jan,de Jong,1952-08-12
+2663,Nathalie,van der Berg,1950-09-06
+2664,Griet,de Wit,1944-01-11
+2665,Paul,Verhoeven,1950-01-15
+2666,Roos,Mulder,1948-07-24
+2667,Roos,Peters,1953-01-23
+2668,Sandra,Bosman,1955-03-14
+2669,Kurt,Dijkstra,1951-12-10
+2670,Yvonne,Mulder,1955-06-12
+2671,Gerda,Hoekstra,1948-12-06
+2672,Frans,Prins,1955-01-10
+2673,Yvonne,de Graaf,1949-12-18
+2674,Anke,van Leeuwen,1957-10-02
+2675,Daphne,Mulder,1949-02-12
+2676,Irene,Knol,1947-09-09
+2677,Oda,Janssen,1956-08-30
+2678,Sandra,Peters,1954-07-05
+2679,Corine,van der Berg,1958-01-09
+2680,Eduard,Meijer,1957-12-15
+2681,Joke,Bosman,1953-03-12
+2682,Anna,Mulder,1953-05-07
+2683,Theo,Koster,1956-08-08
+2684,Irene,Kuipers,1944-12-19
+2685,Ineke,Willems,1951-01-14
+2686,Martin,Koster,1956-09-10
+2687,Leo,Hendriks,1957-07-05
+2688,Dora,Linden,1953-05-09
+2689,Johan,Huisman,1950-09-22
+2690,Bert,van den Berg,1948-08-10
+2691,Frans,Hendriks,1944-12-02
+2692,Bas,Kuipers,1954-07-31
+2693,Johan,Maas,1947-07-04
+2694,Nico,Hendriks,1955-06-24
+2695,Paul,de Graaf,1948-08-18
+2696,Roos,Smits,1954-04-27
+2697,Pieter,Prins,1945-05-01
+2698,Hilde,Smits,1950-07-16
+2699,Jorn,de Groot,1948-03-12
+2700,Harold,Knol,1954-11-24
+2701,Judith,Mulder,1953-02-16
+2702,Karel,Smits,1944-07-17
+2703,Martin,Evers,1944-09-22
+2704,Hanneke,Koster,1945-12-27
+2705,Daphne,Bakker,1952-06-21
+2706,Ruud,Verhoeven,1948-03-26
+2707,Truus,Schouten,1944-09-28
+2708,Anton,de Boer,1952-10-13
+2709,Wies,Prins,1958-05-30
+2710,Anke,van Dijk,1948-03-12
+2711,Femke,de Boer,1954-09-29
+2712,Nico,Vos,1951-05-11
+2713,Vera,de Wit,1945-10-31
+2714,Karel,van Leeuwen,1946-12-02
+2715,Anke,van Leeuwen,1947-11-26
+2716,Daphne,de Graaf,1945-03-10
+2717,Ineke,Maas,1948-01-08
+2718,Theo,de Boer,1952-09-27
+2719,Dick,Jansen,1957-12-21
+2720,Irene,Peters,1955-07-31
+2721,Roos,Huisman,1950-04-27
+2722,Gerrit,Bos,1948-01-12
+2723,Karin,Linden,1954-04-06
+2724,Griet,Janssen,1947-08-17
+2725,Els,Bosman,1947-07-20
+2726,Guus,van den Berg,1953-01-12
+2727,Pieter,Linden,1957-04-01
+2728,Ineke,Bakker,1955-05-13
+2729,Griet,Hendriks,1956-11-18
+2730,Kurt,Meijer,1951-09-12
+2731,Femke,Wolff,1952-01-27
+2732,Zoe,Brouwer,1953-02-03
+2733,Oda,Peters,1946-05-26
+2734,Truus,Maas,1951-02-11
+2735,Maarten,Smit,1955-08-22
+2736,Ineke,de Boer,1950-09-08
+2737,Bea,de Vries,1951-07-06
+2738,Xandra,de Wit,1944-07-07
+2739,Bas,Schouten,1949-04-18
+2740,Ferdinand,van Leeuwen,1953-04-09
+2741,Daphne,Smit,1947-06-08
+2742,Ferdinand,Mulder,1946-01-04
+2743,Emma,Kuipers,1954-12-02
+2744,Harold,Hoekstra,1946-11-22
+2745,Ineke,Kuipers,1945-07-13
+2746,Judith,Brouwer,1952-09-25
+2747,Xandra,Bosman,1945-10-28
+2748,Judith,Vos,1957-01-20
+2749,Gerrit,Maas,1947-05-16
+2750,Leo,de Graaf,1956-04-03
+2751,Theo,Hendriks,1954-09-11
+2752,Joke,Brouwer,1949-04-01
+2753,Jan,de Jong,1945-06-14
+2754,Ineke,Smit,1951-09-30
+2755,Otto,Dekker,1949-09-24
+2756,Bas,Willems,1945-11-23
+2757,Anna,Huisman,1958-06-11
+2758,Chris,Bosman,1950-03-15
+2759,Ursula,de Jong,1958-02-05
+2760,Corine,Dekker,1952-11-17
+2761,Jorn,Vos,1957-03-10
+2762,Anna,Postma,1953-11-21
+2763,Yvonne,de Groot,1953-01-02
+2764,Brigitte,Postma,1958-09-21
+2765,Corine,Linden,1950-09-27
+2766,Petra,de Boer,1950-08-22
+2767,Ruud,van der Berg,1952-07-16
+2768,Oda,Hendriks,1952-01-29
+2769,Gerrit,Hoekstra,1959-01-08
+2770,Herman,van der Meer,1950-04-23
+2771,Sandra,Dekker,1945-02-11
+2772,Ferdinand,van Leeuwen,1953-11-15
+2773,Brigitte,de Groot,1957-10-31
+2774,Els,Mulder,1957-04-08
+2775,Irene,Dekker,1956-09-22
+2776,Hilde,Kuipers,1956-09-22
+2777,Arnold,Verhoeven,1950-08-30
+2778,Daphne,van Leeuwen,1950-10-15
+2779,Kurt,Koster,1947-05-21
+2780,Eduard,de Wit,1945-03-29
+2781,Bea,Meijer,1958-04-11
+2782,Kees,Willems,1957-06-17
+2783,Pieter,Mulder,1947-10-03
+2784,Johan,Dekker,1950-02-13
+2785,Sandra,Smit,1944-08-16
+2786,Daphne,de Jong,1957-08-29
+2787,Oda,Bakker,1958-09-08
+2788,Anton,de Jong,1953-04-11
+2789,Gerda,Bos,1958-08-22
+2790,Nico,Prins,1945-12-14
+2791,Leo,Koster,1957-03-09
+2792,Yvonne,Schouten,1947-02-20
+2793,Carla,Dijkstra,1949-03-17
+2794,Gerrit,Meijer,1951-05-08
+2795,Dora,van Leeuwen,1954-10-09
+2796,Anke,van Dijk,1944-08-18
+2797,Judith,Bosman,1955-01-02
+2798,Laura,de Groot,1950-11-21
+2799,Roos,van der Berg,1953-02-04
+2800,Anna,Visser,1949-02-04
+2801,Petra,van der Berg,1958-09-03
+2802,Daphne,Peters,1954-11-09
+2803,Carla,de Groot,1955-12-04
+2804,Emma,Janssen,1946-01-28
+2805,Evert,Timmermans,1947-01-12
+2806,Nathalie,Bosman,1957-02-10
+2807,Zoe,Evers,1950-06-21
+2808,Leo,de Wit,1948-01-22
+2809,Karin,Kuipers,1947-12-26
+2810,Carla,Postma,1957-02-01
+2811,Evert,Visser,1948-07-11
+2812,Roos,Bosman,1949-06-25
+2813,Leo,de Groot,1952-08-29
+2814,Paul,van den Berg,1954-08-31
+2815,Nathalie,Visser,1944-05-26
+2816,Petra,Kuipers,1948-11-12
+2817,Corine,de Wit,1945-05-23
+2818,Anna,de Boer,1952-01-02
+2819,Jaap,Hermans,1958-05-04
+2820,Hilde,Linden,1946-01-31
+2821,Petra,de Jong,1944-12-08
+2822,Carla,Hermans,1948-01-31
+2823,Francien,Huisman,1954-02-23
+2824,Joke,de Graaf,1953-12-18
+2825,Femke,Peters,1954-09-20
+2826,Bert,Koster,1948-11-07
+2827,Femke,Evers,1945-03-08
+2828,Wies,Kuipers,1953-03-26
+2829,Dora,van den Berg,1950-04-26
+2830,Xandra,Wolff,1954-09-08
+2831,Joke,Huisman,1951-08-07
+2832,Judith,Janssen,1944-10-04
+2833,Irene,Koster,1954-04-12
+2834,Oda,de Wit,1954-09-22
+2835,Xandra,Maas,1949-10-10
+2836,Eduard,Jansen,1958-11-28
+2837,Zoe,Smits,1948-09-17
+2838,Maarten,Hendriks,1945-10-20
+2839,Carla,Koster,1955-10-28
+2840,Wim,Postma,1946-06-27
+2841,Truus,Willems,1947-10-30
+2842,Gerda,de Groot,1958-01-16
+2843,Harold,Mulder,1958-10-02
+2844,Ferdinand,Smits,1944-09-26
+2845,Martin,Schouten,1956-07-29
+2846,Sandra,Peeters,1948-10-12
+2847,Karin,van Dijk,1945-07-12
+2848,Ineke,Meijer,1954-06-11
+2849,Wim,Dekker,1950-04-05
+2850,Ivo,Willems,1956-08-19
+2851,Yvonne,Schouten,1949-08-17
+2852,Jan,Kuipers,1950-02-26
+2853,Hanneke,van der Berg,1957-10-01
+2854,Laura,Jansen,1957-01-01
+2855,Yvonne,Verhoeven,1946-11-26
+2856,Petra,de Wit,1949-10-23
+2857,Els,Timmermans,1947-07-01
+2858,Judith,van der Berg,1959-04-01
+2859,Maria,van der Meer,1952-01-21
+2860,Gerda,Postma,1957-02-04
+2861,Anton,Verhoeven,1954-10-30
+2862,Truus,de Wit,1955-05-17
+2863,Brigitte,Wolff,1956-12-22
+2864,Vera,Visser,1956-08-26
+2865,Johan,van der Meer,1946-06-12
+2866,Els,de Vries,1950-05-25
+2867,Maarten,Mulder,1951-08-22
+2868,Carla,de Groot,1952-09-29
+2869,Griet,Koster,1950-12-10
+2870,Maria,Janssen,1946-03-26
+2871,Carla,Knol,1949-04-19
+2872,Zoe,Timmermans,1947-09-16
+2873,Gerda,van der Meer,1950-10-05
+2874,Roos,van den Berg,1950-01-08
+2875,Yvonne,Vos,1945-11-17
+2876,Jorn,van Dijk,1945-04-29
+2877,Jan,Bos,1947-05-19
+2878,Gerda,Bakker,1954-12-07
+2879,Emma,Kuipers,1951-11-21
+2880,Dora,de Graaf,1946-07-12
+2881,Brigitte,de Graaf,1952-08-18
+2882,Kees,Verhoeven,1957-09-27
+2883,Jaap,van der Meer,1951-11-14
+2884,Carla,van Dijk,1952-06-27
+2885,Ursula,van Dijk,1946-11-11
+2886,Nathalie,van der Meer,1945-07-20
+2887,Johan,Janssen,1944-07-16
+2888,Oda,Willems,1957-06-21
+2889,Ruud,de Groot,1957-10-26
+2890,Eduard,van der Meer,1952-05-12
+2891,Herman,Knol,1952-11-06
+2892,Laura,Postma,1959-04-22
+2893,Brigitte,Janssen,1954-12-01
+2894,Xandra,Evers,1951-05-21
+2895,Arnold,Huisman,1947-08-28
+2896,Corine,Janssen,1953-05-12
+2897,Bert,Mulder,1946-08-12
+2898,Guus,Linden,1957-08-13
+2899,David,Dijkstra,1947-11-17
+2900,Karin,Willems,1955-01-11
+2901,Daphne,Smits,1948-07-24
+2902,Vera,Postma,1951-10-19
+2903,Vera,de Graaf,1952-09-22
+2904,Theo,Kuipers,1957-11-06
+2905,Victor,de Wit,1957-11-08
+2906,Petra,Knol,1952-10-26
+2907,Judith,Bos,1954-08-13
+2908,Zoe,Postma,1957-06-30
+2909,Roos,de Graaf,1946-09-27
+2910,Daphne,Maas,1957-11-27
+2911,Anke,de Jong,1958-02-06
+2912,Henk,Dekker,1945-12-06
+2913,Jorn,Jansen,1953-07-03
+2914,Ineke,Smit,1946-09-09
+2915,Leo,de Jong,1946-01-10
+2916,Ursula,Vos,1952-12-03
+2917,Frans,de Wit,1955-05-21
+2918,Bea,Huisman,1957-12-22
+2919,Sandra,Postma,1948-08-03
+2920,Hanneke,Postma,1950-11-12
+2921,Joke,Janssen,1951-12-01
+2922,Henk,Schouten,1954-05-20
+2923,Otto,Meijer,1954-05-06
+2924,Maarten,Hendriks,1947-01-30
+2925,Paul,Hermans,1955-08-26
+2926,Petra,Vos,1950-09-21
+2927,Roos,Brouwer,1955-09-02
+2928,Gerrit,Knol,1948-09-22
+2929,Anke,Knol,1948-08-25
+2930,Nathalie,van Dijk,1952-09-04
+2931,Martin,Bosman,1950-07-21
+2932,Laura,Koster,1944-08-28
+2933,Griet,Peeters,1954-08-19
+2934,Ursula,de Vries,1954-12-12
+2935,Zoe,Bakker,1946-11-13
+2936,Kees,Dijkstra,1951-08-12
+2937,Otto,Hoekstra,1953-07-14
+2938,Brigitte,Visser,1952-10-06
+2939,Gert,Wolff,1958-01-05
+2940,Jorn,de Jong,1948-10-02
+2941,Zoe,van den Berg,1948-12-09
+2942,Leo,van der Meer,1953-10-28
+2943,Carla,de Wit,1957-08-02
+2944,Ferdinand,Knol,1948-09-14
+2945,Anton,de Wit,1957-06-11
+2946,Hanneke,Huisman,1946-04-16
+2947,Gert,Meijer,1959-06-06
+2948,Kees,Evers,1950-06-17
+2949,Anke,Maas,1953-10-01
+2950,Hanneke,Bakker,1944-11-23
+2951,Oda,Hoekstra,1952-03-30
+2952,Truus,Linden,1954-07-28
+2953,Joke,Smit,1948-08-23
+2954,Wies,Bakker,1946-08-30
+2955,Francien,Knol,1955-07-07
+2956,Dora,Postma,1953-04-05
+2957,Sjoerd,Hendriks,1949-02-23
+2958,Gerrit,Linden,1946-11-30
+2959,David,Hoekstra,1946-10-15
+2960,Irene,Smit,1958-01-13
+2961,Bas,Postma,1955-07-02
+2962,Eduard,Koster,1951-01-28
+2963,Sjoerd,Wolff,1955-06-10
+2964,Harold,de Groot,1944-10-22
+2965,Guus,Verhoeven,1947-08-06
+2966,Ineke,Peters,1948-09-02
+2967,Petra,van Dijk,1958-11-02
+2968,Sandra,Hoekstra,1956-11-12
+2969,Vera,Evers,1953-05-10
+2970,Harold,Bakker,1946-10-11
+2971,Hilde,Timmermans,1951-01-15
+2972,Theo,Hoekstra,1958-06-23
+2973,Paul,Smits,1950-12-25
+2974,Maria,de Wit,1948-11-11
+2975,Xandra,Peeters,1948-02-20
+2976,Bea,Brouwer,1957-01-25
+2977,Bert,Smits,1950-08-11
+2978,Kurt,Maas,1947-04-27
+2979,Kurt,Meijer,1947-09-14
+2980,Daphne,de Vries,1951-02-22
+2981,Oda,de Groot,1956-05-17
+2982,Yvonne,Meijer,1953-08-08
+2983,Femke,Visser,1951-09-04
+2984,Kees,Peters,1954-09-13
+2985,Joke,Dekker,1956-03-31
+2986,Anna,Dijkstra,1958-09-22
+2987,Hilde,Brouwer,1959-08-22
+2988,Daphne,Bosman,1945-02-02
+2989,Pieter,Dijkstra,1945-11-10
+2990,Nathalie,Willems,1958-11-25
+2991,Nathalie,Bos,1950-04-30
+2992,Ferdinand,van der Meer,1948-04-21
+2993,Roos,Postma,1953-01-07
+2994,Bas,Verhoeven,1945-05-09
+2995,Anton,Huisman,1949-10-12
+2996,Pieter,van der Berg,1954-07-22
+2997,Ineke,de Vries,1953-02-06
+2998,Ivo,de Boer,1951-05-25
+2999,Kees,Dekker,1958-04-28
+3000,Maria,Huisman,1952-03-11
+3001,Kurt,van Leeuwen,1952-07-01
+3002,Dora,Schouten,1945-10-26
+3003,Jan,van Dijk,1948-06-28
+3004,Zoe,Timmermans,1948-07-21
+3005,Jaap,Timmermans,1955-03-20
+3006,Yvonne,Janssen,1956-06-06
+3007,Bea,Dekker,1952-10-21
+3008,Zoe,Vos,1953-09-14
+3009,Zoe,Schipper,1952-06-01
+3010,Griet,de Wit,1944-10-04
+3011,Gerda,Peeters,1948-08-20
+3012,Judith,Bakker,1954-10-21
+3013,Laura,de Groot,1951-10-25
+3014,Hanneke,Schouten,1957-05-15
+3015,Bea,de Vries,1953-09-14
+3016,Petra,van der Meer,1956-07-18
+3017,Ursula,Dijkstra,1953-07-18
+3018,Gerda,Linden,1947-10-31
+3019,Karin,Jansen,1958-12-15
+3020,Xandra,Evers,1945-06-04
+3021,Xandra,Smits,1956-02-23
+3022,Ursula,Peters,1949-06-07
+3023,Hanneke,van Leeuwen,1945-08-01
+3024,Dora,Kuipers,1951-05-16
+3025,Roos,van der Berg,1954-10-26
+3026,Bea,Postma,1957-10-31
+3027,Jaap,Vos,1952-02-20
+3028,Anton,Dijkstra,1955-03-31
+3029,Sjoerd,Timmermans,1954-01-11
+3030,Irene,Bakker,1952-07-04
+3031,Zoe,van der Meer,1948-10-09
+3032,Kurt,Kuipers,1954-04-29
+3033,Oda,Prins,1946-09-12
+3034,Petra,Knol,1947-11-14
+3035,Joke,Hoekstra,1954-05-18
+3036,Ursula,Peeters,1953-07-24
+3037,Wies,Maas,1952-04-19
+3038,Ferdinand,Smit,1951-06-10
+3039,Frans,Wolff,1956-04-08
+3040,Irene,Hermans,1953-05-08
+3041,Ferdinand,Evers,1945-04-26
+3042,Maria,Smit,1958-08-18
+3043,Ursula,Huisman,1953-06-29
+3044,Evert,Smit,1951-07-22
+3045,Corine,Meijer,1952-02-03
+3046,Karin,de Wit,1949-06-19
+3047,Els,Postma,1944-12-23
+3048,Judith,Visser,1958-08-30
+3049,Laura,de Wit,1951-08-29
+3050,Anton,Jansen,1950-04-19
+3051,Martin,Prins,1952-05-28
+3052,Brigitte,Brouwer,1954-04-13
+3053,Daphne,Kuipers,1951-11-15
+3054,Jaap,Meijer,1956-04-08
+3055,Eduard,Janssen,1948-09-23
+3056,Irene,Mulder,1949-07-11
+3057,Bea,Verhoeven,1951-10-04
+3058,Sandra,Peeters,1945-11-05
+3059,Oda,Peeters,1947-02-17
+3060,Gert,Vos,1953-12-14
+3061,Bea,Smits,1946-09-05
+3062,Gerrit,Huisman,1955-08-22
+3063,Francien,Smit,1946-09-03
+3064,Hanneke,Peeters,1947-01-19
+3065,Francien,Wolff,1951-08-10
+3066,Yvonne,Mulder,1948-01-19
+3067,Zoe,Koster,1948-09-24
+3068,Francien,Smit,1958-03-28
+3069,Bert,de Groot,1947-04-11
+3070,Oda,de Vries,1954-12-10
+3071,Brigitte,de Jong,1955-10-28
+3072,Sandra,Prins,1950-07-18
+3073,Oda,Timmermans,1956-10-07
+3074,Maria,Bos,1952-01-14
+3075,Els,Mulder,1955-03-16
+3076,Daphne,Verhoeven,1946-12-19
+3077,Chris,Huisman,1954-12-02
+3078,Vera,Schouten,1947-08-11
+3079,Herman,Hoekstra,1950-02-22
+3080,Anke,de Vries,1945-04-05
+3081,Zoe,de Wit,1951-11-30
+3082,Anke,Verhoeven,1946-11-06
+3083,Judith,van der Meer,1952-05-01
+3084,Carla,van der Meer,1957-05-02
+3085,Griet,Maas,1948-04-05
+3086,Arnold,de Vries,1949-01-16
+3087,Herman,van der Meer,1955-07-15
+3088,Judith,Linden,1959-04-21
+3089,Carla,Postma,1956-06-12
+3090,Zoe,van der Meer,1945-05-29
+3091,Dora,de Groot,1955-11-30
+3092,Karel,Maas,1948-04-23
+3093,Sjoerd,Brouwer,1957-01-13
+3094,Truus,Schouten,1953-07-24
+3095,Karin,Hoekstra,1947-12-23
+3096,Truus,Verhoeven,1947-10-31
+3097,Kees,Huisman,1945-08-03
+3098,Ineke,Meijer,1954-03-22
+3099,Arnold,Wolff,1959-03-22
+3100,Wim,Bakker,1945-02-19
+3101,David,Visser,1949-07-13
+3102,Laura,Hermans,1959-06-02
+3103,Judith,Smit,1950-08-27
+3104,Sjoerd,Prins,1946-08-19
+3105,Martin,Maas,1956-06-28
+3106,Bea,Mulder,1945-04-21
+3107,Arnold,Hermans,1959-01-19
+3108,Eduard,Schouten,1957-03-08
+3109,Femke,Hendriks,1948-09-14
+3110,Vera,Huisman,1947-08-17
+3111,Karin,Visser,1957-09-05
+3112,Gerrit,Visser,1953-09-18
+3113,Wim,Kuipers,1955-02-11
+3114,Yvonne,Bakker,1946-06-03
+3115,Ineke,van der Berg,1945-07-24
+3116,Hanneke,Verhoeven,1950-02-22
+3117,Karin,van der Berg,1946-11-12
+3118,Zoe,de Vries,1950-02-24
+3119,Bert,Dijkstra,1959-12-04
+3120,Harold,Timmermans,1953-03-28
+3121,Joke,de Boer,1954-07-18
+3122,Anton,Mulder,1946-02-22
+3123,Dora,Prins,1953-10-02
+3124,Ursula,Brouwer,1958-05-31
+3125,Wim,Dekker,1954-04-10
+3126,Laura,Visser,1950-02-19
+3127,Irene,de Groot,1945-09-27
+3128,Anna,Verhoeven,1952-05-01
+3129,Roos,de Jong,1953-11-15
+3130,Arnold,Koster,1959-06-11
+3131,Gerda,Willems,1959-11-16
+3132,Anna,Peeters,1949-10-04
+3133,Chris,Peters,1950-07-22
+3134,Frans,Hermans,1947-11-26
+3135,Francien,Schouten,1953-12-16
+3136,Brigitte,Maas,1949-09-01
+3137,Gerrit,Peeters,1947-07-25
+3138,Anna,Peters,1947-07-28
+3139,Guus,van Leeuwen,1945-04-23
+3140,Kurt,Kuipers,1954-12-28
+3141,Guus,Bos,1952-03-28
+3142,Dora,Mulder,1955-03-20
+3143,Joke,van den Berg,1957-08-31
+3144,Xandra,de Vries,1946-06-19
+3145,Joke,de Vries,1959-01-17
+3146,Ursula,Dijkstra,1958-08-14
+3147,Gerrit,van den Berg,1956-01-26
+3148,Johan,Prins,1952-10-31
+3149,Laura,de Boer,1946-11-05
+3150,Karel,Verhoeven,1949-02-08
+3151,Laura,Schouten,1947-11-30
+3152,Yvonne,de Vries,1955-01-19
+3153,Femke,Brouwer,1956-05-25
+3154,Vera,de Graaf,1959-07-08
+3155,Ruud,van Dijk,1958-05-24
+3156,Victor,Postma,1959-12-11
+3157,Els,Dekker,1957-02-18
+3158,Bas,Smit,1958-12-12
+3159,Hilde,Huisman,1958-11-15
+3160,Jaap,Dijkstra,1956-12-30
+3161,Evert,Prins,1958-04-16
+3162,Evert,Bos,1945-03-02
+3163,Nathalie,Verhoeven,1955-03-08
+3164,Dora,Janssen,1955-12-22
+3165,Ineke,Bakker,1952-03-03
+3166,Francien,Huisman,1948-07-02
+3167,Truus,Hoekstra,1959-09-06
+3168,Vera,Hendriks,1950-11-30
+3169,Evert,Knol,1950-01-27
+3170,Xandra,Smit,1959-09-12
+3171,Kurt,Knol,1953-07-26
+3172,Gerda,van der Meer,1949-11-10
+3173,Chris,Koster,1945-06-09
+3174,Dick,Verhoeven,1948-05-25
+3175,Oda,Dekker,1959-09-05
+3176,Eduard,de Jong,1959-03-23
+3177,Hans,Jansen,1948-05-17
+3178,Emma,Kuipers,1956-04-16
+3179,Hans,Bos,1956-10-14
+3180,Brigitte,Prins,1949-03-23
+3181,Carla,Dijkstra,1947-12-24
+3182,Xandra,Postma,1946-07-14
+3183,Nathalie,de Jong,1945-10-06
+3184,Maria,Huisman,1957-01-05
+3185,Karel,Hendriks,1952-02-18
+3186,Willem,Brouwer,1953-02-22
+3187,Leo,Schipper,1957-03-31
+3188,Vera,de Jong,1956-12-26
+3189,Hans,Evers,1946-04-12
+3190,Wies,Dijkstra,1957-06-13
+3191,Sjoerd,Knol,1954-09-13
+3192,Bea,Mulder,1953-12-25
+3193,Eduard,Dijkstra,1959-05-12
+3194,Nico,Evers,1957-06-13
+3195,Bas,Bosman,1948-02-21
+3196,Henk,Wolff,1958-08-31
+3197,Maarten,Bosman,1949-08-31
+3198,Anton,Kuipers,1957-07-21
+3199,Arnold,Willems,1952-01-11
+3200,Nico,Schouten,1949-02-21
+3201,Brigitte,van den Berg,1959-11-06
+3202,Evert,Brouwer,1947-03-07
+3203,Vera,Postma,1947-01-09
+3204,Ferdinand,Jansen,1945-04-14
+3205,Nathalie,Knol,1959-04-30
+3206,Nico,Smits,1956-06-22
+3207,Els,Meijer,1959-08-07
+3208,Sandra,Jansen,1957-05-20
+3209,Nico,van der Berg,1958-10-24
+3210,Judith,de Boer,1959-04-01
+3211,Zoe,Mulder,1959-09-26
+3212,Jorn,Visser,1952-07-27
+3213,Ursula,de Wit,1956-04-07
+3214,Carla,van Leeuwen,1945-04-09
+3215,Theo,Bakker,1957-01-05
+3216,Chris,Peters,1948-07-11
+3217,Yvonne,Maas,1950-10-15
+3218,Ursula,Bos,1955-01-21
+3219,Ineke,Brouwer,1949-08-27
+3220,Laura,Visser,1945-04-06
+3221,Yvonne,de Vries,1953-12-08
+3222,Maria,Bakker,1952-09-17
+3223,Daphne,Schipper,1949-12-23
+3224,Pieter,Bosman,1959-02-20
+3225,Hanneke,Meijer,1951-04-01
+3226,Maria,Dijkstra,1951-01-02
+3227,Bas,van der Meer,1958-02-11
+3228,Ursula,de Wit,1949-12-05
+3229,Anton,Janssen,1954-02-20
+3230,Ineke,Evers,1951-09-29
+3231,Irene,Bos,1945-11-13
+3232,Carla,Schouten,1946-12-18
+3233,Zoe,van der Meer,1955-05-02
+3234,Hans,de Jong,1948-07-21
+3235,Leo,de Vries,1946-05-29
+3236,Femke,Dijkstra,1952-09-01
+3237,Emma,de Vries,1959-08-21
+3238,Griet,van der Meer,1956-04-28
+3239,Leo,Jansen,1945-11-28
+3240,Ursula,Kuipers,1956-10-29
+3241,Nathalie,de Wit,1945-06-14
+3242,Maria,de Groot,1952-12-15
+3243,Truus,van Leeuwen,1945-06-25
+3244,Judith,de Wit,1946-07-30
+3245,Wim,Timmermans,1949-11-10
+3246,Hans,van Leeuwen,1955-07-06
+3247,Anton,de Boer,1955-04-25
+3248,Sandra,Visser,1956-09-09
+3249,Anna,Verhoeven,1951-05-10
+3250,Hanneke,Janssen,1951-03-04
+3251,Frans,Willems,1952-07-03
+3252,Xandra,Postma,1949-11-08
+3253,Vera,van Leeuwen,1957-08-11
+3254,Anton,Dekker,1959-09-23
+3255,Petra,de Boer,1954-06-16
+3256,Els,Brouwer,1949-08-26
+3257,Wies,Willems,1954-02-18
+3258,Daphne,van den Berg,1947-01-12
+3259,Irene,Jansen,1958-07-16
+3260,Francien,Evers,1951-01-21
+3261,Dora,Janssen,1956-01-02
+3262,Zoe,van den Berg,1953-11-21
+3263,Femke,Hoekstra,1957-03-13
+3264,Sjoerd,Mulder,1947-10-09
+3265,Daphne,Verhoeven,1955-11-26
+3266,Xandra,Brouwer,1956-05-05
+3267,Nico,de Groot,1949-06-13
+3268,Judith,Bakker,1956-10-05
+3269,Emma,Knol,1951-07-03
+3270,Irene,Bakker,1951-08-04
+3271,Arnold,Janssen,1945-06-29
+3272,Arnold,Brouwer,1955-10-17
+3273,Arnold,Bosman,1948-01-30
+3274,Gert,Vos,1950-01-09
+3275,Joke,Verhoeven,1953-12-07
+3276,Ivo,de Graaf,1951-11-05
+3277,Anke,Mulder,1957-06-13
+3278,Wies,de Wit,1953-12-12
+3279,Emma,Koster,1946-03-28
+3280,Bea,van Dijk,1946-03-31
+3281,Francien,Visser,1951-05-11
+3282,Xandra,Bosman,1954-10-05
+3283,Arnold,de Boer,1947-10-03
+3284,Truus,Smits,1955-06-29
+3285,Jorn,Knol,1947-12-07
+3286,Irene,Schipper,1959-07-24
+3287,Johan,Linden,1951-12-30
+3288,Griet,de Wit,1957-06-06
+3289,Guus,Wolff,1954-03-05
+3290,Els,Brouwer,1951-03-28
+3291,Judith,Schouten,1957-06-22
+3292,Sjoerd,Hermans,1951-05-25
+3293,Theo,Peters,1947-01-24
+3294,Petra,Postma,1958-03-30
+3295,Karin,Bosman,1957-06-28
+3296,Zoe,van Dijk,1949-12-06
+3297,Wies,Bos,1946-04-29
+3298,Igor,Hoekstra,1958-05-25
+3299,Corine,Knol,1958-04-06
+3300,Nico,Willems,1959-03-28
+3301,Herman,Mulder,1949-03-26
+3302,Els,Knol,1955-02-27
+3303,Gerda,Visser,1950-08-09
+3304,Emma,de Wit,1953-02-24
+3305,Guus,Janssen,1947-10-18
+3306,Daphne,Mulder,1956-09-29
+3307,Ursula,Linden,1946-03-04
+3308,Els,Peeters,1959-11-03
+3309,Griet,Evers,1956-08-21
+3310,Zoe,de Wit,1951-09-05
+3311,Gerda,Wolff,1952-01-26
+3312,Dora,Bakker,1958-08-10
+3313,Frans,Smit,1959-07-06
+3314,Anna,Meijer,1949-05-12
+3315,Anton,Maas,1948-12-05
+3316,Judith,Dekker,1952-11-25
+3317,Ruud,Verhoeven,1947-11-19
+3318,Daphne,de Groot,1952-01-25
+3319,Nathalie,Evers,1960-03-03
+3320,Martin,Brouwer,1959-03-10
+3321,Harold,Evers,1945-09-12
+3322,Ursula,Hoekstra,1953-07-15
+3323,Xandra,Bakker,1952-12-03
+3324,Igor,de Jong,1948-03-27
+3325,Hanneke,Linden,1957-11-06
+3326,Maarten,Dekker,1951-05-08
+3327,Kees,de Graaf,1945-11-18
+3328,Dora,de Jong,1958-09-28
+3329,Guus,Smits,1959-08-08
+3330,Hilde,Dekker,1960-03-02
+3331,Pieter,Peters,1946-06-30
+3332,Corine,Huisman,1947-03-16
+3333,Anke,Kuipers,1950-08-02
+3334,Martin,van der Berg,1951-02-12
+3335,Anke,van der Berg,1951-08-05
+3336,Victor,Willems,1957-05-04
+3337,Nathalie,Timmermans,1949-08-27
+3338,Laura,Bosman,1948-01-17
+3339,Irene,de Groot,1947-05-23
+3340,Guus,van der Berg,1959-11-23
+3341,Yvonne,Prins,1960-02-14
+3342,Anton,Dekker,1948-05-12
+3343,Irene,Smit,1955-12-15
+3344,Anna,van Dijk,1956-09-07
+3345,Pieter,Meijer,1951-05-28
+3346,Gerda,Timmermans,1949-08-08
+3347,Corine,Smit,1957-03-06
+3348,Gerrit,Smit,1956-06-16
+3349,Brigitte,Schouten,1954-12-04
+3350,Jorn,Hoekstra,1959-11-09
+3351,Kurt,Mulder,1949-01-13
+3352,Emma,Schipper,1952-07-04
+3353,Victor,Postma,1955-08-30
+3354,Wim,van der Berg,1952-10-26
+3355,Otto,Vos,1948-09-17
+3356,Laura,Hoekstra,1948-08-01
+3357,Jorn,de Jong,1955-05-28
+3358,Harold,Koster,1957-09-26
+3359,Petra,Schipper,1954-10-03
+3360,Sandra,Prins,1946-09-22
+3361,Judith,Knol,1955-08-11
+3362,Paul,de Vries,1945-10-04
+3363,Henk,Knol,1952-04-16
+3364,Francien,de Graaf,1948-10-01
+3365,Hans,Hermans,1959-12-24
+3366,Francien,Huisman,1954-11-03
+3367,Femke,Meijer,1953-08-11
+3368,Ineke,van Leeuwen,1946-07-23
+3369,Emma,van der Meer,1952-11-07
+3370,Femke,van der Meer,1957-11-11
+3371,Kurt,Bakker,1957-09-14
+3372,Petra,Bosman,1948-07-21
+3373,Els,Evers,1949-05-21
+3374,Ferdinand,Hermans,1948-12-08
+3375,Leo,Verhoeven,1946-04-07
+3376,Kees,Dijkstra,1950-05-07
+3377,Judith,de Jong,1952-03-10
+3378,Bas,Schouten,1960-04-15
+3379,Hanneke,Bosman,1946-04-02
+3380,Wies,Prins,1950-08-03
+3381,Otto,Dekker,1949-07-14
+3382,Truus,de Boer,1949-07-11
+3383,Henk,Huisman,1949-04-16
+3384,Jorn,Brouwer,1953-08-07
+3385,Roos,van den Berg,1946-01-23
+3386,Bas,Hermans,1957-01-02
+3387,Karin,Knol,1957-03-02
+3388,Dora,Timmermans,1960-06-23
+3389,Karel,Verhoeven,1946-04-25
+3390,Pieter,Dekker,1952-09-02
+3391,Gerda,Bakker,1956-09-01
+3392,Maarten,Schipper,1948-11-24
+3393,Els,van Leeuwen,1951-11-28
+3394,Roos,Smit,1957-02-21
+3395,Kurt,van Leeuwen,1955-06-06
+3396,Sandra,Hendriks,1954-05-27
+3397,Jan,Visser,1960-02-29
+3398,Jorn,Mulder,1958-09-09
+3399,Igor,Meijer,1955-02-08
+3400,Wim,de Graaf,1953-08-22
+3401,Dick,Hendriks,1947-02-26
+3402,Herman,Koster,1959-01-01
+3403,Laura,van der Meer,1946-12-08
+3404,Henk,Dijkstra,1947-02-27
+3405,Femke,Meijer,1947-12-15
+3406,Joke,Koster,1960-05-10
+3407,Brigitte,van der Berg,1946-05-29
+3408,Herman,Timmermans,1947-12-22
+3409,Daphne,Kuipers,1948-07-06
+3410,Karin,Bos,1954-02-22
+3411,Xandra,van den Berg,1955-07-07
+3412,Roos,Visser,1950-01-01
+3413,Dora,de Boer,1947-06-13
+3414,Arnold,Linden,1952-01-04
+3415,Francien,Brouwer,1951-07-20
+3416,Bas,Willems,1948-03-27
+3417,Oda,van der Berg,1956-11-21
+3418,Zoe,Bosman,1955-11-07
+3419,Ivo,Meijer,1947-06-27
+3420,Ineke,Hoekstra,1957-08-26
+3421,Anna,Dekker,1952-01-29
+3422,Wim,van der Berg,1946-01-30
+3423,Vera,van der Meer,1956-06-11
+3424,Carla,Janssen,1960-01-03
+3425,Judith,Kuipers,1953-09-12
+3426,Xandra,Hoekstra,1955-06-20
+3427,Sandra,Dijkstra,1957-01-04
+3428,Jaap,van Leeuwen,1957-01-13
+3429,Griet,Hendriks,1953-03-13
+3430,Anke,Schouten,1958-08-21
+3431,Herman,Evers,1950-08-19
+3432,Maria,van der Meer,1959-07-29
+3433,Wies,Evers,1950-08-28
+3434,Laura,de Wit,1949-03-09
+3435,Anna,Evers,1957-03-09
+3436,Anna,van Dijk,1956-10-09
+3437,Anna,Prins,1946-06-10
+3438,Johan,van der Meer,1946-01-25
+3439,Griet,Evers,1952-09-28
+3440,Wim,Smits,1947-01-16
+3441,Oda,Dekker,1960-01-14
+3442,Roos,de Groot,1952-08-19
+3443,Carla,Jansen,1952-05-02
+3444,Femke,van den Berg,1959-08-21
+3445,Nathalie,Peeters,1953-03-17
+3446,Hans,Visser,1951-02-24
+3447,Gerrit,Peeters,1959-05-10
+3448,Irene,van der Berg,1954-09-06
+3449,Laura,Visser,1957-01-24
+3450,Laura,Hendriks,1946-09-23
+3451,Karel,Schouten,1959-06-27
+3452,Els,Kuipers,1954-03-18
+3453,Emma,van Leeuwen,1952-07-10
+3454,Corine,Huisman,1950-09-22
+3455,Vera,Hendriks,1952-07-23
+3456,Karin,van Dijk,1955-06-13
+3457,Jaap,van den Berg,1955-08-02
+3458,Zoe,van der Berg,1953-09-15
+3459,Wies,van den Berg,1954-12-05
+3460,Ivo,Hendriks,1949-09-06
+3461,Laura,Maas,1954-12-06
+3462,Willem,Koster,1946-04-09
+3463,Maria,Verhoeven,1956-03-11
+3464,Anke,Mulder,1949-03-12
+3465,Gerda,Janssen,1956-07-18
+3466,Joke,Willems,1958-08-14
+3467,Corine,Bos,1960-06-27
+3468,Griet,Maas,1949-02-25
+3469,Roos,Janssen,1960-07-26
+3470,Henk,van Dijk,1949-04-12
+3471,Els,Knol,1949-02-01
+3472,Ivo,Maas,1949-06-19
+3473,Bea,Koster,1953-02-21
+3474,Anton,Wolff,1959-05-12
+3475,Anna,de Vries,1950-11-09
+3476,Zoe,van Leeuwen,1950-08-28
+3477,Joke,Huisman,1948-05-28
+3478,Nico,Linden,1953-03-27
+3479,Harold,de Jong,1954-09-11
+3480,Hanneke,Koster,1952-04-23
+3481,Bas,Hoekstra,1951-07-24
+3482,Anke,van Dijk,1958-12-16
+3483,Judith,Vos,1959-04-21
+3484,Jan,van der Berg,1948-12-14
+3485,Francien,Visser,1956-05-11
+3486,Judith,Smits,1947-12-17
+3487,Nico,Evers,1952-06-02
+3488,Leo,Linden,1960-02-02
+3489,Dora,Kuipers,1955-06-28
+3490,Femke,de Graaf,1948-05-14
+3491,Judith,Dijkstra,1958-10-05
+3492,Femke,Schouten,1948-04-21
+3493,Truus,Wolff,1949-05-13
+3494,Eduard,Mulder,1951-09-12
+3495,Carla,van der Berg,1958-01-21
+3496,Maria,Brouwer,1947-05-10
+3497,Ruud,Janssen,1948-01-01
+3498,Otto,Koster,1952-03-26
+3499,Femke,Kuipers,1955-11-16
+3500,Daphne,de Groot,1954-09-29
+3501,Maarten,de Vries,1953-10-03
+3502,Maria,Jansen,1951-07-15
+3503,Petra,Koster,1947-07-02
+3504,Zoe,van Dijk,1952-11-16
+3505,Judith,Wolff,1947-06-01
+3506,Ursula,Koster,1954-01-23
+3507,Ferdinand,Maas,1957-08-19
+3508,Pieter,de Vries,1946-03-12
+3509,Wies,van den Berg,1946-07-21
+3510,Nico,de Vries,1949-07-11
+3511,Anke,Visser,1954-04-16
+3512,Frans,Wolff,1955-09-23
+3513,Evert,Schouten,1949-08-21
+3514,Ferdinand,Meijer,1949-08-16
+3515,Oda,van Dijk,1945-12-19
+3516,Henk,Meijer,1955-09-12
+3517,Gerda,Wolff,1951-04-18
+3518,Bea,Bosman,1957-01-21
+3519,Carla,Peters,1959-04-01
+3520,Irene,de Jong,1952-11-23
+3521,Laura,Kuipers,1949-12-13
+3522,Dora,Brouwer,1949-11-18
+3523,Griet,Schouten,1947-09-20
+3524,Kurt,de Boer,1953-05-11
+3525,Els,Janssen,1953-08-14
+3526,Hilde,Koster,1952-06-30
+3527,Oda,van Dijk,1948-06-14
+3528,Maria,Hoekstra,1950-01-01
+3529,Wies,Evers,1957-11-17
+3530,Sjoerd,de Wit,1949-10-31
+3531,Hans,Evers,1947-01-22
+3532,Judith,Smit,1948-05-07
+3533,Vera,Bos,1948-10-18
+3534,Carla,Hermans,1949-12-02
+3535,Laura,Dijkstra,1949-07-21
+3536,Willem,Visser,1956-03-08
+3537,Sandra,Meijer,1959-02-11
+3538,Theo,de Boer,1949-09-01
+3539,Paul,Postma,1950-09-28
+3540,Karin,Maas,1953-04-03
+3541,Petra,Hermans,1949-04-03
+3542,Carla,Smit,1956-07-18
+3543,Griet,Kuipers,1948-10-18
+3544,Zoe,de Boer,1954-08-29
+3545,Pieter,Koster,1946-02-04
+3546,Gerrit,de Jong,1958-06-02
+3547,Jan,Mulder,1954-07-04
+3548,Gerrit,Wolff,1954-06-20
+3549,Truus,Prins,1960-04-04
+3550,Francien,Huisman,1957-08-31
+3551,Irene,Bos,1959-03-06
+3552,Joke,Kuipers,1949-12-06
+3553,Sandra,van der Meer,1951-08-18
+3554,Wim,Prins,1951-02-22
+3555,Petra,Mulder,1948-01-10
+3556,Carla,Peeters,1958-11-05
+3557,Dick,Koster,1952-11-04
+3558,Kurt,Bakker,1951-08-14
+3559,Ursula,Smits,1946-12-14
+3560,Brigitte,de Jong,1951-02-06
+3561,Guus,Peters,1959-07-26
+3562,Maria,Visser,1958-05-31
+3563,Evert,Janssen,1948-09-10
+3564,Yvonne,Willems,1952-11-02
+3565,David,Vos,1946-12-06
+3566,Arnold,Kuipers,1948-12-10
+3567,Frans,van Leeuwen,1955-02-10
+3568,Dora,de Groot,1960-08-23
+3569,Hilde,Meijer,1947-03-18
+3570,Bas,Koster,1954-12-05
+3571,Laura,de Boer,1953-10-27
+3572,Henk,van den Berg,1948-03-23
+3573,Paul,Dekker,1946-12-08
+3574,Nathalie,Hoekstra,1947-04-29
+3575,Ivo,Dijkstra,1947-10-13
+3576,Emma,de Vries,1956-08-09
+3577,Johan,van den Berg,1946-10-07
+3578,Ferdinand,Mulder,1950-03-26
+3579,Karin,Jansen,1950-08-13
+3580,Gerda,Schipper,1957-10-26
+3581,Hans,van Dijk,1960-05-11

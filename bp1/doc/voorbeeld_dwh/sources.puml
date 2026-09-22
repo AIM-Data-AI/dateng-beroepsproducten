@@ -1,0 +1,64 @@
+@startuml
+
+
+package "CRM database" {
+
+entity "sale" as sale {
+  *sid
+}
+
+
+entity "sale_products" as sale_products {
+  *sid
+  *pid
+  --
+  quantity
+  installation_date
+  price
+}
+
+sale_products --> sale
+
+entity "product" as product {
+  *pid
+  --
+  name
+}
+
+sale_products --> product
+
+entity "relation" as relation {
+  *rid
+  --
+  *rtype
+  *name
+  address
+  *email
+  phone
+}
+
+entity "interaction" as interaction {
+  *idts
+  *rid
+  --
+  *type
+  sid
+  notes
+}
+
+interaction -> sale
+interaction --> relation
+
+}
+
+
+entity "measurement (csv file)" as measurement {
+  pump_id
+  timestamp
+  --
+  temperature
+  pressure
+  flow_rate
+}
+note bottom of measurement: pump_id: combination of sid and pid
+@enduml

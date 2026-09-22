@@ -1,0 +1,4 @@
+stid,stname,sttype
+1,bmi,int
+2,smoking,bool
+3,asa,string

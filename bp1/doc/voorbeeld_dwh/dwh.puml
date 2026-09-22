@@ -1,0 +1,74 @@
+@startuml
+
+skinparam linetype ortho
+
+package "Data Warehouse - Ster Schema" as dwh {
+
+    entity "fact_measurement" as fact_measurement #LightYellow {
+        *pump_key (FK)
+        *customer_key (FK)
+        *product_key (FK)
+        *date_key (FK)
+        --
+        temperature
+        pressure
+        flow_rate
+    }
+
+    entity "dim_pump" as dim_pump #LightBlue {
+        *pump_key
+        --
+        pump_id
+        sid
+        pid
+        price
+        quantity
+        installation_date
+    }
+
+    entity "dim_customer" as dim_customer #LightBlue {
+        *customer_key
+        --
+        rid
+        rtype
+        name
+        address
+        email
+        phone
+    }
+
+    entity "dim_product" as dim_product #LightBlue {
+        *product_key
+        --
+        pid
+        name
+    }
+
+    entity "dim_date" as dim_date #LightBlue {
+        *date_key
+        --
+        timestamp
+        year
+        month
+        day
+        hour
+        minute
+    }
+
+    fact_measurement --> dim_pump
+    fact_measurement --> dim_customer
+    fact_measurement --> dim_product
+    fact_measurement --> dim_date
+}
+
+note bottom of dwh
+  Bronnen:
+  - dim_pump: sale_products (sid, pid, price, quantity, installation_date)
+  - dim_customer: relation (rid, rtype, name, address, email, phone)
+  - dim_product: product (pid, name)
+  - dim_date: afgeleid van measurement.timestamp
+  - fact_measurement: measurement CSV (temperature, pressure, flow_rate)
+  pump_key = combinatie van sid + pid (pump_id)
+end note
+
+@enduml

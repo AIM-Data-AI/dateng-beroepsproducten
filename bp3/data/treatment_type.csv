@@ -1,0 +1,36 @@
+tid,tname
+1,hip replacement surgery
+2,arthrotomy
+3,revision (partial)
+4,revision (complete)
+5,reposition
+6,Coronary artery bypass grafting (CABG)
+7,Sepsis management (laparotomy - Hartmann procedure)
+8,ARDS ventilatory support (COVID-19 pneumonia)
+9,Traumatic brain injury management
+10,Cardiogenic shock / multi-organ failure management
+11,Emergency laparotomy (perforated peptic ulcer)
+12,Primary percutaneous coronary intervention (STEMI)
+13,Ischaemic stroke thrombolysis
+14,Severe acute pancreatitis management
+15,Renal replacement therapy (CVVH)
+16,Opioid overdose management
+17,Burn wound management
+18,Liver transplantation
+19,Diabetic ketoacidosis management
+20,Pneumonia / respiratory failure management
+21,Upper GI haemorrhage - endoscopic haemostasis
+22,Pulmonary embolism thrombolysis
+23,Bacterial meningitis management
+24,Thoracic surgery (lobectomy)
+25,Hypertensive emergency management
+26,Appendectomy
+27,Cholecystectomy
+28,Cataract surgery
+29,Inguinal hernia repair
+30,Fracture fixation (orthopaedic trauma)
+31,Cardiac catheterization (diagnostic)
+32,Tonsillectomy
+33,Caesarean section
+34,Diagnostic endoscopy
+35,Community-acquired pneumonia (ward-based treatment)

@@ -1,0 +1,3582 @@
+eocid,position_type,position_time
+1,anterolateral,2016-01-02 06:40:00
+2,direct lateral,2016-01-02 08:26:00
+3,posterolateral,2016-01-02 07:19:00
+4,anterior,2016-01-04 07:18:00
+5,anterior,2016-01-05 08:26:00
+6,direct lateral,2016-01-06 06:56:00
+7,direct lateral,2016-01-09 12:04:00
+8,anterolateral,2016-01-09 11:36:00
+9,posterolateral,2016-01-13 09:15:00
+10,anterolateral,2016-01-14 06:45:00
+11,posterolateral,2016-01-15 10:40:00
+12,posterolateral,2016-01-15 11:56:00
+13,direct lateral,2016-01-17 07:23:00
+14,direct lateral,2016-01-18 11:49:00
+15,direct lateral,2016-01-21 09:38:00
+16,anterior,2016-01-21 07:29:00
+17,posterolateral,2016-01-22 06:52:00
+18,posterolateral,2016-01-22 09:44:00
+19,posterolateral,2016-01-27 09:17:00
+20,posterolateral,2016-01-28 11:59:00
+21,posterolateral,2016-01-28 10:35:00
+22,direct lateral,2016-01-29 12:12:00
+23,direct lateral,2016-02-02 09:48:00
+24,unknown,2016-02-02 08:40:00
+25,posterolateral,2016-02-04 06:16:00
+26,anterior,2016-02-04 10:51:00
+27,anterolateral,2016-02-04 09:23:00
+28,anterior,2016-02-05 06:40:00
+29,anterolateral,2016-02-06 07:18:00
+30,anterior,2016-02-06 11:29:00
+31,direct lateral,2016-02-07 06:37:00
+32,anterolateral,2016-02-08 10:53:00
+33,direct lateral,2016-02-10 07:25:00
+34,anterior,2016-02-10 08:44:00
+35,posterolateral,2016-02-11 08:29:00
+36,anterolateral,2016-02-13 10:14:00
+37,posterolateral,2016-02-13 06:50:00
+38,posterolateral,2016-02-14 09:41:00
+39,posterolateral,2016-02-15 12:18:00
+40,anterior,2016-02-17 10:43:00
+41,posterolateral,2016-02-18 10:36:00
+42,anterolateral,2016-02-18 11:49:00
+43,anterolateral,2016-02-19 08:36:00
+44,posterolateral,2016-02-20 11:19:00
+45,unknown,2016-02-20 07:48:00
+46,posterolateral,2016-02-21 08:38:00
+47,anterolateral,2016-02-21 10:53:00
+48,direct lateral,2016-02-22 06:36:00
+49,anterolateral,2016-02-22 12:20:00
+50,anterolateral,2016-02-22 11:14:00
+51,anterior,2016-02-23 10:04:00
+52,anterior,2016-02-23 07:48:00
+53,anterior,2016-02-23 09:35:00
+54,anterior,2016-02-24 08:03:00
+55,posterolateral,2016-02-28 06:36:00
+56,posterolateral,2016-02-29 10:45:00
+57,anterolateral,2016-03-02 10:27:00
+58,direct lateral,2016-03-02 10:31:00
+59,posterolateral,2016-03-03 08:47:00
+60,anterior,2016-03-03 09:50:00
+61,anterior,2016-03-05 11:54:00
+62,posterolateral,2016-03-06 10:40:00
+63,anterior,2016-03-08 10:49:00
+64,posterolateral,2016-03-12 11:14:00
+65,anterior,2016-03-15 09:49:00
+66,anterior,2016-03-21 11:35:00
+67,anterior,2016-03-21 06:49:00
+68,anterior,2016-03-21 07:19:00
+69,anterolateral,2016-03-26 10:07:00
+70,unknown,2016-03-28 09:03:00
+71,anterior,2016-03-29 09:43:00
+72,posterolateral,2016-04-01 11:20:00
+73,unknown,2016-04-04 06:53:00
+74,anterior,2016-04-05 10:42:00
+75,posterolateral,2016-04-05 12:20:00
+76,anterolateral,2016-04-06 07:28:00
+77,anterolateral,2016-04-06 12:08:00
+78,posterolateral,2016-04-07 06:39:00
+79,posterolateral,2016-04-08 12:22:00
+80,unknown,2016-04-08 06:49:00
+81,anterolateral,2016-04-08 09:43:00
+82,anterior,2016-04-08 08:34:00
+83,posterolateral,2016-04-08 09:23:00
+84,anterolateral,2016-04-08 10:17:00
+85,anterolateral,2016-04-09 11:12:00
+86,direct lateral,2016-04-10 10:10:00
+87,anterior,2016-04-10 09:12:00
+88,posterolateral,2016-04-12 10:45:00
+89,posterolateral,2016-04-12 10:57:00
+90,anterolateral,2016-04-13 09:44:00
+91,anterior,2016-04-15 08:57:00
+92,anterolateral,2016-04-16 09:05:00
+93,anterolateral,2016-04-17 08:35:00
+94,direct lateral,2016-04-21 10:22:00
+95,posterolateral,2016-04-21 07:55:00
+96,anterior,2016-04-22 12:15:00
+97,direct lateral,2016-04-22 10:49:00
+98,anterior,2016-04-22 11:43:00
+99,posterolateral,2016-04-22 07:12:00
+100,posterolateral,2016-04-22 07:05:00
+101,direct lateral,2016-04-25 09:51:00
+102,anterolateral,2016-04-25 12:10:00
+103,direct lateral,2016-04-25 12:14:00
+104,direct lateral,2016-04-29 10:04:00
+105,posterolateral,2016-04-30 07:30:00
+106,anterior,2016-05-01 11:36:00
+107,direct lateral,2016-05-02 10:47:00
+108,anterior,2016-05-03 06:41:00
+109,posterolateral,2016-05-05 11:23:00
+110,unknown,2016-05-07 06:28:00
+111,direct lateral,2016-05-07 06:57:00
+112,anterior,2016-05-07 10:45:00
+113,anterolateral,2016-05-07 06:53:00
+114,posterolateral,2016-05-08 09:59:00
+115,anterolateral,2016-05-08 07:18:00
+116,direct lateral,2016-05-09 08:24:00
+117,posterolateral,2016-05-09 10:19:00
+118,direct lateral,2016-05-10 11:33:00
+119,anterior,2016-05-10 07:05:00
+120,direct lateral,2016-05-10 11:34:00
+121,posterolateral,2016-05-10 10:57:00
+122,posterolateral,2016-05-13 10:19:00
+123,anterior,2016-05-14 08:19:00
+124,direct lateral,2016-05-14 10:46:00
+125,posterolateral,2016-05-14 06:33:00
+126,posterolateral,2016-05-15 08:15:00
+127,posterolateral,2016-05-16 11:58:00
+128,unknown,2016-05-18 07:21:00
+129,anterior,2016-05-19 10:32:00
+130,anterolateral,2016-05-22 08:01:00
+131,posterolateral,2016-05-23 11:39:00
+132,posterolateral,2016-05-23 12:17:00
+133,direct lateral,2016-05-26 07:19:00
+134,posterolateral,2016-05-26 10:34:00
+135,anterior,2016-05-26 09:07:00
+136,anterior,2016-05-27 07:09:00
+137,direct lateral,2016-05-27 09:16:00
+138,anterolateral,2016-05-29 09:35:00
+139,anterolateral,2016-05-30 12:08:00
+140,direct lateral,2016-05-31 11:43:00
+141,anterolateral,2016-05-31 12:25:00
+142,anterior,2016-05-31 08:34:00
+143,unknown,2016-06-01 09:43:00
+144,direct lateral,2016-06-05 10:56:00
+145,direct lateral,2016-06-06 12:11:00
+146,posterolateral,2016-06-06 09:42:00
+147,anterolateral,2016-06-08 07:34:00
+148,posterolateral,2016-06-08 07:59:00
+149,direct lateral,2016-06-08 12:02:00
+150,direct lateral,2016-06-08 08:10:00
+151,anterolateral,2016-06-09 10:03:00
+152,direct lateral,2016-06-09 10:43:00
+153,anterior,2016-06-09 10:24:00
+154,posterolateral,2016-06-09 10:32:00
+155,posterolateral,2016-06-10 11:40:00
+156,anterior,2016-06-11 11:36:00
+157,anterolateral,2016-06-11 11:56:00
+158,unknown,2016-06-13 11:33:00
+159,posterolateral,2016-06-15 11:07:00
+160,posterolateral,2016-06-17 08:49:00
+161,anterolateral,2016-06-18 10:17:00
+162,direct lateral,2016-06-18 07:52:00
+163,anterior,2016-06-19 11:31:00
+164,posterolateral,2016-06-20 08:14:00
+165,direct lateral,2016-06-20 07:05:00
+166,posterolateral,2016-06-20 09:20:00
+167,anterolateral,2016-06-20 09:29:00
+168,posterolateral,2016-06-23 09:37:00
+169,direct lateral,2016-06-24 07:07:00
+170,anterior,2016-06-27 12:36:00
+171,posterolateral,2016-06-28 12:02:00
+172,anterolateral,2016-06-29 11:02:00
+173,posterolateral,2016-07-02 08:36:00
+174,anterolateral,2016-07-05 09:04:00
+175,anterolateral,2016-07-05 11:04:00
+176,anterior,2016-07-05 08:12:00
+177,posterolateral,2016-07-06 09:45:00
+178,direct lateral,2016-07-06 11:48:00
+179,posterolateral,2016-07-06 09:05:00
+180,direct lateral,2016-07-07 08:15:00
+181,anterolateral,2016-07-08 09:21:00
+182,anterior,2016-07-08 11:41:00
+183,direct lateral,2016-07-08 11:25:00
+184,anterior,2016-07-09 10:26:00
+185,posterolateral,2016-07-09 11:17:00
+186,anterolateral,2016-07-10 12:11:00
+187,anterior,2016-07-10 12:16:00
+188,direct lateral,2016-07-12 11:57:00
+189,anterior,2016-07-13 08:04:00
+190,anterolateral,2016-07-16 11:01:00
+191,anterior,2016-07-16 10:59:00
+192,direct lateral,2016-07-16 12:30:00
+193,anterolateral,2016-07-17 08:08:00
+194,posterolateral,2016-07-19 11:08:00
+195,posterolateral,2016-07-19 11:25:00
+196,direct lateral,2016-07-20 10:19:00
+197,direct lateral,2016-07-21 09:41:00
+198,anterolateral,2016-07-24 08:03:00
+199,direct lateral,2016-07-25 09:43:00
+200,posterolateral,2016-07-26 10:03:00
+201,direct lateral,2016-07-26 10:04:00
+202,anterior,2016-07-26 11:16:00
+203,posterolateral,2016-07-31 10:29:00
+204,anterior,2016-08-01 06:42:00
+205,anterior,2016-08-02 12:03:00
+206,posterolateral,2016-08-02 11:15:00
+207,anterior,2016-08-03 12:30:00
+208,posterolateral,2016-08-04 08:53:00
+209,anterolateral,2016-08-05 09:42:00
+210,posterolateral,2016-08-05 07:12:00
+211,direct lateral,2016-08-05 11:03:00
+212,unknown,2016-08-07 09:41:00
+213,anterolateral,2016-08-07 08:28:00
+214,anterior,2016-08-09 07:41:00
+215,unknown,2016-08-11 11:56:00
+216,direct lateral,2016-08-12 10:37:00
+217,unknown,2016-08-12 07:20:00
+218,anterior,2016-08-12 08:57:00
+219,posterolateral,2016-08-13 10:36:00
+220,anterior,2016-08-14 10:29:00
+221,unknown,2016-08-14 09:25:00
+222,direct lateral,2016-08-17 10:18:00
+223,direct lateral,2016-08-18 10:58:00
+224,direct lateral,2016-08-18 08:20:00
+225,posterolateral,2016-08-18 09:22:00
+226,anterior,2016-08-18 08:58:00
+227,unknown,2016-08-20 08:20:00
+228,unknown,2016-08-20 11:21:00
+229,anterolateral,2016-08-20 07:47:00
+230,anterior,2016-08-20 08:04:00
+231,posterolateral,2016-08-21 12:15:00
+232,direct lateral,2016-08-23 09:36:00
+233,anterior,2016-08-24 11:37:00
+234,anterolateral,2016-08-24 08:56:00
+235,direct lateral,2016-08-25 10:32:00
+236,posterolateral,2016-08-27 12:06:00
+237,anterior,2016-08-28 11:04:00
+238,direct lateral,2016-08-29 10:43:00
+239,direct lateral,2016-08-30 08:51:00
+240,anterior,2016-08-31 08:22:00
+241,anterolateral,2016-09-03 09:18:00
+242,anterolateral,2016-09-08 12:15:00
+243,anterolateral,2016-09-08 12:06:00
+244,posterolateral,2016-09-08 11:37:00
+245,posterolateral,2016-09-08 07:45:00
+246,anterolateral,2016-09-09 12:39:00
+247,posterolateral,2016-09-09 08:11:00
+248,unknown,2016-09-10 07:59:00
+249,anterior,2016-09-10 08:13:00
+250,direct lateral,2016-09-11 10:27:00
+251,posterolateral,2016-09-11 10:22:00
+252,posterolateral,2016-09-12 07:38:00
+253,anterolateral,2016-09-13 09:17:00
+254,direct lateral,2016-09-14 10:20:00
+255,unknown,2016-09-15 12:07:00
+256,posterolateral,2016-09-15 11:14:00
+257,anterior,2016-09-16 07:11:00
+258,direct lateral,2016-09-17 11:50:00
+259,anterolateral,2016-09-19 09:11:00
+260,anterior,2016-09-20 09:46:00
+261,anterolateral,2016-09-20 11:30:00
+262,posterolateral,2016-09-21 08:55:00
+263,posterolateral,2016-09-23 11:10:00
+264,posterolateral,2016-09-24 10:37:00
+265,posterolateral,2016-09-24 07:15:00
+266,direct lateral,2016-09-26 11:16:00
+267,posterolateral,2016-09-27 12:34:00
+268,direct lateral,2016-09-27 07:31:00
+269,posterolateral,2016-09-27 06:46:00
+270,anterolateral,2016-09-30 12:25:00
+271,anterolateral,2016-10-03 08:32:00
+272,anterior,2016-10-03 07:58:00
+273,unknown,2016-10-03 09:33:00
+274,posterolateral,2016-10-06 09:57:00
+275,anterolateral,2016-10-06 07:09:00
+276,posterolateral,2016-10-06 08:56:00
+277,posterolateral,2016-10-07 10:07:00
+278,direct lateral,2016-10-09 11:51:00
+279,posterolateral,2016-10-09 07:56:00
+280,anterolateral,2016-10-09 12:22:00
+281,posterolateral,2016-10-10 11:08:00
+282,posterolateral,2016-10-10 08:20:00
+283,posterolateral,2016-10-10 09:01:00
+284,anterolateral,2016-10-12 07:48:00
+285,anterior,2016-10-12 07:38:00
+286,posterolateral,2016-10-15 12:19:00
+287,unknown,2016-10-15 10:26:00
+288,posterolateral,2016-10-19 11:46:00
+289,posterolateral,2016-10-20 06:59:00
+290,anterior,2016-10-20 06:43:00
+291,direct lateral,2016-10-21 08:53:00
+292,anterior,2016-10-22 07:02:00
+293,unknown,2016-10-24 07:57:00
+294,direct lateral,2016-10-27 11:45:00
+295,direct lateral,2016-10-28 08:02:00
+296,anterior,2016-10-30 08:47:00
+297,anterior,2016-10-30 08:07:00
+298,anterior,2016-10-30 11:51:00
+299,posterolateral,2016-10-30 07:58:00
+300,direct lateral,2016-10-30 07:50:00
+301,posterolateral,2016-11-02 09:08:00
+302,posterolateral,2016-11-02 07:33:00
+303,posterolateral,2016-11-03 07:01:00
+304,anterior,2016-11-04 12:15:00
+305,anterolateral,2016-11-05 09:27:00
+306,posterolateral,2016-11-05 10:37:00
+307,posterolateral,2016-11-09 08:45:00
+308,anterior,2016-11-10 07:48:00
+309,anterior,2016-11-11 07:54:00
+310,anterior,2016-11-12 06:29:00
+311,anterior,2016-11-13 09:38:00
+312,unknown,2016-11-13 11:03:00
+313,posterolateral,2016-11-15 11:39:00
+314,posterolateral,2016-11-18 06:26:00
+315,anterolateral,2016-11-19 07:47:00
+316,anterolateral,2016-11-20 12:03:00
+317,anterior,2016-11-21 10:38:00
+318,anterolateral,2016-11-22 07:41:00
+319,posterolateral,2016-11-22 11:24:00
+320,anterolateral,2016-11-23 08:54:00
+321,anterior,2016-11-24 11:34:00
+322,posterolateral,2016-11-26 10:59:00
+323,direct lateral,2016-11-26 08:39:00
+324,anterolateral,2016-12-03 12:13:00
+325,direct lateral,2016-12-03 08:11:00
+326,posterolateral,2016-12-03 09:29:00
+327,direct lateral,2016-12-05 07:30:00
+328,anterior,2016-12-05 11:18:00
+329,posterolateral,2016-12-05 07:17:00
+330,anterior,2016-12-08 10:57:00
+331,anterolateral,2016-12-09 11:41:00
+332,direct lateral,2016-12-09 07:04:00
+333,posterolateral,2016-12-10 11:40:00
+334,direct lateral,2016-12-10 08:50:00
+335,anterior,2016-12-11 09:14:00
+336,posterolateral,2016-12-11 11:11:00
+337,anterolateral,2016-12-11 07:14:00
+338,posterolateral,2016-12-11 11:57:00
+339,posterolateral,2016-12-13 07:21:00
+340,anterior,2016-12-14 09:31:00
+341,direct lateral,2016-12-14 07:06:00
+342,anterior,2016-12-14 12:19:00
+343,direct lateral,2016-12-14 11:48:00
+344,posterolateral,2016-12-16 09:36:00
+345,anterolateral,2016-12-17 10:04:00
+346,posterolateral,2016-12-17 11:53:00
+347,posterolateral,2016-12-24 07:32:00
+348,anterolateral,2016-12-24 08:24:00
+349,posterolateral,2016-12-25 07:48:00
+350,posterolateral,2016-12-25 10:33:00
+351,posterolateral,2016-12-25 08:06:00
+352,anterolateral,2016-12-25 11:05:00
+353,anterolateral,2016-12-29 08:11:00
+354,anterior,2016-12-30 07:50:00
+355,anterolateral,2016-12-31 08:37:00
+356,posterolateral,2017-01-01 09:37:00
+357,anterolateral,2017-01-02 07:55:00
+358,direct lateral,2017-01-02 10:27:00
+359,direct lateral,2017-01-02 10:01:00
+360,direct lateral,2017-01-02 10:28:00
+361,anterior,2017-01-03 08:17:00
+362,posterolateral,2017-01-03 07:14:00
+363,anterior,2017-01-06 07:58:00
+364,posterolateral,2017-01-07 10:18:00
+365,posterolateral,2017-01-08 10:00:00
+366,anterior,2017-01-09 09:26:00
+367,posterolateral,2017-01-11 12:20:00
+368,anterolateral,2017-01-12 12:29:00
+369,posterolateral,2017-01-13 12:11:00
+370,anterior,2017-01-14 10:31:00
+371,posterolateral,2017-01-16 09:58:00
+372,direct lateral,2017-01-20 11:12:00
+373,direct lateral,2017-01-21 11:14:00
+374,posterolateral,2017-01-21 10:32:00
+375,posterolateral,2017-01-22 06:33:00
+376,direct lateral,2017-01-22 07:35:00
+377,anterolateral,2017-01-24 08:27:00
+378,posterolateral,2017-01-24 08:05:00
+379,direct lateral,2017-01-24 06:40:00
+380,anterolateral,2017-01-25 10:11:00
+381,posterolateral,2017-01-25 09:23:00
+382,anterior,2017-01-26 09:31:00
+383,anterior,2017-01-26 09:31:00
+384,direct lateral,2017-01-26 10:35:00
+385,posterolateral,2017-01-28 10:58:00
+386,posterolateral,2017-01-28 10:27:00
+387,anterior,2017-01-29 08:56:00
+388,posterolateral,2017-01-29 08:48:00
+389,posterolateral,2017-01-29 09:11:00
+390,posterolateral,2017-01-29 07:30:00
+391,anterior,2017-01-30 10:28:00
+392,posterolateral,2017-01-31 11:16:00
+393,direct lateral,2017-01-31 11:00:00
+394,direct lateral,2017-02-01 11:16:00
+395,anterolateral,2017-02-01 11:24:00
+396,anterolateral,2017-02-04 11:16:00
+397,anterolateral,2017-02-04 07:11:00
+398,posterolateral,2017-02-05 06:29:00
+399,posterolateral,2017-02-06 07:44:00
+400,anterolateral,2017-02-08 10:43:00
+401,unknown,2017-02-08 07:35:00
+402,anterior,2017-02-11 09:52:00
+403,direct lateral,2017-02-11 07:08:00
+404,posterolateral,2017-02-13 11:22:00
+405,anterolateral,2017-02-14 10:15:00
+406,anterior,2017-02-15 10:30:00
+407,anterolateral,2017-02-15 12:10:00
+408,direct lateral,2017-02-16 10:35:00
+409,posterolateral,2017-02-16 08:05:00
+410,posterolateral,2017-02-16 11:43:00
+411,posterolateral,2017-02-18 10:31:00
+412,posterolateral,2017-02-18 10:51:00
+413,posterolateral,2017-02-21 07:22:00
+414,anterolateral,2017-02-22 11:28:00
+415,anterior,2017-02-22 08:29:00
+416,posterolateral,2017-02-24 07:21:00
+417,posterolateral,2017-02-25 08:14:00
+418,unknown,2017-02-27 11:47:00
+419,posterolateral,2017-02-27 11:19:00
+420,direct lateral,2017-02-27 09:37:00
+421,posterolateral,2017-02-27 11:47:00
+422,posterolateral,2017-02-28 12:24:00
+423,anterior,2017-02-28 09:47:00
+424,anterolateral,2017-03-03 07:06:00
+425,anterior,2017-03-03 09:09:00
+426,anterior,2017-03-03 08:28:00
+427,posterolateral,2017-03-05 10:09:00
+428,anterior,2017-03-06 07:38:00
+429,anterolateral,2017-03-06 10:05:00
+430,anterior,2017-03-07 09:14:00
+431,unknown,2017-03-07 09:34:00
+432,direct lateral,2017-03-08 09:59:00
+433,posterolateral,2017-03-08 08:34:00
+434,posterolateral,2017-03-09 11:36:00
+435,anterior,2017-03-09 09:48:00
+436,posterolateral,2017-03-09 11:31:00
+437,direct lateral,2017-03-10 09:02:00
+438,anterolateral,2017-03-10 08:31:00
+439,posterolateral,2017-03-10 08:21:00
+440,direct lateral,2017-03-12 07:41:00
+441,anterolateral,2017-03-13 12:12:00
+442,unknown,2017-03-14 11:29:00
+443,direct lateral,2017-03-14 08:27:00
+444,anterior,2017-03-14 07:03:00
+445,direct lateral,2017-03-15 06:52:00
+446,posterolateral,2017-03-16 11:39:00
+447,anterior,2017-03-16 11:33:00
+448,anterolateral,2017-03-20 12:09:00
+449,anterior,2017-03-21 07:49:00
+450,anterolateral,2017-03-21 08:10:00
+451,posterolateral,2017-03-23 07:30:00
+452,anterior,2017-03-23 07:03:00
+453,anterior,2017-03-23 09:32:00
+454,anterior,2017-03-24 09:52:00
+455,posterolateral,2017-03-25 07:15:00
+456,unknown,2017-03-26 08:08:00
+457,anterior,2017-03-26 09:17:00
+458,anterior,2017-03-28 08:26:00
+459,anterolateral,2017-03-28 08:18:00
+460,anterior,2017-03-31 10:44:00
+461,anterior,2017-03-31 09:56:00
+462,anterior,2017-03-31 07:40:00
+463,anterior,2017-04-01 11:38:00
+464,anterolateral,2017-04-02 08:37:00
+465,anterior,2017-04-03 10:10:00
+466,direct lateral,2017-04-03 11:21:00
+467,direct lateral,2017-04-04 12:15:00
+468,anterior,2017-04-07 10:26:00
+469,anterolateral,2017-04-08 09:33:00
+470,direct lateral,2017-04-09 09:00:00
+471,posterolateral,2017-04-10 11:04:00
+472,direct lateral,2017-04-10 11:12:00
+473,direct lateral,2017-04-10 08:23:00
+474,anterior,2017-04-11 08:13:00
+475,posterolateral,2017-04-12 07:22:00
+476,posterolateral,2017-04-12 08:13:00
+477,direct lateral,2017-04-13 10:45:00
+478,posterolateral,2017-04-13 11:56:00
+479,anterolateral,2017-04-13 10:08:00
+480,posterolateral,2017-04-14 08:31:00
+481,unknown,2017-04-15 06:56:00
+482,posterolateral,2017-04-16 11:14:00
+483,direct lateral,2017-04-16 08:57:00
+484,direct lateral,2017-04-17 10:11:00
+485,posterolateral,2017-04-19 07:29:00
+486,anterolateral,2017-04-20 09:22:00
+487,anterior,2017-04-22 09:31:00
+488,posterolateral,2017-04-22 09:00:00
+489,anterolateral,2017-04-24 08:30:00
+490,anterior,2017-04-24 06:41:00
+491,anterolateral,2017-04-24 08:45:00
+492,direct lateral,2017-04-25 11:21:00
+493,posterolateral,2017-04-26 09:53:00
+494,direct lateral,2017-04-27 10:36:00
+495,unknown,2017-04-27 09:11:00
+496,anterolateral,2017-04-27 10:36:00
+497,posterolateral,2017-04-30 09:59:00
+498,anterior,2017-05-03 06:52:00
+499,direct lateral,2017-05-03 11:08:00
+500,anterolateral,2017-05-05 09:33:00
+501,anterolateral,2017-05-05 09:28:00
+502,posterolateral,2017-05-06 10:17:00
+503,direct lateral,2017-05-06 06:37:00
+504,anterolateral,2017-05-08 10:53:00
+505,posterolateral,2017-05-09 09:01:00
+506,anterolateral,2017-05-10 10:11:00
+507,anterior,2017-05-10 07:13:00
+508,posterolateral,2017-05-11 11:45:00
+509,unknown,2017-05-12 11:04:00
+510,direct lateral,2017-05-15 06:55:00
+511,direct lateral,2017-05-17 09:29:00
+512,anterior,2017-05-17 10:21:00
+513,posterolateral,2017-05-20 07:15:00
+514,anterolateral,2017-05-21 07:52:00
+515,posterolateral,2017-05-23 08:35:00
+516,posterolateral,2017-05-24 08:13:00
+517,anterolateral,2017-05-24 07:17:00
+518,direct lateral,2017-05-24 10:23:00
+519,anterolateral,2017-05-26 08:47:00
+520,anterolateral,2017-05-26 12:27:00
+521,anterior,2017-05-29 10:20:00
+522,direct lateral,2017-05-30 08:28:00
+523,posterolateral,2017-06-02 10:18:00
+524,anterior,2017-06-03 06:40:00
+525,anterolateral,2017-06-04 10:01:00
+526,anterior,2017-06-06 10:05:00
+527,direct lateral,2017-06-08 08:12:00
+528,direct lateral,2017-06-08 07:24:00
+529,anterolateral,2017-06-10 11:38:00
+530,anterolateral,2017-06-11 07:24:00
+531,posterolateral,2017-06-12 09:48:00
+532,posterolateral,2017-06-13 11:55:00
+533,posterolateral,2017-06-13 08:14:00
+534,anterolateral,2017-06-13 07:01:00
+535,posterolateral,2017-06-15 11:19:00
+536,posterolateral,2017-06-15 08:30:00
+537,anterolateral,2017-06-18 11:14:00
+538,posterolateral,2017-06-19 11:11:00
+539,direct lateral,2017-06-20 10:15:00
+540,posterolateral,2017-06-20 08:15:00
+541,anterolateral,2017-06-21 08:38:00
+542,unknown,2017-06-21 10:00:00
+543,anterior,2017-06-23 12:02:00
+544,posterolateral,2017-06-25 10:08:00
+545,anterolateral,2017-06-25 06:38:00
+546,direct lateral,2017-06-26 10:17:00
+547,posterolateral,2017-06-27 09:43:00
+548,direct lateral,2017-06-28 10:46:00
+549,anterolateral,2017-06-29 08:35:00
+550,anterolateral,2017-06-30 11:48:00
+551,posterolateral,2017-06-30 11:28:00
+552,direct lateral,2017-06-30 06:44:00
+553,anterior,2017-07-01 10:54:00
+554,anterior,2017-07-04 07:44:00
+555,direct lateral,2017-07-04 09:34:00
+556,anterior,2017-07-05 06:59:00
+557,anterolateral,2017-07-05 07:21:00
+558,anterolateral,2017-07-06 06:40:00
+559,anterior,2017-07-07 10:45:00
+560,posterolateral,2017-07-07 09:10:00
+561,direct lateral,2017-07-07 06:19:00
+562,anterolateral,2017-07-08 10:04:00
+563,anterior,2017-07-12 11:19:00
+564,posterolateral,2017-07-15 08:43:00
+565,unknown,2017-07-17 07:04:00
+566,anterolateral,2017-07-18 10:39:00
+567,posterolateral,2017-07-19 08:08:00
+568,anterior,2017-07-23 08:51:00
+569,posterolateral,2017-07-23 11:00:00
+570,posterolateral,2017-07-23 12:07:00
+571,posterolateral,2017-07-23 09:18:00
+572,anterolateral,2017-07-26 07:00:00
+573,anterior,2017-07-27 12:19:00
+574,posterolateral,2017-07-27 11:06:00
+575,anterior,2017-07-28 06:53:00
+576,direct lateral,2017-07-29 08:46:00
+577,posterolateral,2017-07-30 07:23:00
+578,anterior,2017-07-31 07:44:00
+579,anterolateral,2017-08-03 10:34:00
+580,anterolateral,2017-08-03 12:29:00
+581,posterolateral,2017-08-04 10:20:00
+582,posterolateral,2017-08-04 07:54:00
+583,anterior,2017-08-04 10:45:00
+584,posterolateral,2017-08-05 08:32:00
+585,unknown,2017-08-05 10:30:00
+586,direct lateral,2017-08-06 11:41:00
+587,anterior,2017-08-06 07:35:00
+588,direct lateral,2017-08-08 07:58:00
+589,unknown,2017-08-09 10:25:00
+590,posterolateral,2017-08-13 12:42:00
+591,posterolateral,2017-08-17 09:57:00
+592,anterior,2017-08-18 10:06:00
+593,posterolateral,2017-08-19 06:54:00
+594,direct lateral,2017-08-19 08:03:00
+595,direct lateral,2017-08-20 06:52:00
+596,anterior,2017-08-22 06:46:00
+597,anterior,2017-08-23 08:14:00
+598,anterior,2017-08-24 08:30:00
+599,posterolateral,2017-08-24 09:33:00
+600,anterolateral,2017-08-25 09:27:00
+601,direct lateral,2017-08-26 12:25:00
+602,anterolateral,2017-08-30 09:11:00
+603,posterolateral,2017-08-31 09:52:00
+604,anterior,2017-08-31 08:16:00
+605,posterolateral,2017-08-31 10:59:00
+606,direct lateral,2017-09-01 07:49:00
+607,posterolateral,2017-09-03 08:42:00
+608,anterior,2017-09-04 08:47:00
+609,anterior,2017-09-05 10:16:00
+610,anterior,2017-09-06 08:55:00
+611,direct lateral,2017-09-06 09:45:00
+612,posterolateral,2017-09-06 10:31:00
+613,posterolateral,2017-09-08 10:19:00
+614,posterolateral,2017-09-10 06:36:00
+615,direct lateral,2017-09-11 12:29:00
+616,direct lateral,2017-09-12 10:08:00
+617,posterolateral,2017-09-12 07:30:00
+618,direct lateral,2017-09-12 12:42:00
+619,anterior,2017-09-13 07:52:00
+620,direct lateral,2017-09-14 11:10:00
+621,anterolateral,2017-09-16 08:00:00
+622,anterolateral,2017-09-16 07:26:00
+623,posterolateral,2017-09-16 08:35:00
+624,anterior,2017-09-17 07:22:00
+625,anterior,2017-09-18 09:16:00
+626,posterolateral,2017-09-21 07:10:00
+627,posterolateral,2017-09-21 07:26:00
+628,anterolateral,2017-09-22 09:20:00
+629,posterolateral,2017-09-24 10:19:00
+630,direct lateral,2017-09-27 08:49:00
+631,direct lateral,2017-09-27 09:49:00
+632,anterior,2017-09-28 08:18:00
+633,posterolateral,2017-09-28 11:37:00
+634,direct lateral,2017-09-28 08:40:00
+635,posterolateral,2017-09-30 06:55:00
+636,posterolateral,2017-10-03 07:22:00
+637,posterolateral,2017-10-03 11:29:00
+638,posterolateral,2017-10-05 07:05:00
+639,anterolateral,2017-10-10 11:42:00
+640,unknown,2017-10-12 08:47:00
+641,posterolateral,2017-10-12 08:45:00
+642,anterior,2017-10-13 08:12:00
+643,direct lateral,2017-10-13 08:58:00
+644,anterior,2017-10-13 10:08:00
+645,posterolateral,2017-10-15 07:33:00
+646,anterolateral,2017-10-16 10:59:00
+647,anterolateral,2017-10-19 09:38:00
+648,anterior,2017-10-19 10:31:00
+649,posterolateral,2017-10-20 06:42:00
+650,anterior,2017-10-20 09:28:00
+651,unknown,2017-10-24 07:49:00
+652,anterior,2017-10-24 12:17:00
+653,direct lateral,2017-10-24 09:36:00
+654,posterolateral,2017-10-25 09:48:00
+655,posterolateral,2017-10-26 07:35:00
+656,anterior,2017-10-26 09:45:00
+657,anterolateral,2017-10-27 10:40:00
+658,anterior,2017-10-27 11:19:00
+659,anterior,2017-10-27 06:24:00
+660,posterolateral,2017-10-27 08:14:00
+661,anterolateral,2017-10-28 10:24:00
+662,anterolateral,2017-10-28 11:53:00
+663,anterolateral,2017-10-29 07:11:00
+664,anterolateral,2017-10-29 06:32:00
+665,unknown,2017-11-01 10:52:00
+666,posterolateral,2017-11-01 10:34:00
+667,anterior,2017-11-03 11:02:00
+668,anterior,2017-11-06 10:36:00
+669,posterolateral,2017-11-06 12:04:00
+670,direct lateral,2017-11-07 07:49:00
+671,anterior,2017-11-07 06:43:00
+672,anterior,2017-11-07 11:09:00
+673,posterolateral,2017-11-08 06:43:00
+674,posterolateral,2017-11-09 06:19:00
+675,posterolateral,2017-11-09 10:30:00
+676,posterolateral,2017-11-10 08:37:00
+677,posterolateral,2017-11-10 11:58:00
+678,direct lateral,2017-11-10 09:28:00
+679,posterolateral,2017-11-11 10:07:00
+680,anterolateral,2017-11-14 11:23:00
+681,anterior,2017-11-16 07:38:00
+682,anterior,2017-11-16 08:43:00
+683,posterolateral,2017-11-18 08:31:00
+684,anterior,2017-11-18 08:34:00
+685,posterolateral,2017-11-19 07:19:00
+686,unknown,2017-11-21 09:45:00
+687,anterolateral,2017-11-21 08:08:00
+688,anterior,2017-11-22 07:58:00
+689,posterolateral,2017-11-23 10:38:00
+690,anterior,2017-11-24 07:32:00
+691,posterolateral,2017-11-26 08:14:00
+692,direct lateral,2017-11-26 09:36:00
+693,unknown,2017-11-27 11:12:00
+694,posterolateral,2017-11-29 08:41:00
+695,anterolateral,2017-11-29 08:19:00
+696,posterolateral,2017-11-29 08:05:00
+697,direct lateral,2017-12-01 09:34:00
+698,anterior,2017-12-01 07:18:00
+699,anterior,2017-12-02 08:03:00
+700,unknown,2017-12-02 09:44:00
+701,anterolateral,2017-12-03 10:07:00
+702,direct lateral,2017-12-03 09:35:00
+703,anterior,2017-12-07 08:40:00
+704,anterior,2017-12-08 11:03:00
+705,posterolateral,2017-12-12 11:36:00
+706,unknown,2017-12-15 07:37:00
+707,posterolateral,2017-12-17 06:48:00
+708,posterolateral,2017-12-18 08:04:00
+709,anterior,2017-12-19 12:05:00
+710,direct lateral,2017-12-19 09:23:00
+711,anterior,2017-12-20 12:08:00
+712,unknown,2017-12-21 06:54:00
+713,posterolateral,2017-12-22 11:06:00
+714,posterolateral,2017-12-23 11:07:00
+715,anterior,2017-12-23 08:37:00
+716,direct lateral,2017-12-24 12:22:00
+717,anterior,2017-12-25 10:32:00
+718,anterior,2017-12-25 09:27:00
+719,unknown,2017-12-27 11:07:00
+720,anterior,2017-12-28 06:52:00
+721,posterolateral,2017-12-28 06:45:00
+722,anterior,2017-12-28 10:41:00
+723,direct lateral,2017-12-31 11:16:00
+724,direct lateral,2018-01-01 07:07:00
+725,anterior,2018-01-02 11:30:00
+726,anterior,2018-01-04 07:41:00
+727,direct lateral,2018-01-06 08:44:00
+728,posterolateral,2018-01-08 07:50:00
+729,posterolateral,2018-01-09 08:46:00
+730,anterolateral,2018-01-09 11:44:00
+731,posterolateral,2018-01-10 07:36:00
+732,anterior,2018-01-10 10:00:00
+733,posterolateral,2018-01-10 10:11:00
+734,posterolateral,2018-01-12 11:11:00
+735,direct lateral,2018-01-13 11:06:00
+736,unknown,2018-01-14 07:47:00
+737,posterolateral,2018-01-15 07:05:00
+738,direct lateral,2018-01-15 09:53:00
+739,anterior,2018-01-15 09:37:00
+740,posterolateral,2018-01-16 09:39:00
+741,direct lateral,2018-01-16 08:24:00
+742,direct lateral,2018-01-17 09:51:00
+743,anterolateral,2018-01-18 12:21:00
+744,anterior,2018-01-20 10:47:00
+745,posterolateral,2018-01-21 12:04:00
+746,anterolateral,2018-01-21 07:52:00
+747,anterolateral,2018-01-23 10:46:00
+748,anterolateral,2018-01-24 11:31:00
+749,anterolateral,2018-01-24 11:17:00
+750,unknown,2018-01-26 12:19:00
+751,posterolateral,2018-01-26 10:58:00
+752,unknown,2018-01-28 09:38:00
+753,direct lateral,2018-01-30 11:03:00
+754,posterolateral,2018-01-30 07:26:00
+755,anterolateral,2018-01-30 08:25:00
+756,unknown,2018-01-30 09:10:00
+757,anterolateral,2018-01-31 11:52:00
+758,posterolateral,2018-02-01 07:33:00
+759,posterolateral,2018-02-01 07:32:00
+760,anterior,2018-02-01 09:00:00
+761,direct lateral,2018-02-03 08:07:00
+762,unknown,2018-02-03 09:04:00
+763,posterolateral,2018-02-05 08:23:00
+764,direct lateral,2018-02-06 07:20:00
+765,anterolateral,2018-02-06 10:40:00
+766,anterior,2018-02-06 07:30:00
+767,anterolateral,2018-02-07 11:19:00
+768,anterolateral,2018-02-08 07:38:00
+769,anterior,2018-02-08 09:15:00
+770,unknown,2018-02-08 11:17:00
+771,posterolateral,2018-02-09 07:27:00
+772,posterolateral,2018-02-11 09:23:00
+773,posterolateral,2018-02-13 08:11:00
+774,anterolateral,2018-02-14 10:31:00
+775,posterolateral,2018-02-15 07:50:00
+776,posterolateral,2018-02-16 12:15:00
+777,anterolateral,2018-02-18 10:32:00
+778,direct lateral,2018-02-19 07:49:00
+779,direct lateral,2018-02-21 07:52:00
+780,anterolateral,2018-02-21 07:22:00
+781,anterolateral,2018-02-22 06:48:00
+782,anterior,2018-02-23 11:39:00
+783,anterior,2018-02-24 06:31:00
+784,anterolateral,2018-02-24 09:47:00
+785,direct lateral,2018-02-25 10:38:00
+786,anterolateral,2018-02-27 10:09:00
+787,posterolateral,2018-02-27 08:16:00
+788,anterior,2018-02-28 12:13:00
+789,anterolateral,2018-03-04 10:53:00
+790,anterolateral,2018-03-05 09:51:00
+791,anterior,2018-03-07 08:38:00
+792,anterior,2018-03-08 11:07:00
+793,anterolateral,2018-03-09 07:08:00
+794,posterolateral,2018-03-10 09:35:00
+795,posterolateral,2018-03-10 11:10:00
+796,posterolateral,2018-03-11 10:51:00
+797,anterolateral,2018-03-12 07:29:00
+798,anterior,2018-03-12 10:19:00
+799,unknown,2018-03-13 11:32:00
+800,posterolateral,2018-03-16 06:39:00
+801,anterolateral,2018-03-18 11:40:00
+802,anterior,2018-03-19 08:47:00
+803,posterolateral,2018-03-19 12:17:00
+804,posterolateral,2018-03-20 10:52:00
+805,anterior,2018-03-20 08:05:00
+806,anterior,2018-03-20 07:57:00
+807,anterolateral,2018-03-21 10:26:00
+808,direct lateral,2018-03-23 07:53:00
+809,posterolateral,2018-03-23 07:48:00
+810,anterolateral,2018-03-24 08:16:00
+811,anterior,2018-03-25 12:00:00
+812,anterior,2018-03-26 12:09:00
+813,anterolateral,2018-03-26 07:07:00
+814,posterolateral,2018-03-28 08:21:00
+815,anterior,2018-03-30 09:24:00
+816,anterolateral,2018-03-30 11:25:00
+817,direct lateral,2018-03-31 07:45:00
+818,posterolateral,2018-04-01 11:55:00
+819,direct lateral,2018-04-01 11:46:00
+820,direct lateral,2018-04-05 06:59:00
+821,posterolateral,2018-04-05 11:08:00
+822,posterolateral,2018-04-09 10:09:00
+823,anterolateral,2018-04-11 09:35:00
+824,anterolateral,2018-04-12 11:40:00
+825,posterolateral,2018-04-13 07:50:00
+826,anterior,2018-04-13 08:38:00
+827,posterolateral,2018-04-15 08:07:00
+828,anterior,2018-04-18 11:31:00
+829,posterolateral,2018-04-19 07:13:00
+830,posterolateral,2018-04-19 07:42:00
+831,direct lateral,2018-04-20 09:53:00
+832,direct lateral,2018-04-21 09:44:00
+833,anterolateral,2018-04-21 07:20:00
+834,anterolateral,2018-04-21 09:20:00
+835,anterolateral,2018-04-22 06:38:00
+836,posterolateral,2018-04-22 12:03:00
+837,anterior,2018-04-23 08:22:00
+838,anterior,2018-04-23 11:00:00
+839,direct lateral,2018-04-26 12:23:00
+840,direct lateral,2018-04-26 08:08:00
+841,posterolateral,2018-04-26 10:24:00
+842,anterior,2018-04-27 07:40:00
+843,anterior,2018-04-27 10:01:00
+844,posterolateral,2018-04-27 08:37:00
+845,posterolateral,2018-04-27 06:56:00
+846,direct lateral,2018-04-29 07:45:00
+847,posterolateral,2018-04-30 10:44:00
+848,posterolateral,2018-04-30 07:07:00
+849,anterior,2018-05-01 08:06:00
+850,posterolateral,2018-05-04 10:56:00
+851,posterolateral,2018-05-07 06:58:00
+852,anterior,2018-05-09 10:12:00
+853,posterolateral,2018-05-11 07:51:00
+854,anterolateral,2018-05-11 07:17:00
+855,direct lateral,2018-05-12 08:46:00
+856,posterolateral,2018-05-12 09:11:00
+857,anterolateral,2018-05-13 09:25:00
+858,unknown,2018-05-14 09:00:00
+859,posterolateral,2018-05-16 10:32:00
+860,posterolateral,2018-05-17 10:05:00
+861,posterolateral,2018-05-18 06:44:00
+862,posterolateral,2018-05-20 12:15:00
+863,anterolateral,2018-05-22 08:26:00
+864,anterior,2018-05-22 10:32:00
+865,posterolateral,2018-05-23 11:18:00
+866,anterior,2018-05-23 10:58:00
+867,direct lateral,2018-05-23 12:20:00
+868,posterolateral,2018-05-27 07:30:00
+869,anterolateral,2018-05-28 07:41:00
+870,posterolateral,2018-05-29 12:26:00
+871,direct lateral,2018-05-30 08:53:00
+872,direct lateral,2018-05-30 08:58:00
+873,direct lateral,2018-05-31 07:52:00
+874,anterior,2018-06-01 11:15:00
+875,posterolateral,2018-06-01 08:24:00
+876,anterolateral,2018-06-03 10:05:00
+877,posterolateral,2018-06-05 12:05:00
+878,anterolateral,2018-06-05 12:02:00
+879,posterolateral,2018-06-05 07:02:00
+880,anterolateral,2018-06-06 07:42:00
+881,posterolateral,2018-06-06 09:57:00
+882,direct lateral,2018-06-08 08:02:00
+883,anterior,2018-06-10 07:46:00
+884,anterolateral,2018-06-10 08:44:00
+885,posterolateral,2018-06-10 09:54:00
+886,direct lateral,2018-06-11 08:24:00
+887,posterolateral,2018-06-12 07:59:00
+888,direct lateral,2018-06-12 11:44:00
+889,direct lateral,2018-06-13 10:25:00
+890,unknown,2018-06-14 08:17:00
+891,posterolateral,2018-06-15 08:44:00
+892,direct lateral,2018-06-16 07:59:00
+893,anterolateral,2018-06-16 11:33:00
+894,anterior,2018-06-17 09:23:00
+895,anterolateral,2018-06-18 08:56:00
+896,direct lateral,2018-06-18 09:41:00
+897,posterolateral,2018-06-20 09:25:00
+898,unknown,2018-06-20 12:27:00
+899,posterolateral,2018-06-21 09:40:00
+900,anterior,2018-06-22 06:46:00
+901,anterolateral,2018-06-23 06:40:00
+902,posterolateral,2018-06-23 09:44:00
+903,anterolateral,2018-06-27 07:53:00
+904,anterolateral,2018-06-27 11:19:00
+905,anterolateral,2018-06-28 11:37:00
+906,anterior,2018-06-28 06:49:00
+907,posterolateral,2018-07-02 10:58:00
+908,anterior,2018-07-02 11:11:00
+909,posterolateral,2018-07-02 09:59:00
+910,posterolateral,2018-07-03 07:09:00
+911,anterior,2018-07-04 12:03:00
+912,anterior,2018-07-04 06:50:00
+913,anterior,2018-07-05 07:25:00
+914,direct lateral,2018-07-05 06:40:00
+915,posterolateral,2018-07-05 08:54:00
+916,anterior,2018-07-08 07:47:00
+917,direct lateral,2018-07-09 08:16:00
+918,posterolateral,2018-07-11 10:10:00
+919,anterior,2018-07-11 08:11:00
+920,anterior,2018-07-11 10:17:00
+921,unknown,2018-07-11 07:45:00
+922,direct lateral,2018-07-12 09:23:00
+923,direct lateral,2018-07-12 09:31:00
+924,anterolateral,2018-07-12 08:19:00
+925,anterolateral,2018-07-13 11:45:00
+926,posterolateral,2018-07-13 08:25:00
+927,posterolateral,2018-07-14 07:57:00
+928,anterior,2018-07-15 08:53:00
+929,posterolateral,2018-07-17 07:28:00
+930,direct lateral,2018-07-18 09:46:00
+931,direct lateral,2018-07-18 11:50:00
+932,anterior,2018-07-22 11:37:00
+933,posterolateral,2018-07-24 07:07:00
+934,anterolateral,2018-07-27 10:22:00
+935,posterolateral,2018-07-28 12:05:00
+936,posterolateral,2018-07-28 07:50:00
+937,posterolateral,2018-07-28 06:56:00
+938,anterolateral,2018-07-29 11:24:00
+939,anterolateral,2018-07-30 08:01:00
+940,posterolateral,2018-08-02 09:21:00
+941,posterolateral,2018-08-03 11:25:00
+942,direct lateral,2018-08-03 11:21:00
+943,posterolateral,2018-08-03 08:24:00
+944,unknown,2018-08-04 06:44:00
+945,anterolateral,2018-08-04 11:25:00
+946,posterolateral,2018-08-05 10:12:00
+947,anterolateral,2018-08-07 08:38:00
+948,direct lateral,2018-08-08 10:15:00
+949,posterolateral,2018-08-08 08:53:00
+950,posterolateral,2018-08-08 07:50:00
+951,posterolateral,2018-08-09 10:44:00
+952,anterolateral,2018-08-10 11:55:00
+953,anterior,2018-08-11 07:42:00
+954,direct lateral,2018-08-12 11:11:00
+955,posterolateral,2018-08-14 11:33:00
+956,posterolateral,2018-08-14 08:47:00
+957,posterolateral,2018-08-16 08:40:00
+958,posterolateral,2018-08-16 10:38:00
+959,posterolateral,2018-08-17 09:46:00
+960,anterior,2018-08-18 08:51:00
+961,anterior,2018-08-19 07:49:00
+962,anterior,2018-08-20 08:37:00
+963,anterolateral,2018-08-20 07:19:00
+964,posterolateral,2018-08-21 07:22:00
+965,direct lateral,2018-08-22 11:40:00
+966,posterolateral,2018-08-23 10:11:00
+967,anterolateral,2018-08-25 08:53:00
+968,posterolateral,2018-08-26 11:51:00
+969,direct lateral,2018-08-29 09:37:00
+970,posterolateral,2018-08-29 12:09:00
+971,anterior,2018-08-30 08:47:00
+972,posterolateral,2018-08-30 07:54:00
+973,anterolateral,2018-09-01 09:30:00
+974,anterior,2018-09-01 12:13:00
+975,anterior,2018-09-01 08:36:00
+976,anterior,2018-09-01 07:36:00
+977,posterolateral,2018-09-03 07:27:00
+978,anterior,2018-09-03 06:46:00
+979,direct lateral,2018-09-04 12:16:00
+980,anterior,2018-09-04 07:17:00
+981,posterolateral,2018-09-05 12:29:00
+982,unknown,2018-09-05 10:02:00
+983,direct lateral,2018-09-05 07:43:00
+984,unknown,2018-09-07 06:58:00
+985,anterior,2018-09-07 11:47:00
+986,posterolateral,2018-09-07 10:45:00
+987,direct lateral,2018-09-08 08:26:00
+988,posterolateral,2018-09-08 07:29:00
+989,anterolateral,2018-09-09 11:02:00
+990,unknown,2018-09-10 09:04:00
+991,anterior,2018-09-10 06:58:00
+992,anterior,2018-09-11 12:11:00
+993,posterolateral,2018-09-11 11:38:00
+994,direct lateral,2018-09-15 09:50:00
+995,direct lateral,2018-09-16 11:57:00
+996,anterior,2018-09-16 06:43:00
+997,anterolateral,2018-09-17 11:49:00
+998,posterolateral,2018-09-17 08:07:00
+999,anterolateral,2018-09-17 10:06:00
+1000,direct lateral,2018-09-18 09:45:00
+1001,anterolateral,2018-09-19 07:19:00
+1002,posterolateral,2018-09-19 09:26:00
+1003,anterolateral,2018-09-20 12:22:00
+1004,anterior,2018-09-23 06:32:00
+1005,anterolateral,2018-09-25 09:49:00
+1006,direct lateral,2018-09-25 10:03:00
+1007,anterior,2018-09-25 08:13:00
+1008,posterolateral,2018-09-27 08:49:00
+1009,anterolateral,2018-09-27 08:29:00
+1010,anterolateral,2018-09-28 10:53:00
+1011,posterolateral,2018-09-28 12:24:00
+1012,posterolateral,2018-09-28 06:57:00
+1013,anterolateral,2018-09-30 07:34:00
+1014,posterolateral,2018-10-01 09:25:00
+1015,direct lateral,2018-10-05 11:32:00
+1016,posterolateral,2018-10-05 10:17:00
+1017,posterolateral,2018-10-05 11:38:00
+1018,posterolateral,2018-10-06 07:03:00
+1019,anterolateral,2018-10-07 12:15:00
+1020,posterolateral,2018-10-08 10:48:00
+1021,anterior,2018-10-09 07:37:00
+1022,anterolateral,2018-10-10 08:25:00
+1023,posterolateral,2018-10-11 07:52:00
+1024,anterolateral,2018-10-12 10:12:00
+1025,anterior,2018-10-12 11:06:00
+1026,posterolateral,2018-10-12 08:16:00
+1027,direct lateral,2018-10-12 08:22:00
+1028,anterolateral,2018-10-12 10:13:00
+1029,unknown,2018-10-14 08:41:00
+1030,anterior,2018-10-16 09:57:00
+1031,anterolateral,2018-10-18 12:16:00
+1032,anterior,2018-10-19 09:19:00
+1033,direct lateral,2018-10-19 11:14:00
+1034,posterolateral,2018-10-19 07:20:00
+1035,direct lateral,2018-10-20 09:27:00
+1036,anterior,2018-10-21 09:30:00
+1037,anterior,2018-10-22 09:03:00
+1038,anterior,2018-10-24 11:40:00
+1039,posterolateral,2018-10-24 07:25:00
+1040,posterolateral,2018-10-25 09:53:00
+1041,anterior,2018-10-25 09:16:00
+1042,posterolateral,2018-10-25 09:35:00
+1043,direct lateral,2018-10-26 08:12:00
+1044,direct lateral,2018-10-28 10:28:00
+1045,anterior,2018-10-29 08:20:00
+1046,posterolateral,2018-10-30 07:15:00
+1047,direct lateral,2018-11-01 10:47:00
+1048,anterior,2018-11-01 09:11:00
+1049,anterior,2018-11-02 10:49:00
+1050,posterolateral,2018-11-03 12:35:00
+1051,posterolateral,2018-11-04 09:58:00
+1052,anterior,2018-11-04 11:14:00
+1053,posterolateral,2018-11-05 09:32:00
+1054,anterolateral,2018-11-05 07:36:00
+1055,posterolateral,2018-11-05 09:23:00
+1056,anterolateral,2018-11-05 08:45:00
+1057,direct lateral,2018-11-06 12:10:00
+1058,anterior,2018-11-07 12:14:00
+1059,direct lateral,2018-11-10 08:33:00
+1060,posterolateral,2018-11-10 11:12:00
+1061,posterolateral,2018-11-12 08:00:00
+1062,anterolateral,2018-11-12 12:14:00
+1063,posterolateral,2018-11-13 08:46:00
+1064,posterolateral,2018-11-14 12:31:00
+1065,posterolateral,2018-11-15 07:22:00
+1066,anterior,2018-11-16 11:59:00
+1067,anterior,2018-11-17 07:54:00
+1068,anterolateral,2018-11-19 09:30:00
+1069,unknown,2018-11-19 06:51:00
+1070,posterolateral,2018-11-20 07:20:00
+1071,direct lateral,2018-11-20 08:49:00
+1072,anterior,2018-11-22 09:57:00
+1073,direct lateral,2018-11-23 09:10:00
+1074,posterolateral,2018-11-24 09:17:00
+1075,posterolateral,2018-11-25 09:52:00
+1076,posterolateral,2018-11-25 10:15:00
+1077,anterolateral,2018-11-26 10:14:00
+1078,anterior,2018-11-27 12:20:00
+1079,anterior,2018-11-28 11:16:00
+1080,unknown,2018-11-29 09:28:00
+1081,anterolateral,2018-12-01 09:49:00
+1082,anterolateral,2018-12-01 12:01:00
+1083,direct lateral,2018-12-01 07:39:00
+1084,anterior,2018-12-01 12:25:00
+1085,anterior,2018-12-05 12:29:00
+1086,anterior,2018-12-06 10:22:00
+1087,posterolateral,2018-12-06 07:37:00
+1088,direct lateral,2018-12-07 11:48:00
+1089,anterior,2018-12-08 08:23:00
+1090,anterolateral,2018-12-09 08:55:00
+1091,anterior,2018-12-10 11:08:00
+1092,direct lateral,2018-12-15 07:11:00
+1093,direct lateral,2018-12-17 06:47:00
+1094,anterior,2018-12-17 06:41:00
+1095,posterolateral,2018-12-17 08:12:00
+1096,anterolateral,2018-12-18 07:23:00
+1097,anterior,2018-12-19 11:03:00
+1098,direct lateral,2018-12-21 09:06:00
+1099,posterolateral,2018-12-26 09:09:00
+1100,posterolateral,2018-12-29 11:48:00
+1101,anterior,2018-12-29 11:12:00
+1102,posterolateral,2018-12-31 12:21:00
+1103,posterolateral,2018-12-31 09:52:00
+1104,anterolateral,2018-12-31 09:36:00
+1105,anterolateral,2019-01-01 12:07:00
+1106,direct lateral,2019-01-02 09:53:00
+1107,anterolateral,2019-01-03 08:06:00
+1108,anterior,2019-01-03 10:55:00
+1109,posterolateral,2019-01-03 10:28:00
+1110,direct lateral,2019-01-05 12:21:00
+1111,posterolateral,2019-01-06 08:59:00
+1112,posterolateral,2019-01-06 07:59:00
+1113,unknown,2019-01-07 10:03:00
+1114,direct lateral,2019-01-07 11:37:00
+1115,anterior,2019-01-08 07:21:00
+1116,direct lateral,2019-01-08 08:10:00
+1117,direct lateral,2019-01-09 10:22:00
+1118,anterior,2019-01-10 11:36:00
+1119,anterolateral,2019-01-11 09:50:00
+1120,posterolateral,2019-01-12 09:51:00
+1121,anterior,2019-01-13 06:37:00
+1122,posterolateral,2019-01-15 09:22:00
+1123,posterolateral,2019-01-15 06:41:00
+1124,anterior,2019-01-15 10:37:00
+1125,anterior,2019-01-16 07:53:00
+1126,posterolateral,2019-01-16 11:45:00
+1127,anterior,2019-01-17 08:52:00
+1128,direct lateral,2019-01-18 07:38:00
+1129,unknown,2019-01-18 11:22:00
+1130,posterolateral,2019-01-18 09:46:00
+1131,anterolateral,2019-01-20 11:04:00
+1132,posterolateral,2019-01-23 11:09:00
+1133,direct lateral,2019-01-23 10:35:00
+1134,anterolateral,2019-01-24 07:58:00
+1135,posterolateral,2019-01-24 10:26:00
+1136,anterior,2019-01-26 07:00:00
+1137,posterolateral,2019-01-27 09:26:00
+1138,posterolateral,2019-01-29 12:04:00
+1139,anterior,2019-01-30 08:54:00
+1140,anterior,2019-01-30 12:27:00
+1141,direct lateral,2019-02-01 10:42:00
+1142,posterolateral,2019-02-02 07:25:00
+1143,posterolateral,2019-02-02 12:33:00
+1144,anterolateral,2019-02-03 10:14:00
+1145,posterolateral,2019-02-07 10:48:00
+1146,anterolateral,2019-02-07 09:33:00
+1147,direct lateral,2019-02-08 08:27:00
+1148,anterolateral,2019-02-09 08:41:00
+1149,posterolateral,2019-02-10 07:26:00
+1150,posterolateral,2019-02-11 11:01:00
+1151,anterior,2019-02-11 06:43:00
+1152,posterolateral,2019-02-13 07:33:00
+1153,anterior,2019-02-13 09:43:00
+1154,anterior,2019-02-14 10:47:00
+1155,posterolateral,2019-02-15 10:22:00
+1156,posterolateral,2019-02-15 06:36:00
+1157,anterior,2019-02-18 11:26:00
+1158,direct lateral,2019-02-19 11:54:00
+1159,posterolateral,2019-02-19 09:49:00
+1160,direct lateral,2019-02-19 09:08:00
+1161,posterolateral,2019-02-20 10:23:00
+1162,anterolateral,2019-02-20 09:49:00
+1163,anterolateral,2019-02-21 10:08:00
+1164,posterolateral,2019-02-21 06:26:00
+1165,direct lateral,2019-02-21 10:55:00
+1166,anterior,2019-02-22 09:50:00
+1167,anterior,2019-02-23 07:54:00
+1168,posterolateral,2019-02-25 11:26:00
+1169,anterior,2019-02-25 10:54:00
+1170,posterolateral,2019-02-28 11:36:00
+1171,anterolateral,2019-03-01 11:47:00
+1172,posterolateral,2019-03-01 08:35:00
+1173,direct lateral,2019-03-01 06:51:00
+1174,posterolateral,2019-03-01 09:52:00
+1175,direct lateral,2019-03-02 09:59:00
+1176,anterolateral,2019-03-03 12:14:00
+1177,direct lateral,2019-03-04 11:32:00
+1178,anterolateral,2019-03-07 07:27:00
+1179,posterolateral,2019-03-08 08:31:00
+1180,posterolateral,2019-03-10 11:08:00
+1181,anterolateral,2019-03-11 08:36:00
+1182,posterolateral,2019-03-12 06:40:00
+1183,posterolateral,2019-03-12 09:54:00
+1184,posterolateral,2019-03-12 10:07:00
+1185,posterolateral,2019-03-13 10:51:00
+1186,posterolateral,2019-03-14 10:27:00
+1187,direct lateral,2019-03-14 07:16:00
+1188,anterolateral,2019-03-15 11:19:00
+1189,posterolateral,2019-03-15 08:06:00
+1190,posterolateral,2019-03-21 08:59:00
+1191,posterolateral,2019-03-22 08:47:00
+1192,anterior,2019-03-22 11:03:00
+1193,posterolateral,2019-03-22 12:13:00
+1194,anterior,2019-03-23 11:37:00
+1195,posterolateral,2019-03-23 08:47:00
+1196,direct lateral,2019-03-24 10:20:00
+1197,posterolateral,2019-03-25 09:22:00
+1198,posterolateral,2019-03-25 10:41:00
+1199,posterolateral,2019-03-25 08:44:00
+1200,anterolateral,2019-03-25 09:25:00
+1201,posterolateral,2019-03-26 10:47:00
+1202,direct lateral,2019-03-27 11:10:00
+1203,anterior,2019-03-28 09:23:00
+1204,posterolateral,2019-03-29 11:28:00
+1205,anterior,2019-03-29 11:15:00
+1206,direct lateral,2019-03-29 09:05:00
+1207,anterolateral,2019-03-30 07:00:00
+1208,unknown,2019-03-30 08:47:00
+1209,posterolateral,2019-03-30 11:20:00
+1210,anterolateral,2019-03-31 09:03:00
+1211,anterior,2019-04-01 10:18:00
+1212,posterolateral,2019-04-02 11:57:00
+1213,anterolateral,2019-04-03 06:44:00
+1214,posterolateral,2019-04-04 07:38:00
+1215,posterolateral,2019-04-06 09:11:00
+1216,direct lateral,2019-04-06 07:44:00
+1217,anterior,2019-04-06 12:15:00
+1218,anterior,2019-04-07 08:15:00
+1219,direct lateral,2019-04-07 09:15:00
+1220,anterior,2019-04-08 10:37:00
+1221,anterior,2019-04-08 11:25:00
+1222,posterolateral,2019-04-09 09:20:00
+1223,direct lateral,2019-04-09 09:03:00
+1224,posterolateral,2019-04-12 09:13:00
+1225,anterolateral,2019-04-13 08:27:00
+1226,anterolateral,2019-04-17 09:01:00
+1227,anterior,2019-04-17 12:38:00
+1228,posterolateral,2019-04-18 08:53:00
+1229,anterolateral,2019-04-18 11:11:00
+1230,direct lateral,2019-04-18 09:56:00
+1231,posterolateral,2019-04-18 07:29:00
+1232,anterolateral,2019-04-18 10:36:00
+1233,anterior,2019-04-18 10:01:00
+1234,anterolateral,2019-04-19 10:09:00
+1235,posterolateral,2019-04-20 12:25:00
+1236,anterolateral,2019-04-23 07:34:00
+1237,direct lateral,2019-04-24 08:29:00
+1238,posterolateral,2019-04-25 12:12:00
+1239,anterior,2019-04-27 10:04:00
+1240,direct lateral,2019-04-27 11:50:00
+1241,posterolateral,2019-04-29 07:12:00
+1242,direct lateral,2019-04-30 10:51:00
+1243,anterolateral,2019-05-01 07:31:00
+1244,posterolateral,2019-05-04 07:58:00
+1245,anterolateral,2019-05-06 08:16:00
+1246,unknown,2019-05-06 09:05:00
+1247,anterolateral,2019-05-06 10:52:00
+1248,posterolateral,2019-05-07 06:50:00
+1249,anterolateral,2019-05-07 11:09:00
+1250,direct lateral,2019-05-08 09:13:00
+1251,posterolateral,2019-05-08 10:07:00
+1252,posterolateral,2019-05-10 08:28:00
+1253,posterolateral,2019-05-10 10:38:00
+1254,anterior,2019-05-11 09:25:00
+1255,anterior,2019-05-12 07:01:00
+1256,posterolateral,2019-05-13 07:23:00
+1257,direct lateral,2019-05-13 10:43:00
+1258,direct lateral,2019-05-14 11:41:00
+1259,posterolateral,2019-05-14 12:06:00
+1260,direct lateral,2019-05-15 10:51:00
+1261,anterior,2019-05-16 09:01:00
+1262,posterolateral,2019-05-18 07:39:00
+1263,posterolateral,2019-05-18 07:19:00
+1264,unknown,2019-05-20 09:41:00
+1265,direct lateral,2019-05-20 08:12:00
+1266,posterolateral,2019-05-21 09:15:00
+1267,direct lateral,2019-05-23 12:00:00
+1268,anterolateral,2019-05-23 10:54:00
+1269,anterolateral,2019-05-24 12:06:00
+1270,direct lateral,2019-05-24 07:35:00
+1271,posterolateral,2019-05-25 07:41:00
+1272,anterior,2019-05-26 06:43:00
+1273,direct lateral,2019-05-26 10:29:00
+1274,anterior,2019-05-27 07:51:00
+1275,posterolateral,2019-05-27 10:57:00
+1276,posterolateral,2019-05-29 08:19:00
+1277,posterolateral,2019-06-02 11:55:00
+1278,direct lateral,2019-06-07 11:34:00
+1279,posterolateral,2019-06-08 11:24:00
+1280,direct lateral,2019-06-09 07:01:00
+1281,anterior,2019-06-09 06:59:00
+1282,unknown,2019-06-11 12:18:00
+1283,direct lateral,2019-06-12 12:14:00
+1284,anterior,2019-06-13 07:36:00
+1285,anterolateral,2019-06-15 06:50:00
+1286,unknown,2019-06-17 10:45:00
+1287,anterolateral,2019-06-17 11:17:00
+1288,anterolateral,2019-06-17 08:17:00
+1289,anterior,2019-06-18 07:00:00
+1290,anterior,2019-06-18 09:05:00
+1291,unknown,2019-06-19 10:07:00
+1292,anterior,2019-06-22 10:36:00
+1293,anterolateral,2019-06-23 06:41:00
+1294,anterolateral,2019-06-23 07:05:00
+1295,anterior,2019-06-24 06:53:00
+1296,anterior,2019-06-25 11:19:00
+1297,direct lateral,2019-06-25 08:43:00
+1298,anterior,2019-06-26 06:29:00
+1299,direct lateral,2019-06-26 08:40:00
+1300,posterolateral,2019-06-27 09:44:00
+1301,posterolateral,2019-06-27 08:00:00
+1302,anterolateral,2019-06-27 11:14:00
+1303,anterolateral,2019-06-30 08:59:00
+1304,posterolateral,2019-07-01 12:40:00
+1305,posterolateral,2019-07-03 11:22:00
+1306,anterolateral,2019-07-04 10:46:00
+1307,posterolateral,2019-07-04 11:09:00
+1308,direct lateral,2019-07-05 08:03:00
+1309,posterolateral,2019-07-06 11:47:00
+1310,posterolateral,2019-07-08 07:32:00
+1311,posterolateral,2019-07-08 10:56:00
+1312,posterolateral,2019-07-08 10:35:00
+1313,unknown,2019-07-08 08:30:00
+1314,direct lateral,2019-07-08 10:40:00
+1315,posterolateral,2019-07-09 09:02:00
+1316,posterolateral,2019-07-09 08:51:00
+1317,anterolateral,2019-07-11 09:39:00
+1318,direct lateral,2019-07-12 11:11:00
+1319,posterolateral,2019-07-12 07:40:00
+1320,anterior,2019-07-13 10:39:00
+1321,anterolateral,2019-07-13 10:08:00
+1322,posterolateral,2019-07-13 10:59:00
+1323,posterolateral,2019-07-15 07:07:00
+1324,anterior,2019-07-17 09:36:00
+1325,anterolateral,2019-07-22 10:59:00
+1326,anterolateral,2019-07-24 11:15:00
+1327,anterior,2019-07-24 12:03:00
+1328,direct lateral,2019-07-25 11:42:00
+1329,anterior,2019-07-25 08:56:00
+1330,anterior,2019-07-27 11:43:00
+1331,posterolateral,2019-07-27 08:35:00
+1332,posterolateral,2019-07-28 07:25:00
+1333,posterolateral,2019-07-28 07:41:00
+1334,anterior,2019-07-28 11:45:00
+1335,unknown,2019-07-28 09:25:00
+1336,direct lateral,2019-07-29 10:40:00
+1337,posterolateral,2019-07-29 10:42:00
+1338,posterolateral,2019-07-31 10:22:00
+1339,posterolateral,2019-07-31 08:53:00
+1340,direct lateral,2019-08-02 09:22:00
+1341,posterolateral,2019-08-04 06:33:00
+1342,posterolateral,2019-08-05 12:30:00
+1343,posterolateral,2019-08-07 10:26:00
+1344,direct lateral,2019-08-07 09:24:00
+1345,anterior,2019-08-09 09:18:00
+1346,anterolateral,2019-08-10 07:32:00
+1347,posterolateral,2019-08-10 06:47:00
+1348,posterolateral,2019-08-13 09:57:00
+1349,direct lateral,2019-08-13 08:27:00
+1350,anterolateral,2019-08-13 07:13:00
+1351,direct lateral,2019-08-15 07:20:00
+1352,direct lateral,2019-08-16 08:21:00
+1353,posterolateral,2019-08-16 09:26:00
+1354,posterolateral,2019-08-18 06:38:00
+1355,anterolateral,2019-08-18 10:58:00
+1356,anterior,2019-08-20 07:09:00
+1357,posterolateral,2019-08-23 06:28:00
+1358,posterolateral,2019-08-23 11:32:00
+1359,direct lateral,2019-08-23 10:07:00
+1360,anterior,2019-08-27 11:06:00
+1361,anterior,2019-08-27 06:49:00
+1362,unknown,2019-08-28 11:45:00
+1363,direct lateral,2019-08-28 08:56:00
+1364,anterolateral,2019-08-29 11:24:00
+1365,anterolateral,2019-08-29 10:44:00
+1366,anterior,2019-08-31 12:08:00
+1367,posterolateral,2019-09-01 11:36:00
+1368,posterolateral,2019-09-05 10:59:00
+1369,posterolateral,2019-09-05 06:43:00
+1370,direct lateral,2019-09-06 09:33:00
+1371,anterior,2019-09-08 09:02:00
+1372,posterolateral,2019-09-10 11:25:00
+1373,posterolateral,2019-09-10 11:54:00
+1374,anterior,2019-09-12 11:11:00
+1375,anterior,2019-09-14 10:47:00
+1376,anterolateral,2019-09-14 07:37:00
+1377,direct lateral,2019-09-15 10:37:00
+1378,posterolateral,2019-09-16 08:24:00
+1379,direct lateral,2019-09-16 09:48:00
+1380,direct lateral,2019-09-18 08:26:00
+1381,posterolateral,2019-09-18 09:53:00
+1382,anterolateral,2019-09-20 06:46:00
+1383,anterior,2019-09-20 06:38:00
+1384,anterior,2019-09-20 10:03:00
+1385,posterolateral,2019-09-21 08:44:00
+1386,posterolateral,2019-09-22 07:56:00
+1387,anterolateral,2019-09-22 10:49:00
+1388,anterior,2019-09-22 10:56:00
+1389,anterior,2019-09-24 11:03:00
+1390,anterior,2019-09-25 10:29:00
+1391,anterolateral,2019-09-27 07:37:00
+1392,direct lateral,2019-09-29 07:25:00
+1393,posterolateral,2019-09-29 08:36:00
+1394,posterolateral,2019-09-29 10:40:00
+1395,anterior,2019-10-01 07:26:00
+1396,anterolateral,2019-10-01 10:05:00
+1397,unknown,2019-10-02 11:45:00
+1398,posterolateral,2019-10-02 09:20:00
+1399,anterolateral,2019-10-02 09:17:00
+1400,direct lateral,2019-10-03 08:37:00
+1401,direct lateral,2019-10-05 08:09:00
+1402,anterior,2019-10-05 07:37:00
+1403,anterior,2019-10-05 10:37:00
+1404,posterolateral,2019-10-07 09:33:00
+1405,direct lateral,2019-10-08 07:07:00
+1406,posterolateral,2019-10-09 07:48:00
+1407,direct lateral,2019-10-09 12:00:00
+1408,anterolateral,2019-10-10 09:50:00
+1409,anterolateral,2019-10-16 12:15:00
+1410,anterior,2019-10-16 08:45:00
+1411,posterolateral,2019-10-17 07:57:00
+1412,posterolateral,2019-10-17 07:24:00
+1413,anterior,2019-10-17 08:09:00
+1414,direct lateral,2019-10-18 07:06:00
+1415,direct lateral,2019-10-20 07:34:00
+1416,posterolateral,2019-10-20 11:23:00
+1417,direct lateral,2019-10-24 09:49:00
+1418,posterolateral,2019-10-24 08:54:00
+1419,anterior,2019-10-25 09:43:00
+1420,posterolateral,2019-10-25 08:58:00
+1421,posterolateral,2019-10-25 12:17:00
+1422,posterolateral,2019-10-25 10:10:00
+1423,direct lateral,2019-10-25 11:19:00
+1424,posterolateral,2019-10-25 06:37:00
+1425,posterolateral,2019-10-27 10:25:00
+1426,anterior,2019-10-29 07:46:00
+1427,anterior,2019-10-29 09:48:00
+1428,posterolateral,2019-10-29 09:14:00
+1429,posterolateral,2019-10-29 08:33:00
+1430,anterolateral,2019-10-30 07:53:00
+1431,direct lateral,2019-10-31 09:23:00
+1432,anterolateral,2019-11-01 07:28:00
+1433,posterolateral,2019-11-02 07:51:00
+1434,anterior,2019-11-03 09:29:00
+1435,direct lateral,2019-11-04 06:56:00
+1436,posterolateral,2019-11-04 11:16:00
+1437,posterolateral,2019-11-05 11:34:00
+1438,posterolateral,2019-11-06 09:19:00
+1439,anterior,2019-11-07 09:53:00
+1440,posterolateral,2019-11-07 08:40:00
+1441,posterolateral,2019-11-08 11:21:00
+1442,posterolateral,2019-11-08 09:04:00
+1443,direct lateral,2019-11-09 10:25:00
+1444,posterolateral,2019-11-09 09:04:00
+1445,anterior,2019-11-10 07:09:00
+1446,anterior,2019-11-12 07:44:00
+1447,anterior,2019-11-12 07:32:00
+1448,posterolateral,2019-11-12 12:26:00
+1449,anterior,2019-11-12 07:19:00
+1450,direct lateral,2019-11-15 11:53:00
+1451,direct lateral,2019-11-18 09:11:00
+1452,anterior,2019-11-21 12:09:00
+1453,direct lateral,2019-11-21 11:26:00
+1454,posterolateral,2019-11-23 10:45:00
+1455,anterior,2019-11-24 12:23:00
+1456,anterior,2019-11-24 09:21:00
+1457,anterolateral,2019-11-24 11:03:00
+1458,posterolateral,2019-11-25 10:33:00
+1459,anterolateral,2019-11-26 07:09:00
+1460,anterolateral,2019-11-27 08:33:00
+1461,anterolateral,2019-11-28 11:41:00
+1462,posterolateral,2019-11-28 09:13:00
+1463,anterior,2019-11-30 12:22:00
+1464,direct lateral,2019-12-02 08:09:00
+1465,anterior,2019-12-03 07:12:00
+1466,anterolateral,2019-12-03 06:35:00
+1467,posterolateral,2019-12-06 07:11:00
+1468,anterolateral,2019-12-06 07:45:00
+1469,posterolateral,2019-12-06 10:11:00
+1470,anterior,2019-12-07 08:22:00
+1471,posterolateral,2019-12-08 07:08:00
+1472,unknown,2019-12-09 11:56:00
+1473,posterolateral,2019-12-09 10:28:00
+1474,direct lateral,2019-12-11 10:27:00
+1475,posterolateral,2019-12-11 07:22:00
+1476,anterior,2019-12-12 09:23:00
+1477,posterolateral,2019-12-14 08:43:00
+1478,posterolateral,2019-12-14 07:16:00
+1479,anterolateral,2019-12-15 08:36:00
+1480,posterolateral,2019-12-15 08:11:00
+1481,anterior,2019-12-17 08:51:00
+1482,posterolateral,2019-12-17 10:36:00
+1483,posterolateral,2019-12-17 08:49:00
+1484,direct lateral,2019-12-18 07:12:00
+1485,posterolateral,2019-12-18 12:25:00
+1486,anterolateral,2019-12-20 12:33:00
+1487,anterior,2019-12-20 07:12:00
+1488,direct lateral,2019-12-23 08:16:00
+1489,anterolateral,2019-12-23 10:15:00
+1490,anterolateral,2019-12-23 10:54:00
+1491,unknown,2019-12-25 09:37:00
+1492,unknown,2019-12-26 08:51:00
+1493,direct lateral,2019-12-26 11:35:00
+1494,anterior,2019-12-26 08:19:00
+1495,posterolateral,2019-12-28 09:11:00
+1496,direct lateral,2019-12-30 08:39:00
+1497,direct lateral,2019-12-30 08:40:00
+1498,anterior,2019-12-31 07:26:00
+1499,anterolateral,2020-01-02 08:21:00
+1500,posterolateral,2020-01-05 10:54:00
+1501,posterolateral,2020-01-12 08:52:00
+1502,anterolateral,2020-01-13 12:06:00
+1503,direct lateral,2020-01-15 07:23:00
+1504,anterolateral,2020-01-18 11:20:00
+1505,anterolateral,2020-01-20 09:56:00
+1506,direct lateral,2020-01-25 07:46:00
+1507,anterior,2020-01-28 08:46:00
+1508,anterolateral,2020-01-28 10:12:00
+1509,posterolateral,2020-02-05 11:32:00
+1510,anterior,2020-02-15 09:48:00
+1511,direct lateral,2020-02-15 08:55:00
+1512,anterolateral,2020-02-16 07:16:00
+1513,anterolateral,2020-02-17 11:31:00
+1514,anterolateral,2020-03-06 06:19:00
+1515,anterolateral,2020-03-08 07:05:00
+1516,direct lateral,2020-03-09 11:25:00
+1517,anterior,2020-03-19 09:52:00
+1518,anterolateral,2020-03-20 11:35:00
+1519,anterolateral,2020-03-26 08:08:00
+1520,posterolateral,2020-04-09 10:15:00
+1521,direct lateral,2020-04-11 11:34:00
+1522,posterolateral,2020-04-14 09:46:00
+1523,posterolateral,2020-04-15 11:23:00
+1524,anterior,2020-04-20 11:00:00
+1525,unknown,2020-04-28 08:38:00
+1526,posterolateral,2020-05-03 07:30:00
+1527,anterolateral,2020-05-05 07:38:00
+1528,anterolateral,2020-05-25 09:36:00
+1529,direct lateral,2020-05-26 12:13:00
+1530,direct lateral,2020-05-29 08:47:00
+1531,posterolateral,2020-06-19 08:28:00
+1532,anterior,2020-06-27 11:02:00
+1533,direct lateral,2020-07-01 07:19:00
+1534,direct lateral,2020-07-02 08:19:00
+1535,posterolateral,2020-07-04 07:39:00
+1536,direct lateral,2020-07-06 09:25:00
+1537,anterior,2020-07-06 08:07:00
+1538,anterolateral,2020-07-07 11:44:00
+1539,posterolateral,2020-07-10 10:36:00
+1540,direct lateral,2020-07-11 09:39:00
+1541,unknown,2020-07-14 11:27:00
+1542,anterior,2020-07-15 07:22:00
+1543,unknown,2020-07-24 08:37:00
+1544,anterolateral,2020-08-04 06:32:00
+1545,anterolateral,2020-08-04 11:38:00
+1546,direct lateral,2020-08-10 11:54:00
+1547,anterior,2020-08-15 08:26:00
+1548,unknown,2020-08-16 09:45:00
+1549,anterior,2020-08-18 10:46:00
+1550,posterolateral,2020-08-21 06:35:00
+1551,anterolateral,2020-08-23 10:44:00
+1552,posterolateral,2020-08-25 11:12:00
+1553,direct lateral,2020-09-03 09:56:00
+1554,anterolateral,2020-09-07 08:42:00
+1555,posterolateral,2020-09-10 07:09:00
+1556,anterolateral,2020-09-13 06:51:00
+1557,anterolateral,2020-09-17 08:22:00
+1558,posterolateral,2020-09-20 08:11:00
+1559,anterolateral,2020-09-20 07:41:00
+1560,direct lateral,2020-10-06 06:43:00
+1561,anterior,2020-10-26 12:17:00
+1562,direct lateral,2020-10-28 07:43:00
+1563,direct lateral,2020-10-30 09:35:00
+1564,direct lateral,2020-10-31 06:32:00
+1565,anterolateral,2020-10-31 06:32:00
+1566,direct lateral,2020-11-16 12:25:00
+1567,posterolateral,2020-11-18 11:42:00
+1568,anterolateral,2020-11-19 10:48:00
+1569,posterolateral,2020-11-28 08:57:00
+1570,posterolateral,2020-12-01 06:55:00
+1571,anterior,2020-12-02 08:11:00
+1572,unknown,2020-12-05 08:37:00
+1573,unknown,2020-12-19 07:09:00
+1574,anterior,2020-12-23 11:48:00
+1575,anterior,2020-12-29 11:23:00
+1576,direct lateral,2020-12-30 06:32:00
+1577,anterolateral,2021-01-03 10:51:00
+1578,posterolateral,2021-01-10 08:55:00
+1579,anterior,2021-01-16 12:34:00
+1580,posterolateral,2021-01-16 09:03:00
+1581,direct lateral,2021-01-19 07:11:00
+1582,direct lateral,2021-01-23 08:37:00
+1583,anterolateral,2021-01-26 06:31:00
+1584,posterolateral,2021-01-31 09:06:00
+1585,anterolateral,2021-02-06 07:46:00
+1586,posterolateral,2021-02-07 07:38:00
+1587,posterolateral,2021-02-27 07:31:00
+1588,direct lateral,2021-03-10 07:41:00
+1589,direct lateral,2021-03-11 11:44:00
+1590,direct lateral,2021-03-11 08:40:00
+1591,anterior,2021-03-13 10:19:00
+1592,anterior,2021-03-20 07:38:00
+1593,anterior,2021-03-23 09:16:00
+1594,anterolateral,2021-03-30 09:36:00
+1595,direct lateral,2021-04-04 12:08:00
+1596,anterolateral,2021-04-04 06:33:00
+1597,posterolateral,2021-04-12 12:09:00
+1598,anterior,2021-04-14 11:54:00
+1599,direct lateral,2021-04-16 10:45:00
+1600,anterior,2021-04-17 08:48:00
+1601,unknown,2021-04-18 10:20:00
+1602,anterolateral,2021-04-21 10:15:00
+1603,direct lateral,2021-04-24 07:49:00
+1604,direct lateral,2021-04-27 09:17:00
+1605,anterolateral,2021-04-28 07:36:00
+1606,anterolateral,2021-04-28 09:57:00
+1607,posterolateral,2021-04-30 06:41:00
+1608,unknown,2021-05-02 09:41:00
+1609,posterolateral,2021-05-12 08:28:00
+1610,posterolateral,2021-05-15 11:57:00
+1611,anterolateral,2021-05-20 06:20:00
+1612,posterolateral,2021-05-20 07:03:00
+1613,posterolateral,2021-05-23 11:50:00
+1614,anterior,2021-05-24 12:03:00
+1615,anterior,2021-05-28 11:58:00
+1616,direct lateral,2021-05-29 10:06:00
+1617,anterior,2021-05-29 08:05:00
+1618,posterolateral,2021-06-05 09:40:00
+1619,anterolateral,2021-06-08 10:57:00
+1620,posterolateral,2021-06-14 10:32:00
+1621,anterolateral,2021-06-23 09:41:00
+1622,anterior,2021-06-27 10:08:00
+1623,anterior,2021-06-30 07:59:00
+1624,unknown,2021-07-02 09:33:00
+1625,anterolateral,2021-07-11 12:02:00
+1626,anterior,2021-07-12 08:30:00
+1627,posterolateral,2021-07-13 09:16:00
+1628,direct lateral,2021-07-28 09:52:00
+1629,direct lateral,2021-08-06 09:37:00
+1630,posterolateral,2021-08-09 08:15:00
+1631,anterolateral,2021-08-19 08:54:00
+1632,direct lateral,2021-08-19 11:11:00
+1633,posterolateral,2021-08-23 09:48:00
+1634,unknown,2021-08-25 07:16:00
+1635,posterolateral,2021-08-26 11:25:00
+1636,posterolateral,2021-08-27 09:29:00
+1637,anterior,2021-08-28 10:14:00
+1638,direct lateral,2021-08-29 09:54:00
+1639,posterolateral,2021-09-01 06:58:00
+1640,anterior,2021-09-01 11:17:00
+1641,posterolateral,2021-09-04 10:23:00
+1642,anterolateral,2021-09-07 11:35:00
+1643,anterior,2021-09-09 10:53:00
+1644,anterolateral,2021-09-12 07:35:00
+1645,direct lateral,2021-09-13 10:56:00
+1646,anterolateral,2021-09-15 07:35:00
+1647,direct lateral,2021-09-16 10:03:00
+1648,anterior,2021-09-17 06:59:00
+1649,anterior,2021-09-23 11:46:00
+1650,posterolateral,2021-09-26 12:05:00
+1651,anterior,2021-09-27 08:00:00
+1652,posterolateral,2021-09-28 09:25:00
+1653,anterior,2021-09-30 11:19:00
+1654,anterior,2021-09-30 06:21:00
+1655,posterolateral,2021-10-04 12:05:00
+1656,posterolateral,2021-10-08 07:53:00
+1657,anterolateral,2021-10-15 09:38:00
+1658,anterolateral,2021-10-15 08:39:00
+1659,posterolateral,2021-10-16 10:13:00
+1660,anterior,2021-10-18 07:38:00
+1661,posterolateral,2021-10-20 09:43:00
+1662,posterolateral,2021-10-22 09:33:00
+1663,anterolateral,2021-10-24 08:17:00
+1664,posterolateral,2021-10-27 11:57:00
+1665,posterolateral,2021-10-28 06:39:00
+1666,direct lateral,2021-11-03 09:28:00
+1667,posterolateral,2021-11-13 08:29:00
+1668,posterolateral,2021-11-14 08:10:00
+1669,direct lateral,2021-11-15 11:47:00
+1670,direct lateral,2021-11-17 08:54:00
+1671,anterolateral,2021-11-18 07:21:00
+1672,anterior,2021-11-19 07:34:00
+1673,posterolateral,2021-11-21 07:31:00
+1674,posterolateral,2021-11-23 11:25:00
+1675,direct lateral,2021-11-24 06:30:00
+1676,anterolateral,2021-11-24 09:32:00
+1677,posterolateral,2021-11-25 12:08:00
+1678,direct lateral,2021-12-01 07:14:00
+1679,posterolateral,2021-12-01 08:32:00
+1680,anterolateral,2021-12-04 09:56:00
+1681,anterior,2021-12-06 07:21:00
+1682,direct lateral,2021-12-07 08:42:00
+1683,posterolateral,2021-12-10 08:43:00
+1684,unknown,2021-12-11 11:22:00
+1685,direct lateral,2021-12-12 10:53:00
+1686,anterior,2021-12-13 10:38:00
+1687,anterolateral,2021-12-17 07:27:00
+1688,anterior,2021-12-18 06:43:00
+1689,anterolateral,2021-12-27 11:30:00
+1690,anterior,2021-12-27 10:13:00
+1691,anterolateral,2021-12-28 12:08:00
+1692,anterolateral,2022-01-02 11:01:00
+1693,anterior,2022-01-02 06:48:00
+1694,posterolateral,2022-01-02 07:02:00
+1695,anterolateral,2022-01-02 12:29:00
+1696,unknown,2022-01-05 06:46:00
+1697,posterolateral,2022-01-06 12:23:00
+1698,anterolateral,2022-01-06 10:13:00
+1699,anterior,2022-01-07 10:35:00
+1700,posterolateral,2022-01-07 09:47:00
+1701,direct lateral,2022-01-07 11:46:00
+1702,posterolateral,2022-01-08 07:05:00
+1703,posterolateral,2022-01-09 11:30:00
+1704,unknown,2022-01-10 11:13:00
+1705,direct lateral,2022-01-10 09:35:00
+1706,anterolateral,2022-01-10 10:07:00
+1707,direct lateral,2022-01-10 07:07:00
+1708,direct lateral,2022-01-12 09:51:00
+1709,anterior,2022-01-13 06:52:00
+1710,anterior,2022-01-14 10:55:00
+1711,anterolateral,2022-01-14 06:37:00
+1712,anterolateral,2022-01-14 11:38:00
+1713,posterolateral,2022-01-16 12:07:00
+1714,anterior,2022-01-16 08:24:00
+1715,posterolateral,2022-01-16 06:33:00
+1716,direct lateral,2022-01-17 12:23:00
+1717,posterolateral,2022-01-17 06:39:00
+1718,anterior,2022-01-18 10:02:00
+1719,anterolateral,2022-01-18 06:52:00
+1720,anterolateral,2022-01-18 12:22:00
+1721,anterolateral,2022-01-19 09:37:00
+1722,posterolateral,2022-01-19 12:25:00
+1723,anterior,2022-01-20 10:39:00
+1724,anterior,2022-01-20 09:11:00
+1725,anterolateral,2022-01-20 11:29:00
+1726,anterolateral,2022-01-21 08:48:00
+1727,posterolateral,2022-01-22 07:05:00
+1728,posterolateral,2022-01-22 07:23:00
+1729,posterolateral,2022-01-22 09:00:00
+1730,posterolateral,2022-01-22 07:05:00
+1731,anterolateral,2022-01-23 10:22:00
+1732,direct lateral,2022-01-23 08:43:00
+1733,anterior,2022-01-23 12:13:00
+1734,direct lateral,2022-01-23 08:39:00
+1735,direct lateral,2022-01-25 08:25:00
+1736,anterior,2022-01-25 07:42:00
+1737,direct lateral,2022-01-28 09:03:00
+1738,anterior,2022-01-28 11:13:00
+1739,direct lateral,2022-01-30 07:12:00
+1740,anterolateral,2022-01-30 08:45:00
+1741,direct lateral,2022-01-30 10:32:00
+1742,anterolateral,2022-01-31 11:32:00
+1743,posterolateral,2022-02-01 09:45:00
+1744,posterolateral,2022-02-01 09:13:00
+1745,anterolateral,2022-02-01 09:38:00
+1746,posterolateral,2022-02-02 11:02:00
+1747,anterolateral,2022-02-02 08:23:00
+1748,anterior,2022-02-02 07:59:00
+1749,direct lateral,2022-02-04 08:38:00
+1750,direct lateral,2022-02-04 07:08:00
+1751,direct lateral,2022-02-04 09:39:00
+1752,posterolateral,2022-02-04 07:33:00
+1753,anterior,2022-02-04 07:12:00
+1754,posterolateral,2022-02-05 11:50:00
+1755,direct lateral,2022-02-06 06:46:00
+1756,anterolateral,2022-02-07 08:12:00
+1757,anterolateral,2022-02-07 06:32:00
+1758,posterolateral,2022-02-07 09:38:00
+1759,anterolateral,2022-02-09 08:12:00
+1760,posterolateral,2022-02-11 07:16:00
+1761,direct lateral,2022-02-12 07:21:00
+1762,anterior,2022-02-12 09:49:00
+1763,anterolateral,2022-02-12 09:37:00
+1764,anterior,2022-02-13 09:59:00
+1765,anterior,2022-02-14 08:20:00
+1766,posterolateral,2022-02-14 08:49:00
+1767,posterolateral,2022-02-15 09:58:00
+1768,posterolateral,2022-02-15 10:48:00
+1769,posterolateral,2022-02-15 08:36:00
+1770,anterior,2022-02-16 06:54:00
+1771,posterolateral,2022-02-16 07:18:00
+1772,direct lateral,2022-02-16 07:56:00
+1773,direct lateral,2022-02-17 10:51:00
+1774,anterolateral,2022-02-18 10:31:00
+1775,anterior,2022-02-19 09:01:00
+1776,unknown,2022-02-20 11:11:00
+1777,anterolateral,2022-02-21 07:08:00
+1778,anterior,2022-02-21 10:53:00
+1779,posterolateral,2022-02-21 11:39:00
+1780,anterior,2022-02-22 09:17:00
+1781,posterolateral,2022-02-22 09:00:00
+1782,anterolateral,2022-02-22 09:19:00
+1783,anterolateral,2022-02-23 11:10:00
+1784,direct lateral,2022-02-25 11:30:00
+1785,anterolateral,2022-02-26 08:58:00
+1786,direct lateral,2022-02-26 09:14:00
+1787,direct lateral,2022-02-27 09:38:00
+1788,anterior,2022-02-28 12:32:00
+1789,direct lateral,2022-02-28 06:52:00
+1790,anterolateral,2022-03-01 07:05:00
+1791,posterolateral,2022-03-02 11:29:00
+1792,posterolateral,2022-03-03 10:45:00
+1793,posterolateral,2022-03-03 12:11:00
+1794,posterolateral,2022-03-05 07:03:00
+1795,posterolateral,2022-03-05 09:04:00
+1796,posterolateral,2022-03-06 11:05:00
+1797,posterolateral,2022-03-07 08:55:00
+1798,posterolateral,2022-03-07 09:01:00
+1799,anterior,2022-03-07 10:37:00
+1800,posterolateral,2022-03-07 09:41:00
+1801,posterolateral,2022-03-08 10:31:00
+1802,anterolateral,2022-03-09 08:54:00
+1803,direct lateral,2022-03-09 10:41:00
+1804,anterolateral,2022-03-10 08:36:00
+1805,anterior,2022-03-13 11:19:00
+1806,direct lateral,2022-03-13 12:02:00
+1807,anterolateral,2022-03-13 08:58:00
+1808,posterolateral,2022-03-13 09:39:00
+1809,direct lateral,2022-03-14 10:00:00
+1810,posterolateral,2022-03-15 07:32:00
+1811,anterolateral,2022-03-16 08:10:00
+1812,anterior,2022-03-16 12:32:00
+1813,direct lateral,2022-03-16 08:23:00
+1814,anterior,2022-03-17 08:10:00
+1815,anterior,2022-03-17 09:22:00
+1816,anterior,2022-03-18 09:21:00
+1817,direct lateral,2022-03-19 07:52:00
+1818,direct lateral,2022-03-20 11:45:00
+1819,posterolateral,2022-03-23 08:53:00
+1820,anterior,2022-03-23 10:56:00
+1821,posterolateral,2022-03-23 10:54:00
+1822,anterior,2022-03-24 08:28:00
+1823,posterolateral,2022-03-24 09:27:00
+1824,posterolateral,2022-03-24 09:36:00
+1825,posterolateral,2022-03-24 06:31:00
+1826,direct lateral,2022-03-25 09:13:00
+1827,posterolateral,2022-03-25 11:25:00
+1828,anterior,2022-03-25 08:02:00
+1829,anterolateral,2022-03-25 07:09:00
+1830,direct lateral,2022-03-28 06:41:00
+1831,anterior,2022-03-28 10:45:00
+1832,posterolateral,2022-03-28 12:09:00
+1833,anterior,2022-03-28 09:45:00
+1834,anterolateral,2022-03-29 11:13:00
+1835,posterolateral,2022-03-29 07:15:00
+1836,direct lateral,2022-03-30 12:14:00
+1837,anterior,2022-03-31 09:04:00
+1838,anterior,2022-03-31 07:15:00
+1839,direct lateral,2022-04-02 09:30:00
+1840,posterolateral,2022-04-03 12:03:00
+1841,unknown,2022-04-04 12:34:00
+1842,direct lateral,2022-04-05 08:38:00
+1843,posterolateral,2022-04-05 08:36:00
+1844,posterolateral,2022-04-06 07:30:00
+1845,direct lateral,2022-04-06 08:35:00
+1846,unknown,2022-04-06 11:42:00
+1847,anterolateral,2022-04-06 10:35:00
+1848,direct lateral,2022-04-06 10:08:00
+1849,anterolateral,2022-04-08 06:53:00
+1850,unknown,2022-04-08 07:10:00
+1851,unknown,2022-04-09 11:55:00
+1852,posterolateral,2022-04-10 10:45:00
+1853,anterolateral,2022-04-11 09:24:00
+1854,anterior,2022-04-11 07:21:00
+1855,direct lateral,2022-04-13 06:29:00
+1856,direct lateral,2022-04-14 06:17:00
+1857,posterolateral,2022-04-14 10:49:00
+1858,anterior,2022-04-15 12:27:00
+1859,posterolateral,2022-04-15 10:39:00
+1860,anterior,2022-04-16 09:19:00
+1861,posterolateral,2022-04-16 06:36:00
+1862,anterolateral,2022-04-17 08:18:00
+1863,posterolateral,2022-04-17 09:03:00
+1864,posterolateral,2022-04-17 08:11:00
+1865,anterolateral,2022-04-18 10:56:00
+1866,posterolateral,2022-04-19 10:30:00
+1867,posterolateral,2022-04-19 08:35:00
+1868,direct lateral,2022-04-22 11:16:00
+1869,direct lateral,2022-04-24 10:49:00
+1870,posterolateral,2022-04-24 08:12:00
+1871,anterolateral,2022-04-25 08:48:00
+1872,posterolateral,2022-04-26 08:46:00
+1873,posterolateral,2022-04-26 10:04:00
+1874,direct lateral,2022-04-26 11:03:00
+1875,direct lateral,2022-04-27 09:16:00
+1876,anterolateral,2022-04-28 09:58:00
+1877,posterolateral,2022-04-29 09:38:00
+1878,anterior,2022-04-29 07:29:00
+1879,anterior,2022-05-01 11:41:00
+1880,anterior,2022-05-02 12:04:00
+1881,anterior,2022-05-04 06:42:00
+1882,direct lateral,2022-05-06 07:52:00
+1883,direct lateral,2022-05-06 07:33:00
+1884,posterolateral,2022-05-08 10:43:00
+1885,anterior,2022-05-08 10:14:00
+1886,direct lateral,2022-05-09 09:17:00
+1887,direct lateral,2022-05-09 07:40:00
+1888,anterior,2022-05-10 07:23:00
+1889,anterior,2022-05-11 09:23:00
+1890,anterior,2022-05-11 09:11:00
+1891,direct lateral,2022-05-12 08:27:00
+1892,posterolateral,2022-05-12 10:02:00
+1893,direct lateral,2022-05-13 08:36:00
+1894,anterior,2022-05-13 08:32:00
+1895,posterolateral,2022-05-15 11:20:00
+1896,posterolateral,2022-05-15 11:46:00
+1897,anterior,2022-05-16 11:11:00
+1898,anterior,2022-05-16 10:53:00
+1899,anterior,2022-05-17 09:47:00
+1900,posterolateral,2022-05-18 07:15:00
+1901,posterolateral,2022-05-24 07:36:00
+1902,posterolateral,2022-05-27 09:57:00
+1903,posterolateral,2022-05-28 10:34:00
+1904,direct lateral,2022-05-28 10:46:00
+1905,posterolateral,2022-05-29 11:28:00
+1906,direct lateral,2022-05-29 08:17:00
+1907,posterolateral,2022-05-29 08:30:00
+1908,anterior,2022-05-30 08:31:00
+1909,posterolateral,2022-06-01 11:19:00
+1910,posterolateral,2022-06-01 06:32:00
+1911,direct lateral,2022-06-01 11:44:00
+1912,direct lateral,2022-06-01 07:54:00
+1913,anterolateral,2022-06-02 10:42:00
+1914,direct lateral,2022-06-03 08:37:00
+1915,posterolateral,2022-06-03 11:19:00
+1916,posterolateral,2022-06-06 08:39:00
+1917,posterolateral,2022-06-06 10:01:00
+1918,posterolateral,2022-06-06 11:35:00
+1919,posterolateral,2022-06-09 11:43:00
+1920,posterolateral,2022-06-09 08:46:00
+1921,anterior,2022-06-12 06:55:00
+1922,anterior,2022-06-13 07:46:00
+1923,direct lateral,2022-06-13 12:07:00
+1924,posterolateral,2022-06-13 11:10:00
+1925,posterolateral,2022-06-13 06:40:00
+1926,posterolateral,2022-06-14 09:06:00
+1927,posterolateral,2022-06-14 11:34:00
+1928,posterolateral,2022-06-15 07:26:00
+1929,posterolateral,2022-06-16 09:53:00
+1930,anterior,2022-06-16 07:55:00
+1931,anterior,2022-06-16 10:22:00
+1932,direct lateral,2022-06-17 09:58:00
+1933,anterior,2022-06-17 10:52:00
+1934,direct lateral,2022-06-17 12:42:00
+1935,anterior,2022-06-18 12:18:00
+1936,posterolateral,2022-06-18 08:45:00
+1937,unknown,2022-06-18 08:08:00
+1938,anterolateral,2022-06-18 06:37:00
+1939,posterolateral,2022-06-19 06:31:00
+1940,posterolateral,2022-06-19 07:20:00
+1941,posterolateral,2022-06-19 12:22:00
+1942,anterolateral,2022-06-20 09:42:00
+1943,unknown,2022-06-21 12:20:00
+1944,anterolateral,2022-06-22 12:09:00
+1945,anterolateral,2022-06-23 09:47:00
+1946,anterolateral,2022-06-26 08:49:00
+1947,direct lateral,2022-06-27 10:11:00
+1948,unknown,2022-06-29 12:02:00
+1949,anterolateral,2022-06-30 07:37:00
+1950,direct lateral,2022-06-30 07:12:00
+1951,posterolateral,2022-07-01 07:10:00
+1952,posterolateral,2022-07-02 12:09:00
+1953,posterolateral,2022-07-02 11:54:00
+1954,unknown,2022-07-03 08:08:00
+1955,posterolateral,2022-07-03 11:35:00
+1956,posterolateral,2022-07-06 09:04:00
+1957,posterolateral,2022-07-06 08:57:00
+1958,posterolateral,2022-07-06 12:22:00
+1959,unknown,2022-07-06 10:34:00
+1960,anterior,2022-07-07 07:44:00
+1961,anterior,2022-07-11 11:15:00
+1962,anterolateral,2022-07-13 09:19:00
+1963,direct lateral,2022-07-13 09:22:00
+1964,unknown,2022-07-14 11:37:00
+1965,direct lateral,2022-07-14 08:42:00
+1966,anterior,2022-07-14 06:33:00
+1967,anterior,2022-07-15 07:56:00
+1968,posterolateral,2022-07-15 08:16:00
+1969,anterolateral,2022-07-16 10:14:00
+1970,anterior,2022-07-16 11:22:00
+1971,posterolateral,2022-07-16 08:31:00
+1972,anterolateral,2022-07-17 10:04:00
+1973,posterolateral,2022-07-17 06:27:00
+1974,anterior,2022-07-18 06:32:00
+1975,direct lateral,2022-07-20 09:49:00
+1976,anterolateral,2022-07-21 08:09:00
+1977,anterior,2022-07-21 07:25:00
+1978,posterolateral,2022-07-21 10:59:00
+1979,direct lateral,2022-07-22 11:21:00
+1980,anterior,2022-07-24 10:36:00
+1981,posterolateral,2022-07-26 08:37:00
+1982,posterolateral,2022-07-26 08:27:00
+1983,anterolateral,2022-07-29 07:59:00
+1984,posterolateral,2022-07-29 07:13:00
+1985,anterior,2022-07-31 09:03:00
+1986,posterolateral,2022-07-31 07:10:00
+1987,posterolateral,2022-07-31 07:08:00
+1988,posterolateral,2022-07-31 11:02:00
+1989,anterior,2022-08-01 11:50:00
+1990,posterolateral,2022-08-02 10:26:00
+1991,posterolateral,2022-08-02 08:41:00
+1992,anterior,2022-08-02 11:42:00
+1993,direct lateral,2022-08-04 09:26:00
+1994,anterolateral,2022-08-04 10:15:00
+1995,anterolateral,2022-08-07 07:36:00
+1996,posterolateral,2022-08-08 09:23:00
+1997,anterior,2022-08-08 11:04:00
+1998,anterior,2022-08-09 10:20:00
+1999,anterior,2022-08-09 08:28:00
+2000,posterolateral,2022-08-09 06:24:00
+2001,anterolateral,2022-08-10 08:27:00
+2002,direct lateral,2022-08-10 10:10:00
+2003,direct lateral,2022-08-11 08:58:00
+2004,posterolateral,2022-08-11 10:02:00
+2005,posterolateral,2022-08-11 08:02:00
+2006,anterolateral,2022-08-12 12:10:00
+2007,direct lateral,2022-08-14 07:23:00
+2008,direct lateral,2022-08-15 08:29:00
+2009,posterolateral,2022-08-16 08:45:00
+2010,anterolateral,2022-08-17 10:48:00
+2011,unknown,2022-08-18 10:36:00
+2012,anterior,2022-08-18 11:32:00
+2013,posterolateral,2022-08-18 10:16:00
+2014,anterior,2022-08-18 11:31:00
+2015,anterior,2022-08-20 10:01:00
+2016,anterolateral,2022-08-20 07:52:00
+2017,posterolateral,2022-08-20 11:08:00
+2018,posterolateral,2022-08-21 07:01:00
+2019,posterolateral,2022-08-21 11:03:00
+2020,anterior,2022-08-21 10:05:00
+2021,direct lateral,2022-08-22 11:57:00
+2022,anterolateral,2022-08-23 08:43:00
+2023,anterior,2022-08-24 08:50:00
+2024,anterior,2022-08-25 10:11:00
+2025,direct lateral,2022-08-25 11:37:00
+2026,anterior,2022-08-25 12:35:00
+2027,posterolateral,2022-08-26 06:39:00
+2028,posterolateral,2022-08-27 09:21:00
+2029,anterior,2022-08-28 09:42:00
+2030,unknown,2022-08-29 10:38:00
+2031,anterior,2022-08-30 11:07:00
+2032,posterolateral,2022-08-31 12:18:00
+2033,posterolateral,2022-08-31 06:31:00
+2034,anterolateral,2022-09-01 12:26:00
+2035,anterior,2022-09-02 07:15:00
+2036,posterolateral,2022-09-02 09:08:00
+2037,posterolateral,2022-09-03 11:23:00
+2038,anterolateral,2022-09-03 12:02:00
+2039,posterolateral,2022-09-04 07:30:00
+2040,posterolateral,2022-09-04 08:36:00
+2041,unknown,2022-09-05 08:26:00
+2042,posterolateral,2022-09-05 08:12:00
+2043,direct lateral,2022-09-06 08:53:00
+2044,unknown,2022-09-06 09:52:00
+2045,anterolateral,2022-09-06 09:57:00
+2046,posterolateral,2022-09-06 08:42:00
+2047,direct lateral,2022-09-07 07:27:00
+2048,anterolateral,2022-09-09 07:09:00
+2049,unknown,2022-09-09 11:43:00
+2050,anterior,2022-09-13 10:26:00
+2051,direct lateral,2022-09-13 10:20:00
+2052,anterolateral,2022-09-15 08:18:00
+2053,anterolateral,2022-09-16 06:35:00
+2054,anterior,2022-09-16 11:55:00
+2055,direct lateral,2022-09-16 08:24:00
+2056,direct lateral,2022-09-16 07:41:00
+2057,posterolateral,2022-09-16 06:48:00
+2058,anterior,2022-09-17 11:08:00
+2059,anterolateral,2022-09-18 09:15:00
+2060,direct lateral,2022-09-18 10:49:00
+2061,unknown,2022-09-18 12:13:00
+2062,direct lateral,2022-09-19 06:54:00
+2063,direct lateral,2022-09-20 10:00:00
+2064,anterolateral,2022-09-20 10:04:00
+2065,direct lateral,2022-09-21 09:42:00
+2066,direct lateral,2022-09-21 11:54:00
+2067,posterolateral,2022-09-22 08:34:00
+2068,anterolateral,2022-09-22 12:29:00
+2069,posterolateral,2022-09-23 07:33:00
+2070,anterolateral,2022-09-24 11:16:00
+2071,anterior,2022-09-26 11:56:00
+2072,anterior,2022-09-26 12:29:00
+2073,anterolateral,2022-09-27 08:39:00
+2074,posterolateral,2022-09-28 12:01:00
+2075,posterolateral,2022-09-28 06:51:00
+2076,posterolateral,2022-09-28 10:51:00
+2077,anterolateral,2022-09-29 07:00:00
+2078,direct lateral,2022-09-29 10:36:00
+2079,posterolateral,2022-09-30 12:05:00
+2080,posterolateral,2022-09-30 07:38:00
+2081,anterolateral,2022-09-30 08:58:00
+2082,direct lateral,2022-10-01 11:07:00
+2083,direct lateral,2022-10-03 12:17:00
+2084,unknown,2022-10-03 08:07:00
+2085,posterolateral,2022-10-05 11:42:00
+2086,anterolateral,2022-10-05 10:01:00
+2087,anterior,2022-10-05 09:33:00
+2088,posterolateral,2022-10-06 08:00:00
+2089,anterolateral,2022-10-06 07:26:00
+2090,unknown,2022-10-06 10:35:00
+2091,direct lateral,2022-10-07 08:14:00
+2092,posterolateral,2022-10-08 10:28:00
+2093,direct lateral,2022-10-09 07:44:00
+2094,anterior,2022-10-09 08:41:00
+2095,direct lateral,2022-10-10 11:33:00
+2096,anterolateral,2022-10-11 10:01:00
+2097,posterolateral,2022-10-11 08:00:00
+2098,anterior,2022-10-12 11:22:00
+2099,anterior,2022-10-12 10:33:00
+2100,anterolateral,2022-10-14 08:30:00
+2101,direct lateral,2022-10-15 07:49:00
+2102,anterior,2022-10-16 11:58:00
+2103,direct lateral,2022-10-17 10:50:00
+2104,anterolateral,2022-10-17 08:31:00
+2105,anterior,2022-10-18 12:13:00
+2106,posterolateral,2022-10-19 08:29:00
+2107,anterior,2022-10-20 10:21:00
+2108,posterolateral,2022-10-21 09:54:00
+2109,posterolateral,2022-10-21 09:11:00
+2110,anterior,2022-10-22 07:19:00
+2111,anterior,2022-10-22 07:53:00
+2112,posterolateral,2022-10-23 07:31:00
+2113,direct lateral,2022-10-23 07:47:00
+2114,posterolateral,2022-10-23 09:53:00
+2115,anterolateral,2022-10-24 09:29:00
+2116,anterior,2022-10-25 09:03:00
+2117,anterior,2022-10-26 10:23:00
+2118,anterior,2022-10-26 06:59:00
+2119,anterolateral,2022-10-27 11:12:00
+2120,direct lateral,2022-10-28 08:19:00
+2121,posterolateral,2022-10-29 09:15:00
+2122,anterolateral,2022-10-29 07:16:00
+2123,posterolateral,2022-10-30 10:40:00
+2124,posterolateral,2022-11-01 09:44:00
+2125,posterolateral,2022-11-01 08:24:00
+2126,anterolateral,2022-11-02 10:26:00
+2127,anterolateral,2022-11-02 10:50:00
+2128,anterolateral,2022-11-07 07:09:00
+2129,unknown,2022-11-07 07:51:00
+2130,posterolateral,2022-11-07 08:19:00
+2131,posterolateral,2022-11-10 09:33:00
+2132,posterolateral,2022-11-10 11:11:00
+2133,direct lateral,2022-11-10 10:16:00
+2134,direct lateral,2022-11-13 10:32:00
+2135,posterolateral,2022-11-13 11:14:00
+2136,direct lateral,2022-11-14 09:28:00
+2137,anterolateral,2022-11-15 09:57:00
+2138,posterolateral,2022-11-16 08:34:00
+2139,direct lateral,2022-11-17 08:21:00
+2140,anterolateral,2022-11-17 08:33:00
+2141,anterior,2022-11-17 09:16:00
+2142,direct lateral,2022-11-18 11:07:00
+2143,posterolateral,2022-11-20 08:22:00
+2144,anterior,2022-11-21 08:08:00
+2145,posterolateral,2022-11-22 07:46:00
+2146,posterolateral,2022-11-22 09:05:00
+2147,posterolateral,2022-11-23 09:10:00
+2148,anterior,2022-11-23 10:13:00
+2149,anterior,2022-11-25 10:50:00
+2150,direct lateral,2022-11-25 07:52:00
+2151,anterior,2022-11-25 08:48:00
+2152,posterolateral,2022-11-26 09:20:00
+2153,posterolateral,2022-11-26 09:35:00
+2154,anterior,2022-11-26 09:14:00
+2155,posterolateral,2022-11-27 07:35:00
+2156,anterolateral,2022-11-27 09:22:00
+2157,anterior,2022-11-28 11:28:00
+2158,posterolateral,2022-11-29 08:26:00
+2159,posterolateral,2022-11-30 09:39:00
+2160,direct lateral,2022-11-30 07:19:00
+2161,unknown,2022-12-01 09:26:00
+2162,anterolateral,2022-12-01 10:46:00
+2163,anterior,2022-12-01 11:57:00
+2164,direct lateral,2022-12-01 09:28:00
+2165,unknown,2022-12-03 10:39:00
+2166,posterolateral,2022-12-04 10:25:00
+2167,direct lateral,2022-12-05 12:11:00
+2168,posterolateral,2022-12-06 09:03:00
+2169,posterolateral,2022-12-06 11:08:00
+2170,anterolateral,2022-12-07 07:11:00
+2171,anterolateral,2022-12-08 08:38:00
+2172,unknown,2022-12-08 09:47:00
+2173,anterolateral,2022-12-09 11:21:00
+2174,anterior,2022-12-10 07:08:00
+2175,anterior,2022-12-12 07:17:00
+2176,anterior,2022-12-14 09:11:00
+2177,posterolateral,2022-12-14 11:23:00
+2178,posterolateral,2022-12-14 11:52:00
+2179,anterior,2022-12-15 07:42:00
+2180,posterolateral,2022-12-17 09:50:00
+2181,anterior,2022-12-18 06:57:00
+2182,posterolateral,2022-12-19 07:02:00
+2183,direct lateral,2022-12-19 08:16:00
+2184,posterolateral,2022-12-20 07:30:00
+2185,posterolateral,2022-12-21 07:38:00
+2186,posterolateral,2022-12-21 11:31:00
+2187,posterolateral,2022-12-22 10:21:00
+2188,posterolateral,2022-12-23 11:15:00
+2189,unknown,2022-12-23 09:59:00
+2190,posterolateral,2022-12-23 09:26:00
+2191,anterolateral,2022-12-23 10:52:00
+2192,anterior,2022-12-24 07:31:00
+2193,anterior,2022-12-24 11:16:00
+2194,anterior,2022-12-25 08:41:00
+2195,posterolateral,2022-12-25 07:43:00
+2196,anterior,2022-12-27 09:55:00
+2197,posterolateral,2022-12-27 09:23:00
+2198,anterior,2022-12-28 10:04:00
+2199,anterior,2022-12-28 10:41:00
+2200,anterior,2022-12-29 11:46:00
+2201,anterior,2022-12-29 11:24:00
+2202,posterolateral,2022-12-29 10:44:00
+2203,posterolateral,2022-12-30 09:34:00
+2204,direct lateral,2023-01-01 10:00:00
+2205,posterolateral,2023-01-06 07:23:00
+2206,anterior,2023-01-07 08:38:00
+2207,posterolateral,2023-01-07 08:04:00
+2208,anterior,2023-01-08 10:09:00
+2209,posterolateral,2023-01-10 08:02:00
+2210,anterior,2023-01-11 09:10:00
+2211,anterior,2023-01-12 07:48:00
+2212,anterior,2023-01-12 09:54:00
+2213,posterolateral,2023-01-12 11:30:00
+2214,anterior,2023-01-13 08:23:00
+2215,direct lateral,2023-01-13 11:35:00
+2216,posterolateral,2023-01-14 10:02:00
+2217,anterolateral,2023-01-15 09:34:00
+2218,direct lateral,2023-01-16 09:22:00
+2219,posterolateral,2023-01-19 07:46:00
+2220,anterior,2023-01-20 11:14:00
+2221,anterior,2023-01-20 11:39:00
+2222,posterolateral,2023-01-20 11:28:00
+2223,unknown,2023-01-21 07:17:00
+2224,posterolateral,2023-01-21 06:26:00
+2225,anterior,2023-01-21 07:11:00
+2226,anterior,2023-01-22 06:42:00
+2227,direct lateral,2023-01-23 11:38:00
+2228,posterolateral,2023-01-23 07:48:00
+2229,anterolateral,2023-01-27 11:46:00
+2230,posterolateral,2023-01-27 10:09:00
+2231,anterior,2023-01-29 07:30:00
+2232,direct lateral,2023-01-29 12:10:00
+2233,direct lateral,2023-01-29 09:22:00
+2234,posterolateral,2023-01-30 08:23:00
+2235,posterolateral,2023-01-30 06:42:00
+2236,posterolateral,2023-01-31 11:48:00
+2237,anterolateral,2023-01-31 07:53:00
+2238,direct lateral,2023-02-01 11:45:00
+2239,direct lateral,2023-02-01 10:49:00
+2240,anterior,2023-02-04 07:38:00
+2241,direct lateral,2023-02-04 11:46:00
+2242,posterolateral,2023-02-04 11:46:00
+2243,direct lateral,2023-02-05 10:16:00
+2244,anterolateral,2023-02-06 10:03:00
+2245,anterolateral,2023-02-06 10:04:00
+2246,anterior,2023-02-06 09:21:00
+2247,anterior,2023-02-07 06:49:00
+2248,anterolateral,2023-02-09 07:56:00
+2249,anterolateral,2023-02-10 09:47:00
+2250,direct lateral,2023-02-10 09:48:00
+2251,anterior,2023-02-11 11:32:00
+2252,posterolateral,2023-02-13 11:57:00
+2253,anterolateral,2023-02-13 10:10:00
+2254,unknown,2023-02-13 07:08:00
+2255,direct lateral,2023-02-13 09:36:00
+2256,posterolateral,2023-02-14 07:04:00
+2257,direct lateral,2023-02-14 11:41:00
+2258,posterolateral,2023-02-17 08:56:00
+2259,posterolateral,2023-02-17 08:15:00
+2260,posterolateral,2023-02-17 10:04:00
+2261,posterolateral,2023-02-18 11:05:00
+2262,posterolateral,2023-02-19 10:13:00
+2263,anterolateral,2023-02-19 12:20:00
+2264,direct lateral,2023-02-20 10:57:00
+2265,anterolateral,2023-02-20 10:53:00
+2266,direct lateral,2023-02-20 10:09:00
+2267,anterior,2023-02-20 11:39:00
+2268,anterolateral,2023-02-21 11:51:00
+2269,direct lateral,2023-02-21 11:09:00
+2270,direct lateral,2023-02-22 08:28:00
+2271,anterolateral,2023-02-22 10:00:00
+2272,direct lateral,2023-02-25 12:22:00
+2273,anterior,2023-02-26 12:16:00
+2274,anterior,2023-02-26 09:27:00
+2275,anterolateral,2023-02-27 06:37:00
+2276,unknown,2023-02-27 08:13:00
+2277,direct lateral,2023-02-28 12:06:00
+2278,anterior,2023-03-01 12:19:00
+2279,posterolateral,2023-03-03 10:15:00
+2280,direct lateral,2023-03-04 07:44:00
+2281,anterior,2023-03-05 08:05:00
+2282,anterolateral,2023-03-06 11:39:00
+2283,posterolateral,2023-03-08 06:21:00
+2284,direct lateral,2023-03-10 07:28:00
+2285,anterior,2023-03-12 08:29:00
+2286,posterolateral,2023-03-12 11:27:00
+2287,anterior,2023-03-12 10:54:00
+2288,anterolateral,2023-03-13 10:16:00
+2289,posterolateral,2023-03-15 07:13:00
+2290,anterolateral,2023-03-15 07:37:00
+2291,anterolateral,2023-03-16 08:08:00
+2292,posterolateral,2023-03-16 11:46:00
+2293,posterolateral,2023-03-16 10:04:00
+2294,posterolateral,2023-03-17 12:06:00
+2295,posterolateral,2023-03-17 09:32:00
+2296,anterolateral,2023-03-17 09:21:00
+2297,anterolateral,2023-03-17 11:16:00
+2298,posterolateral,2023-03-17 11:10:00
+2299,anterior,2023-03-19 10:46:00
+2300,anterior,2023-03-19 09:43:00
+2301,anterior,2023-03-20 07:13:00
+2302,posterolateral,2023-03-20 09:41:00
+2303,anterolateral,2023-03-20 12:21:00
+2304,posterolateral,2023-03-20 09:37:00
+2305,posterolateral,2023-03-21 06:56:00
+2306,posterolateral,2023-03-21 06:23:00
+2307,anterior,2023-03-21 08:10:00
+2308,posterolateral,2023-03-22 06:36:00
+2309,anterolateral,2023-03-23 09:22:00
+2310,anterolateral,2023-03-23 10:53:00
+2311,direct lateral,2023-03-23 09:59:00
+2312,unknown,2023-03-24 07:54:00
+2313,direct lateral,2023-03-24 11:28:00
+2314,posterolateral,2023-03-25 10:51:00
+2315,posterolateral,2023-03-25 10:35:00
+2316,posterolateral,2023-03-25 10:21:00
+2317,anterolateral,2023-03-26 07:59:00
+2318,posterolateral,2023-03-26 08:03:00
+2319,direct lateral,2023-03-26 10:00:00
+2320,posterolateral,2023-03-26 10:55:00
+2321,anterior,2023-03-26 07:15:00
+2322,anterolateral,2023-03-27 10:51:00
+2323,posterolateral,2023-03-30 11:09:00
+2324,anterolateral,2023-03-30 10:29:00
+2325,posterolateral,2023-03-30 08:25:00
+2326,posterolateral,2023-03-31 09:54:00
+2327,anterior,2023-04-02 08:22:00
+2328,direct lateral,2023-04-03 09:54:00
+2329,posterolateral,2023-04-03 10:17:00
+2330,anterolateral,2023-04-05 07:32:00
+2331,posterolateral,2023-04-06 11:48:00
+2332,direct lateral,2023-04-06 11:24:00
+2333,direct lateral,2023-04-06 07:39:00
+2334,direct lateral,2023-04-08 10:36:00
+2335,posterolateral,2023-04-09 09:32:00
+2336,anterior,2023-04-09 07:09:00
+2337,direct lateral,2023-04-09 08:31:00
+2338,anterolateral,2023-04-10 10:47:00
+2339,anterolateral,2023-04-11 06:30:00
+2340,anterolateral,2023-04-13 11:12:00
+2341,anterolateral,2023-04-13 12:02:00
+2342,anterolateral,2023-04-13 07:33:00
+2343,anterolateral,2023-04-13 08:53:00
+2344,anterior,2023-04-15 08:35:00
+2345,anterior,2023-04-15 08:06:00
+2346,anterolateral,2023-04-17 08:48:00
+2347,anterolateral,2023-04-18 11:36:00
+2348,anterior,2023-04-19 10:01:00
+2349,anterolateral,2023-04-19 08:57:00
+2350,posterolateral,2023-04-19 07:23:00
+2351,anterior,2023-04-20 08:59:00
+2352,posterolateral,2023-04-20 09:58:00
+2353,anterior,2023-04-21 12:04:00
+2354,posterolateral,2023-04-21 10:15:00
+2355,direct lateral,2023-04-23 07:03:00
+2356,direct lateral,2023-04-23 12:31:00
+2357,posterolateral,2023-04-24 09:58:00
+2358,anterior,2023-04-25 06:52:00
+2359,anterior,2023-04-26 07:03:00
+2360,direct lateral,2023-04-26 09:30:00
+2361,direct lateral,2023-04-26 09:01:00
+2362,posterolateral,2023-04-28 09:09:00
+2363,direct lateral,2023-04-30 08:08:00
+2364,posterolateral,2023-04-30 12:17:00
+2365,anterolateral,2023-05-01 07:34:00
+2366,direct lateral,2023-05-04 07:21:00
+2367,anterolateral,2023-05-05 07:42:00
+2368,posterolateral,2023-05-06 11:22:00
+2369,anterior,2023-05-06 11:06:00
+2370,posterolateral,2023-05-07 09:53:00
+2371,anterior,2023-05-08 11:53:00
+2372,direct lateral,2023-05-08 08:17:00
+2373,posterolateral,2023-05-10 12:11:00
+2374,anterior,2023-05-10 07:28:00
+2375,unknown,2023-05-10 11:08:00
+2376,posterolateral,2023-05-11 08:01:00
+2377,anterolateral,2023-05-12 09:25:00
+2378,posterolateral,2023-05-13 10:25:00
+2379,anterolateral,2023-05-14 08:01:00
+2380,anterolateral,2023-05-15 07:43:00
+2381,direct lateral,2023-05-17 10:03:00
+2382,posterolateral,2023-05-17 10:47:00
+2383,posterolateral,2023-05-18 10:33:00
+2384,posterolateral,2023-05-18 07:58:00
+2385,anterolateral,2023-05-19 07:04:00
+2386,anterior,2023-05-19 10:36:00
+2387,anterolateral,2023-05-19 10:44:00
+2388,direct lateral,2023-05-19 08:18:00
+2389,direct lateral,2023-05-20 10:53:00
+2390,posterolateral,2023-05-20 11:19:00
+2391,posterolateral,2023-05-20 07:10:00
+2392,anterior,2023-05-21 10:56:00
+2393,anterior,2023-05-21 08:47:00
+2394,posterolateral,2023-05-21 07:17:00
+2395,direct lateral,2023-05-22 07:22:00
+2396,anterior,2023-05-24 07:09:00
+2397,posterolateral,2023-05-24 11:27:00
+2398,anterolateral,2023-05-25 08:30:00
+2399,anterior,2023-05-27 10:00:00
+2400,posterolateral,2023-05-28 07:42:00
+2401,anterolateral,2023-05-29 10:34:00
+2402,anterior,2023-05-30 11:41:00
+2403,direct lateral,2023-05-30 07:15:00
+2404,posterolateral,2023-05-31 06:33:00
+2405,anterolateral,2023-05-31 08:46:00
+2406,posterolateral,2023-05-31 11:42:00
+2407,posterolateral,2023-06-01 11:10:00
+2408,direct lateral,2023-06-01 09:54:00
+2409,direct lateral,2023-06-01 06:30:00
+2410,anterolateral,2023-06-02 11:51:00
+2411,anterolateral,2023-06-02 12:08:00
+2412,anterior,2023-06-03 09:02:00
+2413,anterolateral,2023-06-03 07:30:00
+2414,posterolateral,2023-06-04 12:13:00
+2415,direct lateral,2023-06-04 07:46:00
+2416,posterolateral,2023-06-06 07:10:00
+2417,anterolateral,2023-06-07 10:39:00
+2418,posterolateral,2023-06-07 12:16:00
+2419,direct lateral,2023-06-08 11:11:00
+2420,anterior,2023-06-08 11:15:00
+2421,posterolateral,2023-06-09 09:34:00
+2422,anterior,2023-06-10 12:12:00
+2423,anterolateral,2023-06-11 10:31:00
+2424,anterior,2023-06-11 09:32:00
+2425,unknown,2023-06-13 10:27:00
+2426,direct lateral,2023-06-14 11:07:00
+2427,anterior,2023-06-16 09:56:00
+2428,anterior,2023-06-17 11:04:00
+2429,direct lateral,2023-06-17 09:19:00
+2430,anterior,2023-06-17 10:53:00
+2431,posterolateral,2023-06-17 10:34:00
+2432,unknown,2023-06-20 11:11:00
+2433,posterolateral,2023-06-20 07:13:00
+2434,posterolateral,2023-06-21 11:27:00
+2435,anterior,2023-06-23 06:55:00
+2436,anterior,2023-06-24 08:22:00
+2437,unknown,2023-06-25 10:32:00
+2438,anterior,2023-06-26 11:04:00
+2439,anterior,2023-06-27 08:07:00
+2440,posterolateral,2023-06-27 08:48:00
+2441,direct lateral,2023-06-27 07:44:00
+2442,anterior,2023-06-27 09:08:00
+2443,anterior,2023-06-27 11:36:00
+2444,anterolateral,2023-06-28 12:16:00
+2445,anterolateral,2023-06-28 10:39:00
+2446,unknown,2023-06-29 11:19:00
+2447,anterior,2023-06-29 09:11:00
+2448,direct lateral,2023-06-30 07:55:00
+2449,unknown,2023-06-30 08:12:00
+2450,posterolateral,2023-06-30 12:06:00
+2451,posterolateral,2023-07-01 12:38:00
+2452,posterolateral,2023-07-01 07:35:00
+2453,anterolateral,2023-07-02 10:37:00
+2454,direct lateral,2023-07-02 12:25:00
+2455,direct lateral,2023-07-05 07:18:00
+2456,posterolateral,2023-07-05 12:26:00
+2457,posterolateral,2023-07-08 06:45:00
+2458,direct lateral,2023-07-08 10:41:00
+2459,anterior,2023-07-09 07:32:00
+2460,anterolateral,2023-07-10 06:57:00
+2461,anterior,2023-07-11 12:03:00
+2462,unknown,2023-07-11 10:17:00
+2463,posterolateral,2023-07-12 11:53:00
+2464,anterior,2023-07-12 11:36:00
+2465,anterior,2023-07-14 11:40:00
+2466,anterior,2023-07-15 09:30:00
+2467,posterolateral,2023-07-16 09:56:00
+2468,posterolateral,2023-07-16 09:26:00
+2469,unknown,2023-07-16 11:21:00
+2470,posterolateral,2023-07-16 08:14:00
+2471,direct lateral,2023-07-17 08:25:00
+2472,anterolateral,2023-07-17 09:39:00
+2473,anterolateral,2023-07-17 08:34:00
+2474,anterior,2023-07-18 09:03:00
+2475,direct lateral,2023-07-18 07:30:00
+2476,direct lateral,2023-07-21 07:33:00
+2477,posterolateral,2023-07-21 07:13:00
+2478,posterolateral,2023-07-21 11:51:00
+2479,anterolateral,2023-07-22 12:04:00
+2480,posterolateral,2023-07-23 06:42:00
+2481,posterolateral,2023-07-24 08:52:00
+2482,anterior,2023-07-26 11:39:00
+2483,posterolateral,2023-07-27 07:16:00
+2484,posterolateral,2023-07-28 12:14:00
+2485,anterior,2023-07-29 06:47:00
+2486,posterolateral,2023-07-29 08:14:00
+2487,anterior,2023-07-31 09:21:00
+2488,posterolateral,2023-07-31 07:35:00
+2489,direct lateral,2023-07-31 11:49:00
+2490,anterior,2023-08-01 08:01:00
+2491,anterior,2023-08-02 10:47:00
+2492,posterolateral,2023-08-02 09:34:00
+2493,posterolateral,2023-08-02 10:20:00
+2494,anterior,2023-08-05 08:56:00
+2495,posterolateral,2023-08-05 08:44:00
+2496,posterolateral,2023-08-06 12:05:00
+2497,direct lateral,2023-08-06 07:16:00
+2498,anterior,2023-08-08 10:55:00
+2499,anterior,2023-08-09 10:16:00
+2500,direct lateral,2023-08-09 11:38:00
+2501,anterior,2023-08-10 06:55:00
+2502,anterior,2023-08-10 06:45:00
+2503,anterolateral,2023-08-11 10:36:00
+2504,posterolateral,2023-08-12 11:59:00
+2505,unknown,2023-08-12 08:03:00
+2506,direct lateral,2023-08-12 10:37:00
+2507,direct lateral,2023-08-13 10:30:00
+2508,posterolateral,2023-08-14 07:08:00
+2509,posterolateral,2023-08-14 07:59:00
+2510,anterior,2023-08-15 12:41:00
+2511,direct lateral,2023-08-15 11:47:00
+2512,anterior,2023-08-17 10:29:00
+2513,posterolateral,2023-08-18 08:43:00
+2514,direct lateral,2023-08-18 07:31:00
+2515,anterior,2023-08-18 10:30:00
+2516,posterolateral,2023-08-20 11:30:00
+2517,direct lateral,2023-08-20 10:39:00
+2518,anterior,2023-08-20 10:59:00
+2519,direct lateral,2023-08-20 10:07:00
+2520,posterolateral,2023-08-21 07:28:00
+2521,direct lateral,2023-08-21 11:22:00
+2522,direct lateral,2023-08-21 12:36:00
+2523,direct lateral,2023-08-22 06:47:00
+2524,anterolateral,2023-08-22 08:53:00
+2525,unknown,2023-08-23 12:12:00
+2526,anterolateral,2023-08-23 08:17:00
+2527,posterolateral,2023-08-24 08:12:00
+2528,direct lateral,2023-08-25 08:22:00
+2529,posterolateral,2023-08-25 06:55:00
+2530,anterolateral,2023-08-27 07:40:00
+2531,direct lateral,2023-08-28 09:34:00
+2532,anterolateral,2023-08-28 10:55:00
+2533,anterior,2023-08-28 08:05:00
+2534,posterolateral,2023-08-28 08:12:00
+2535,unknown,2023-08-30 07:37:00
+2536,posterolateral,2023-08-30 11:55:00
+2537,anterior,2023-08-31 08:41:00
+2538,posterolateral,2023-08-31 08:04:00
+2539,unknown,2023-09-01 08:35:00
+2540,posterolateral,2023-09-01 08:48:00
+2541,anterolateral,2023-09-01 08:26:00
+2542,posterolateral,2023-09-01 09:15:00
+2543,posterolateral,2023-09-02 08:54:00
+2544,anterolateral,2023-09-02 09:58:00
+2545,posterolateral,2023-09-04 11:43:00
+2546,anterolateral,2023-09-05 09:09:00
+2547,unknown,2023-09-05 07:21:00
+2548,direct lateral,2023-09-07 08:46:00
+2549,posterolateral,2023-09-08 07:42:00
+2550,posterolateral,2023-09-08 10:27:00
+2551,anterior,2023-09-08 06:40:00
+2552,direct lateral,2023-09-09 07:01:00
+2553,posterolateral,2023-09-12 09:37:00
+2554,posterolateral,2023-09-14 08:11:00
+2555,anterior,2023-09-14 06:32:00
+2556,posterolateral,2023-09-14 07:19:00
+2557,anterolateral,2023-09-15 07:01:00
+2558,anterolateral,2023-09-15 12:38:00
+2559,unknown,2023-09-15 11:02:00
+2560,anterior,2023-09-16 07:27:00
+2561,anterior,2023-09-17 09:19:00
+2562,anterior,2023-09-17 10:13:00
+2563,posterolateral,2023-09-17 06:52:00
+2564,direct lateral,2023-09-18 08:02:00
+2565,posterolateral,2023-09-19 07:21:00
+2566,posterolateral,2023-09-19 12:31:00
+2567,direct lateral,2023-09-20 08:29:00
+2568,direct lateral,2023-09-21 08:24:00
+2569,unknown,2023-09-22 07:16:00
+2570,anterolateral,2023-09-22 08:57:00
+2571,anterior,2023-09-22 12:26:00
+2572,posterolateral,2023-09-23 11:19:00
+2573,unknown,2023-09-24 11:18:00
+2574,direct lateral,2023-09-25 10:27:00
+2575,anterolateral,2023-09-25 10:12:00
+2576,anterolateral,2023-09-25 06:36:00
+2577,posterolateral,2023-09-25 07:06:00
+2578,anterior,2023-09-26 06:59:00
+2579,posterolateral,2023-09-27 09:22:00
+2580,posterolateral,2023-09-28 11:13:00
+2581,anterolateral,2023-09-28 11:39:00
+2582,anterior,2023-09-28 07:54:00
+2583,posterolateral,2023-09-29 08:48:00
+2584,anterior,2023-09-30 10:30:00
+2585,direct lateral,2023-10-01 08:11:00
+2586,posterolateral,2023-10-01 08:47:00
+2587,posterolateral,2023-10-02 11:33:00
+2588,posterolateral,2023-10-02 06:41:00
+2589,posterolateral,2023-10-02 06:54:00
+2590,posterolateral,2023-10-03 06:35:00
+2591,direct lateral,2023-10-03 11:38:00
+2592,direct lateral,2023-10-03 09:27:00
+2593,direct lateral,2023-10-03 10:46:00
+2594,anterior,2023-10-07 11:23:00
+2595,posterolateral,2023-10-07 08:01:00
+2596,anterior,2023-10-10 09:22:00
+2597,direct lateral,2023-10-10 07:19:00
+2598,direct lateral,2023-10-10 07:36:00
+2599,posterolateral,2023-10-11 09:05:00
+2600,anterolateral,2023-10-12 10:04:00
+2601,anterolateral,2023-10-12 08:38:00
+2602,anterior,2023-10-12 11:15:00
+2603,posterolateral,2023-10-13 12:13:00
+2604,anterior,2023-10-14 07:21:00
+2605,anterior,2023-10-15 10:35:00
+2606,anterolateral,2023-10-15 09:05:00
+2607,anterior,2023-10-15 09:29:00
+2608,anterior,2023-10-17 06:56:00
+2609,anterolateral,2023-10-18 06:39:00
+2610,posterolateral,2023-10-20 08:30:00
+2611,posterolateral,2023-10-20 11:01:00
+2612,direct lateral,2023-10-20 08:30:00
+2613,anterior,2023-10-22 07:01:00
+2614,posterolateral,2023-10-23 09:18:00
+2615,posterolateral,2023-10-25 11:36:00
+2616,posterolateral,2023-10-26 08:26:00
+2617,posterolateral,2023-10-27 07:45:00
+2618,direct lateral,2023-10-28 11:46:00
+2619,posterolateral,2023-10-30 11:06:00
+2620,anterolateral,2023-10-30 10:34:00
+2621,posterolateral,2023-10-31 08:11:00
+2622,posterolateral,2023-10-31 06:47:00
+2623,anterolateral,2023-11-01 10:48:00
+2624,direct lateral,2023-11-02 07:04:00
+2625,posterolateral,2023-11-02 10:30:00
+2626,posterolateral,2023-11-03 08:25:00
+2627,posterolateral,2023-11-04 07:02:00
+2628,anterolateral,2023-11-04 12:24:00
+2629,anterior,2023-11-06 11:15:00
+2630,anterior,2023-11-07 07:09:00
+2631,direct lateral,2023-11-07 07:05:00
+2632,direct lateral,2023-11-07 07:16:00
+2633,anterolateral,2023-11-08 11:42:00
+2634,direct lateral,2023-11-08 10:53:00
+2635,anterolateral,2023-11-09 10:07:00
+2636,posterolateral,2023-11-09 07:57:00
+2637,posterolateral,2023-11-10 11:03:00
+2638,posterolateral,2023-11-11 10:01:00
+2639,posterolateral,2023-11-11 07:17:00
+2640,anterior,2023-11-12 12:27:00
+2641,posterolateral,2023-11-12 09:27:00
+2642,direct lateral,2023-11-13 10:12:00
+2643,direct lateral,2023-11-13 09:25:00
+2644,unknown,2023-11-14 12:00:00
+2645,direct lateral,2023-11-14 10:56:00
+2646,direct lateral,2023-11-15 10:54:00
+2647,anterolateral,2023-11-15 11:23:00
+2648,direct lateral,2023-11-16 07:43:00
+2649,anterolateral,2023-11-16 10:08:00
+2650,anterolateral,2023-11-18 09:46:00
+2651,anterolateral,2023-11-19 06:46:00
+2652,anterolateral,2023-11-19 10:26:00
+2653,direct lateral,2023-11-19 06:58:00
+2654,posterolateral,2023-11-20 10:15:00
+2655,posterolateral,2023-11-21 07:39:00
+2656,anterior,2023-11-23 08:41:00
+2657,anterior,2023-11-24 07:40:00
+2658,unknown,2023-11-25 08:38:00
+2659,anterior,2023-11-28 08:54:00
+2660,anterior,2023-11-28 08:13:00
+2661,posterolateral,2023-11-30 06:34:00
+2662,posterolateral,2023-12-02 07:26:00
+2663,anterolateral,2023-12-03 09:22:00
+2664,anterolateral,2023-12-04 10:11:00
+2665,anterolateral,2023-12-06 10:30:00
+2666,direct lateral,2023-12-06 09:19:00
+2667,unknown,2023-12-06 08:41:00
+2668,unknown,2023-12-08 08:14:00
+2669,direct lateral,2023-12-08 07:09:00
+2670,anterior,2023-12-09 07:42:00
+2671,anterior,2023-12-09 08:47:00
+2672,direct lateral,2023-12-10 09:27:00
+2673,anterolateral,2023-12-10 12:20:00
+2674,posterolateral,2023-12-12 10:25:00
+2675,anterolateral,2023-12-12 10:29:00
+2676,posterolateral,2023-12-14 07:40:00
+2677,anterior,2023-12-15 10:02:00
+2678,direct lateral,2023-12-15 08:10:00
+2679,direct lateral,2023-12-15 08:38:00
+2680,direct lateral,2023-12-16 08:53:00
+2681,posterolateral,2023-12-17 09:02:00
+2682,posterolateral,2023-12-17 11:27:00
+2683,unknown,2023-12-17 11:36:00
+2684,posterolateral,2023-12-18 11:53:00
+2685,unknown,2023-12-19 08:01:00
+2686,anterior,2023-12-19 11:31:00
+2687,anterior,2023-12-19 08:11:00
+2688,posterolateral,2023-12-19 07:12:00
+2689,posterolateral,2023-12-20 12:04:00
+2690,direct lateral,2023-12-20 10:53:00
+2691,anterior,2023-12-21 10:00:00
+2692,anterior,2023-12-21 10:35:00
+2693,direct lateral,2023-12-22 07:46:00
+2694,anterior,2023-12-23 07:10:00
+2695,anterolateral,2023-12-25 07:33:00
+2696,posterolateral,2023-12-25 10:25:00
+2697,anterolateral,2023-12-25 12:20:00
+2698,anterolateral,2023-12-27 07:50:00
+2699,anterolateral,2023-12-28 09:37:00
+2700,anterior,2023-12-29 07:25:00
+2701,posterolateral,2023-12-31 08:42:00
+2702,direct lateral,2024-01-01 08:44:00
+2703,posterolateral,2024-01-01 09:10:00
+2704,posterolateral,2024-01-03 07:24:00
+2705,direct lateral,2024-01-04 07:33:00
+2706,direct lateral,2024-01-05 11:30:00
+2707,unknown,2024-01-05 09:29:00
+2708,anterior,2024-01-06 12:12:00
+2709,anterior,2024-01-06 11:34:00
+2710,anterior,2024-01-07 09:09:00
+2711,unknown,2024-01-08 10:36:00
+2712,anterolateral,2024-01-08 07:35:00
+2713,anterolateral,2024-01-09 11:58:00
+2714,posterolateral,2024-01-10 11:12:00
+2715,anterior,2024-01-11 11:24:00
+2716,posterolateral,2024-01-11 08:24:00
+2717,direct lateral,2024-01-12 09:53:00
+2718,posterolateral,2024-01-12 07:07:00
+2719,direct lateral,2024-01-13 10:24:00
+2720,direct lateral,2024-01-13 06:51:00
+2721,posterolateral,2024-01-13 07:47:00
+2722,anterolateral,2024-01-14 07:39:00
+2723,anterolateral,2024-01-14 08:07:00
+2724,posterolateral,2024-01-17 08:28:00
+2725,posterolateral,2024-01-17 06:43:00
+2726,anterior,2024-01-21 12:17:00
+2727,posterolateral,2024-01-21 12:07:00
+2728,anterior,2024-01-22 07:59:00
+2729,posterolateral,2024-01-24 09:29:00
+2730,direct lateral,2024-01-26 07:31:00
+2731,posterolateral,2024-01-31 11:46:00
+2732,anterolateral,2024-02-07 12:25:00
+2733,anterolateral,2024-02-07 08:02:00
+2734,anterior,2024-02-12 11:49:00
+2735,anterolateral,2024-02-12 08:27:00
+2736,posterolateral,2024-02-13 12:22:00
+2737,posterolateral,2024-02-13 06:21:00
+2738,posterolateral,2024-02-13 07:07:00
+2739,anterior,2024-02-14 07:38:00
+2740,direct lateral,2024-02-17 09:24:00
+2741,anterolateral,2024-02-18 09:00:00
+2742,anterolateral,2024-02-18 09:08:00
+2743,anterior,2024-02-19 12:05:00
+2744,anterior,2024-02-19 11:42:00
+2745,anterior,2024-02-20 06:52:00
+2746,posterolateral,2024-02-20 06:35:00
+2747,direct lateral,2024-02-21 06:23:00
+2748,anterior,2024-02-21 08:48:00
+2749,anterior,2024-02-23 07:20:00
+2750,direct lateral,2024-02-23 09:59:00
+2751,anterolateral,2024-02-23 08:12:00
+2752,direct lateral,2024-02-24 07:49:00
+2753,direct lateral,2024-02-24 07:17:00
+2754,unknown,2024-02-26 08:34:00
+2755,unknown,2024-02-27 08:11:00
+2756,direct lateral,2024-02-28 08:16:00
+2757,anterior,2024-03-02 07:04:00
+2758,anterior,2024-03-02 08:02:00
+2759,anterolateral,2024-03-03 12:15:00
+2760,direct lateral,2024-03-04 09:01:00
+2761,anterolateral,2024-03-06 09:01:00
+2762,anterior,2024-03-07 10:33:00
+2763,posterolateral,2024-03-08 06:56:00
+2764,anterolateral,2024-03-08 11:05:00
+2765,anterolateral,2024-03-09 08:28:00
+2766,anterior,2024-03-09 10:43:00
+2767,anterolateral,2024-03-10 12:11:00
+2768,anterior,2024-03-11 09:13:00
+2769,posterolateral,2024-03-12 11:39:00
+2770,anterior,2024-03-14 06:27:00
+2771,direct lateral,2024-03-14 10:13:00
+2772,anterolateral,2024-03-15 08:37:00
+2773,anterior,2024-03-16 11:34:00
+2774,posterolateral,2024-03-16 09:18:00
+2775,posterolateral,2024-03-17 06:26:00
+2776,direct lateral,2024-03-17 08:43:00
+2777,direct lateral,2024-03-18 07:43:00
+2778,posterolateral,2024-03-18 06:55:00
+2779,posterolateral,2024-03-20 12:08:00
+2780,posterolateral,2024-03-20 07:41:00
+2781,direct lateral,2024-03-21 11:20:00
+2782,posterolateral,2024-03-22 08:52:00
+2783,posterolateral,2024-03-25 12:13:00
+2784,anterolateral,2024-03-25 07:05:00
+2785,anterior,2024-03-26 12:03:00
+2786,posterolateral,2024-03-26 10:31:00
+2787,anterolateral,2024-03-26 12:09:00
+2788,anterior,2024-03-27 09:13:00
+2789,direct lateral,2024-03-28 07:39:00
+2790,posterolateral,2024-03-28 11:00:00
+2791,anterolateral,2024-03-28 10:43:00
+2792,posterolateral,2024-03-29 08:01:00
+2793,direct lateral,2024-03-29 06:58:00
+2794,anterior,2024-03-29 07:03:00
+2795,anterior,2024-03-29 06:59:00
+2796,anterior,2024-03-30 09:45:00
+2797,posterolateral,2024-03-31 11:18:00
+2798,anterolateral,2024-04-01 07:42:00
+2799,anterior,2024-04-01 12:04:00
+2800,direct lateral,2024-04-01 08:07:00
+2801,posterolateral,2024-04-01 11:48:00
+2802,posterolateral,2024-04-02 10:13:00
+2803,anterior,2024-04-04 10:32:00
+2804,posterolateral,2024-04-05 11:34:00
+2805,anterior,2024-04-06 10:13:00
+2806,anterior,2024-04-07 11:41:00
+2807,anterior,2024-04-08 08:37:00
+2808,posterolateral,2024-04-09 11:06:00
+2809,direct lateral,2024-04-09 06:49:00
+2810,posterolateral,2024-04-09 06:36:00
+2811,direct lateral,2024-04-09 09:38:00
+2812,unknown,2024-04-09 10:49:00
+2813,posterolateral,2024-04-10 11:41:00
+2814,posterolateral,2024-04-11 08:17:00
+2815,anterolateral,2024-04-11 11:11:00
+2816,anterior,2024-04-13 09:43:00
+2817,posterolateral,2024-04-16 06:48:00
+2818,anterolateral,2024-04-17 08:14:00
+2819,anterolateral,2024-04-19 09:40:00
+2820,posterolateral,2024-04-19 09:01:00
+2821,anterior,2024-04-20 09:00:00
+2822,posterolateral,2024-04-20 11:21:00
+2823,direct lateral,2024-04-20 08:31:00
+2824,direct lateral,2024-04-22 07:28:00
+2825,posterolateral,2024-04-24 09:42:00
+2826,direct lateral,2024-04-25 10:10:00
+2827,anterior,2024-04-25 10:51:00
+2828,direct lateral,2024-04-26 10:15:00
+2829,direct lateral,2024-04-26 11:08:00
+2830,anterolateral,2024-04-26 12:18:00
+2831,anterior,2024-04-26 09:04:00
+2832,posterolateral,2024-04-26 10:37:00
+2833,anterolateral,2024-04-27 10:36:00
+2834,anterolateral,2024-04-29 07:59:00
+2835,unknown,2024-04-30 06:26:00
+2836,direct lateral,2024-04-30 10:55:00
+2837,anterior,2024-05-01 11:30:00
+2838,posterolateral,2024-05-02 09:47:00
+2839,anterolateral,2024-05-02 09:58:00
+2840,anterolateral,2024-05-03 07:52:00
+2841,direct lateral,2024-05-05 08:22:00
+2842,posterolateral,2024-05-05 10:36:00
+2843,anterior,2024-05-06 07:35:00
+2844,posterolateral,2024-05-06 11:46:00
+2845,posterolateral,2024-05-07 10:40:00
+2846,posterolateral,2024-05-08 06:31:00
+2847,anterior,2024-05-09 09:27:00
+2848,unknown,2024-05-09 09:06:00
+2849,posterolateral,2024-05-09 08:03:00
+2850,posterolateral,2024-05-10 07:15:00
+2851,posterolateral,2024-05-10 10:14:00
+2852,anterior,2024-05-11 11:09:00
+2853,anterior,2024-05-11 11:00:00
+2854,anterolateral,2024-05-11 07:54:00
+2855,posterolateral,2024-05-11 07:05:00
+2856,direct lateral,2024-05-11 06:57:00
+2857,posterolateral,2024-05-14 10:46:00
+2858,direct lateral,2024-05-14 10:59:00
+2859,anterolateral,2024-05-15 08:42:00
+2860,direct lateral,2024-05-15 07:35:00
+2861,posterolateral,2024-05-16 12:02:00
+2862,posterolateral,2024-05-16 11:26:00
+2863,anterior,2024-05-16 09:57:00
+2864,unknown,2024-05-17 06:30:00
+2865,direct lateral,2024-05-18 09:14:00
+2866,anterior,2024-05-18 11:47:00
+2867,anterolateral,2024-05-19 07:02:00
+2868,posterolateral,2024-05-20 10:03:00
+2869,anterior,2024-05-20 06:49:00
+2870,anterolateral,2024-05-20 10:29:00
+2871,anterolateral,2024-05-20 10:34:00
+2872,direct lateral,2024-05-21 10:24:00
+2873,anterolateral,2024-05-23 08:34:00
+2874,posterolateral,2024-05-23 10:29:00
+2875,direct lateral,2024-05-24 08:39:00
+2876,anterolateral,2024-05-24 07:40:00
+2877,anterior,2024-05-24 11:49:00
+2878,anterior,2024-05-25 10:15:00
+2879,posterolateral,2024-05-25 12:16:00
+2880,posterolateral,2024-05-25 10:17:00
+2881,anterior,2024-05-26 08:44:00
+2882,anterolateral,2024-05-26 08:48:00
+2883,posterolateral,2024-05-26 07:13:00
+2884,direct lateral,2024-05-26 06:31:00
+2885,anterolateral,2024-05-27 09:34:00
+2886,anterolateral,2024-05-27 07:29:00
+2887,direct lateral,2024-05-29 08:44:00
+2888,anterior,2024-05-29 10:37:00
+2889,anterior,2024-05-29 11:17:00
+2890,posterolateral,2024-05-29 08:52:00
+2891,direct lateral,2024-06-02 11:54:00
+2892,anterolateral,2024-06-03 11:41:00
+2893,anterior,2024-06-05 10:37:00
+2894,posterolateral,2024-06-05 07:39:00
+2895,posterolateral,2024-06-06 11:22:00
+2896,anterior,2024-06-06 08:01:00
+2897,posterolateral,2024-06-06 09:59:00
+2898,direct lateral,2024-06-07 10:40:00
+2899,anterior,2024-06-09 11:39:00
+2900,direct lateral,2024-06-11 08:09:00
+2901,anterior,2024-06-12 08:12:00
+2902,anterior,2024-06-12 08:07:00
+2903,direct lateral,2024-06-13 10:15:00
+2904,posterolateral,2024-06-15 10:52:00
+2905,direct lateral,2024-06-15 12:06:00
+2906,unknown,2024-06-16 09:15:00
+2907,anterolateral,2024-06-16 09:58:00
+2908,posterolateral,2024-06-18 11:46:00
+2909,anterolateral,2024-06-18 08:51:00
+2910,anterolateral,2024-06-18 12:19:00
+2911,anterolateral,2024-06-18 07:52:00
+2912,anterolateral,2024-06-18 08:56:00
+2913,anterior,2024-06-18 10:48:00
+2914,anterolateral,2024-06-19 06:58:00
+2915,anterolateral,2024-06-19 11:04:00
+2916,unknown,2024-06-20 07:54:00
+2917,anterolateral,2024-06-21 07:37:00
+2918,posterolateral,2024-06-21 08:49:00
+2919,posterolateral,2024-06-21 11:40:00
+2920,anterior,2024-06-22 10:47:00
+2921,posterolateral,2024-06-22 06:44:00
+2922,posterolateral,2024-06-23 08:12:00
+2923,anterolateral,2024-06-23 10:38:00
+2924,anterior,2024-06-26 07:26:00
+2925,posterolateral,2024-06-27 08:33:00
+2926,direct lateral,2024-06-27 10:06:00
+2927,posterolateral,2024-06-28 06:54:00
+2928,posterolateral,2024-06-28 11:00:00
+2929,posterolateral,2024-07-01 06:35:00
+2930,posterolateral,2024-07-02 09:09:00
+2931,posterolateral,2024-07-03 07:11:00
+2932,unknown,2024-07-04 06:44:00
+2933,direct lateral,2024-07-06 07:02:00
+2934,posterolateral,2024-07-06 12:18:00
+2935,direct lateral,2024-07-07 08:22:00
+2936,posterolateral,2024-07-10 12:17:00
+2937,anterolateral,2024-07-15 07:33:00
+2938,anterolateral,2024-07-15 08:54:00
+2939,unknown,2024-07-16 10:58:00
+2940,posterolateral,2024-07-19 06:51:00
+2941,anterolateral,2024-07-21 10:01:00
+2942,direct lateral,2024-07-22 11:29:00
+2943,posterolateral,2024-07-23 11:27:00
+2944,posterolateral,2024-07-26 11:50:00
+2945,posterolateral,2024-07-27 10:26:00
+2946,direct lateral,2024-07-27 10:58:00
+2947,anterolateral,2024-07-27 12:00:00
+2948,posterolateral,2024-07-29 09:15:00
+2949,direct lateral,2024-07-31 12:11:00
+2950,direct lateral,2024-07-31 11:22:00
+2951,anterior,2024-08-02 06:33:00
+2952,posterolateral,2024-08-03 11:51:00
+2953,anterolateral,2024-08-03 11:28:00
+2954,posterolateral,2024-08-04 11:53:00
+2955,posterolateral,2024-08-05 10:57:00
+2956,posterolateral,2024-08-05 09:24:00
+2957,anterior,2024-08-05 07:11:00
+2958,anterior,2024-08-05 11:40:00
+2959,anterolateral,2024-08-07 10:29:00
+2960,posterolateral,2024-08-07 07:20:00
+2961,posterolateral,2024-08-07 06:21:00
+2962,anterior,2024-08-07 07:56:00
+2963,anterolateral,2024-08-08 11:37:00
+2964,anterior,2024-08-08 08:14:00
+2965,posterolateral,2024-08-09 10:10:00
+2966,direct lateral,2024-08-09 09:34:00
+2967,direct lateral,2024-08-10 07:20:00
+2968,direct lateral,2024-08-11 11:19:00
+2969,direct lateral,2024-08-11 09:51:00
+2970,posterolateral,2024-08-12 07:51:00
+2971,posterolateral,2024-08-12 08:20:00
+2972,anterior,2024-08-12 07:56:00
+2973,direct lateral,2024-08-13 12:09:00
+2974,posterolateral,2024-08-14 08:48:00
+2975,posterolateral,2024-08-14 08:43:00
+2976,direct lateral,2024-08-18 08:38:00
+2977,anterior,2024-08-18 08:45:00
+2978,direct lateral,2024-08-19 11:05:00
+2979,anterolateral,2024-08-19 08:00:00
+2980,anterior,2024-08-20 10:57:00
+2981,posterolateral,2024-08-21 09:36:00
+2982,posterolateral,2024-08-21 06:41:00
+2983,unknown,2024-08-23 11:03:00
+2984,posterolateral,2024-08-23 08:55:00
+2985,direct lateral,2024-08-23 09:57:00
+2986,direct lateral,2024-08-23 07:38:00
+2987,anterolateral,2024-08-23 07:29:00
+2988,anterolateral,2024-08-24 09:49:00
+2989,posterolateral,2024-08-25 06:18:00
+2990,posterolateral,2024-08-25 10:09:00
+2991,anterior,2024-08-25 11:11:00
+2992,anterolateral,2024-08-27 10:47:00
+2993,anterior,2024-08-29 08:53:00
+2994,posterolateral,2024-08-29 12:33:00
+2995,anterolateral,2024-08-29 11:54:00
+2996,posterolateral,2024-09-01 09:17:00
+2997,anterior,2024-09-01 08:15:00
+2998,posterolateral,2024-09-01 09:46:00
+2999,anterior,2024-09-02 08:35:00
+3000,posterolateral,2024-09-03 08:51:00
+3001,anterior,2024-09-03 09:56:00
+3002,anterior,2024-09-03 11:02:00
+3003,anterior,2024-09-04 07:19:00
+3004,unknown,2024-09-05 08:40:00
+3005,direct lateral,2024-09-05 07:48:00
+3006,direct lateral,2024-09-05 12:20:00
+3007,posterolateral,2024-09-05 10:09:00
+3008,posterolateral,2024-09-06 12:00:00
+3009,posterolateral,2024-09-08 10:45:00
+3010,posterolateral,2024-09-08 07:19:00
+3011,anterior,2024-09-09 12:25:00
+3012,posterolateral,2024-09-10 09:28:00
+3013,posterolateral,2024-09-12 10:56:00
+3014,posterolateral,2024-09-12 07:16:00
+3015,anterolateral,2024-09-12 10:50:00
+3016,direct lateral,2024-09-15 11:55:00
+3017,anterolateral,2024-09-16 10:34:00
+3018,direct lateral,2024-09-17 08:46:00
+3019,posterolateral,2024-09-17 11:03:00
+3020,anterolateral,2024-09-18 09:11:00
+3021,anterolateral,2024-09-19 08:27:00
+3022,posterolateral,2024-09-20 12:09:00
+3023,posterolateral,2024-09-22 11:54:00
+3024,posterolateral,2024-09-22 09:26:00
+3025,anterior,2024-09-22 08:49:00
+3026,anterolateral,2024-09-23 08:23:00
+3027,posterolateral,2024-09-23 07:44:00
+3028,anterior,2024-09-23 09:47:00
+3029,anterolateral,2024-09-26 08:28:00
+3030,anterior,2024-09-26 09:50:00
+3031,posterolateral,2024-09-26 08:32:00
+3032,anterior,2024-09-30 11:29:00
+3033,posterolateral,2024-10-01 08:50:00
+3034,anterior,2024-10-03 12:21:00
+3035,anterior,2024-10-04 07:34:00
+3036,anterolateral,2024-10-05 07:30:00
+3037,unknown,2024-10-06 06:52:00
+3038,anterolateral,2024-10-07 08:10:00
+3039,posterolateral,2024-10-08 06:56:00
+3040,direct lateral,2024-10-09 09:23:00
+3041,anterolateral,2024-10-09 10:17:00
+3042,anterior,2024-10-09 08:13:00
+3043,direct lateral,2024-10-10 07:47:00
+3044,direct lateral,2024-10-14 07:18:00
+3045,anterolateral,2024-10-15 06:46:00
+3046,anterolateral,2024-10-15 06:34:00
+3047,anterior,2024-10-15 11:32:00
+3048,posterolateral,2024-10-17 09:21:00
+3049,posterolateral,2024-10-17 09:47:00
+3050,anterolateral,2024-10-18 08:38:00
+3051,posterolateral,2024-10-18 07:54:00
+3052,direct lateral,2024-10-21 10:22:00
+3053,posterolateral,2024-10-21 09:02:00
+3054,anterolateral,2024-10-21 10:01:00
+3055,anterolateral,2024-10-21 07:24:00
+3056,posterolateral,2024-10-23 08:12:00
+3057,anterolateral,2024-10-25 08:38:00
+3058,anterolateral,2024-10-26 10:51:00
+3059,direct lateral,2024-10-27 07:39:00
+3060,anterior,2024-10-28 11:38:00
+3061,direct lateral,2024-10-28 11:24:00
+3062,posterolateral,2024-10-28 09:03:00
+3063,anterior,2024-10-29 07:34:00
+3064,posterolateral,2024-10-29 07:20:00
+3065,posterolateral,2024-10-30 07:03:00
+3066,anterior,2024-10-30 09:27:00
+3067,direct lateral,2024-10-31 09:04:00
+3068,anterolateral,2024-11-02 09:34:00
+3069,posterolateral,2024-11-02 11:51:00
+3070,posterolateral,2024-11-03 10:26:00
+3071,anterolateral,2024-11-04 12:24:00
+3072,posterolateral,2024-11-04 10:27:00
+3073,posterolateral,2024-11-04 11:24:00
+3074,anterior,2024-11-04 09:40:00
+3075,anterior,2024-11-08 07:15:00
+3076,posterolateral,2024-11-08 06:37:00
+3077,anterior,2024-11-08 09:25:00
+3078,posterolateral,2024-11-08 10:26:00
+3079,posterolateral,2024-11-09 07:09:00
+3080,unknown,2024-11-09 07:08:00
+3081,direct lateral,2024-11-10 06:45:00
+3082,posterolateral,2024-11-10 12:18:00
+3083,anterior,2024-11-11 08:59:00
+3084,direct lateral,2024-11-11 07:44:00
+3085,posterolateral,2024-11-11 10:36:00
+3086,unknown,2024-11-12 11:52:00
+3087,posterolateral,2024-11-13 11:22:00
+3088,anterior,2024-11-14 06:50:00
+3089,unknown,2024-11-15 12:11:00
+3090,posterolateral,2024-11-15 07:31:00
+3091,posterolateral,2024-11-15 07:29:00
+3092,posterolateral,2024-11-17 08:25:00
+3093,unknown,2024-11-19 09:23:00
+3094,posterolateral,2024-11-20 09:43:00
+3095,posterolateral,2024-11-20 08:39:00
+3096,anterolateral,2024-11-23 06:26:00
+3097,anterior,2024-11-24 12:23:00
+3098,anterolateral,2024-11-25 06:34:00
+3099,posterolateral,2024-11-25 12:15:00
+3100,anterior,2024-11-26 12:13:00
+3101,posterolateral,2024-11-27 07:25:00
+3102,anterolateral,2024-11-29 08:07:00
+3103,anterior,2024-12-01 08:20:00
+3104,posterolateral,2024-12-01 10:20:00
+3105,direct lateral,2024-12-07 12:19:00
+3106,posterolateral,2024-12-07 09:38:00
+3107,anterior,2024-12-07 12:23:00
+3108,anterolateral,2024-12-08 07:20:00
+3109,posterolateral,2024-12-10 10:59:00
+3110,anterolateral,2024-12-10 08:18:00
+3111,anterior,2024-12-13 07:09:00
+3112,anterior,2024-12-13 07:38:00
+3113,anterolateral,2024-12-14 11:35:00
+3114,anterior,2024-12-14 08:34:00
+3115,anterolateral,2024-12-16 06:54:00
+3116,anterolateral,2024-12-16 12:01:00
+3117,anterior,2024-12-17 06:52:00
+3118,direct lateral,2024-12-18 08:17:00
+3119,direct lateral,2024-12-20 08:25:00
+3120,posterolateral,2024-12-21 11:08:00
+3121,direct lateral,2024-12-21 07:34:00
+3122,anterior,2024-12-22 10:28:00
+3123,direct lateral,2024-12-23 09:37:00
+3124,direct lateral,2024-12-24 12:33:00
+3125,anterior,2024-12-25 07:25:00
+3126,posterolateral,2024-12-25 12:29:00
+3127,posterolateral,2024-12-25 09:18:00
+3128,anterior,2024-12-26 12:09:00
+3129,anterior,2024-12-30 11:38:00
+3130,posterolateral,2024-12-30 09:12:00
+3131,anterolateral,2024-12-30 09:31:00
+3132,direct lateral,2024-12-31 11:51:00
+3133,posterolateral,2024-12-31 09:03:00
+3134,posterolateral,2025-01-01 07:05:00
+3135,direct lateral,2025-01-02 08:16:00
+3136,posterolateral,2025-01-03 09:03:00
+3137,anterior,2025-01-03 09:19:00
+3138,posterolateral,2025-01-04 06:31:00
+3139,posterolateral,2025-01-04 11:02:00
+3140,posterolateral,2025-01-06 09:01:00
+3141,anterior,2025-01-07 11:23:00
+3142,posterolateral,2025-01-07 08:52:00
+3143,posterolateral,2025-01-08 09:05:00
+3144,anterior,2025-01-08 12:37:00
+3145,posterolateral,2025-01-08 11:09:00
+3146,anterolateral,2025-01-09 09:43:00
+3147,anterior,2025-01-10 12:20:00
+3148,direct lateral,2025-01-11 06:51:00
+3149,anterolateral,2025-01-11 12:14:00
+3150,anterior,2025-01-12 09:19:00
+3151,posterolateral,2025-01-14 07:44:00
+3152,direct lateral,2025-01-14 09:08:00
+3153,anterior,2025-01-14 08:55:00
+3154,anterior,2025-01-15 11:56:00
+3155,posterolateral,2025-01-16 09:47:00
+3156,direct lateral,2025-01-16 09:54:00
+3157,posterolateral,2025-01-17 08:56:00
+3158,anterior,2025-01-17 09:15:00
+3159,direct lateral,2025-01-17 12:20:00
+3160,anterolateral,2025-01-18 07:02:00
+3161,posterolateral,2025-01-18 07:49:00
+3162,posterolateral,2025-01-18 10:57:00
+3163,anterolateral,2025-01-19 10:48:00
+3164,posterolateral,2025-01-20 07:56:00
+3165,direct lateral,2025-01-23 12:05:00
+3166,direct lateral,2025-01-23 09:35:00
+3167,posterolateral,2025-01-25 09:26:00
+3168,posterolateral,2025-01-25 10:52:00
+3169,unknown,2025-01-27 07:08:00
+3170,anterior,2025-01-28 10:34:00
+3171,direct lateral,2025-01-28 07:19:00
+3172,posterolateral,2025-01-29 10:09:00
+3173,direct lateral,2025-01-31 06:56:00
+3174,direct lateral,2025-02-01 10:33:00
+3175,anterior,2025-02-02 07:42:00
+3176,direct lateral,2025-02-03 12:24:00
+3177,posterolateral,2025-02-04 07:41:00
+3178,posterolateral,2025-02-04 08:25:00
+3179,posterolateral,2025-02-06 07:18:00
+3180,posterolateral,2025-02-06 08:06:00
+3181,posterolateral,2025-02-06 08:51:00
+3182,anterolateral,2025-02-07 11:43:00
+3183,direct lateral,2025-02-09 08:26:00
+3184,posterolateral,2025-02-09 11:54:00
+3185,direct lateral,2025-02-12 11:17:00
+3186,anterolateral,2025-02-15 06:31:00
+3187,direct lateral,2025-02-15 12:08:00
+3188,anterior,2025-02-15 12:01:00
+3189,posterolateral,2025-02-16 08:29:00
+3190,anterolateral,2025-02-16 11:20:00
+3191,posterolateral,2025-02-17 10:54:00
+3192,anterolateral,2025-02-18 11:02:00
+3193,posterolateral,2025-02-19 08:57:00
+3194,direct lateral,2025-02-20 11:25:00
+3195,direct lateral,2025-02-21 09:54:00
+3196,posterolateral,2025-02-21 06:59:00
+3197,anterior,2025-02-21 11:59:00
+3198,direct lateral,2025-02-22 09:27:00
+3199,posterolateral,2025-02-22 12:18:00
+3200,posterolateral,2025-02-22 11:17:00
+3201,posterolateral,2025-02-23 06:27:00
+3202,posterolateral,2025-02-23 09:48:00
+3203,posterolateral,2025-02-24 08:59:00
+3204,direct lateral,2025-02-24 10:11:00
+3205,direct lateral,2025-02-24 11:37:00
+3206,posterolateral,2025-03-01 07:48:00
+3207,anterolateral,2025-03-01 08:43:00
+3208,anterior,2025-03-02 10:39:00
+3209,anterior,2025-03-04 09:03:00
+3210,direct lateral,2025-03-04 08:46:00
+3211,anterior,2025-03-04 09:52:00
+3212,posterolateral,2025-03-05 07:22:00
+3213,direct lateral,2025-03-05 07:55:00
+3214,posterolateral,2025-03-06 10:37:00
+3215,posterolateral,2025-03-07 09:04:00
+3216,posterolateral,2025-03-07 07:32:00
+3217,posterolateral,2025-03-08 07:04:00
+3218,unknown,2025-03-09 10:41:00
+3219,direct lateral,2025-03-09 10:33:00
+3220,anterolateral,2025-03-09 09:23:00
+3221,anterolateral,2025-03-11 10:37:00
+3222,anterolateral,2025-03-11 07:53:00
+3223,anterior,2025-03-12 12:37:00
+3224,anterolateral,2025-03-12 10:47:00
+3225,direct lateral,2025-03-12 11:25:00
+3226,direct lateral,2025-03-13 11:44:00
+3227,direct lateral,2025-03-13 11:32:00
+3228,anterolateral,2025-03-14 08:17:00
+3229,direct lateral,2025-03-14 09:29:00
+3230,anterolateral,2025-03-15 12:19:00
+3231,anterolateral,2025-03-15 10:38:00
+3232,anterolateral,2025-03-18 06:24:00
+3233,anterior,2025-03-18 06:57:00
+3234,posterolateral,2025-03-19 07:54:00
+3235,anterolateral,2025-03-19 10:40:00
+3236,anterior,2025-03-21 10:46:00
+3237,anterior,2025-03-21 08:57:00
+3238,posterolateral,2025-03-21 10:20:00
+3239,posterolateral,2025-03-22 08:38:00
+3240,direct lateral,2025-03-22 08:33:00
+3241,posterolateral,2025-03-22 11:07:00
+3242,posterolateral,2025-03-23 06:43:00
+3243,anterolateral,2025-03-23 06:54:00
+3244,posterolateral,2025-03-24 07:21:00
+3245,anterolateral,2025-03-24 11:57:00
+3246,direct lateral,2025-03-25 07:56:00
+3247,posterolateral,2025-03-26 11:23:00
+3248,anterolateral,2025-03-31 09:10:00
+3249,anterolateral,2025-04-01 11:34:00
+3250,anterolateral,2025-04-02 10:36:00
+3251,direct lateral,2025-04-02 09:08:00
+3252,anterior,2025-04-03 12:20:00
+3253,direct lateral,2025-04-03 10:31:00
+3254,anterior,2025-04-03 08:02:00
+3255,posterolateral,2025-04-05 08:15:00
+3256,anterior,2025-04-07 08:14:00
+3257,anterior,2025-04-08 09:24:00
+3258,anterior,2025-04-10 08:31:00
+3259,posterolateral,2025-04-14 06:48:00
+3260,posterolateral,2025-04-16 09:50:00
+3261,posterolateral,2025-04-18 10:56:00
+3262,posterolateral,2025-04-19 10:01:00
+3263,anterior,2025-04-19 09:28:00
+3264,anterolateral,2025-04-20 07:00:00
+3265,posterolateral,2025-04-20 11:53:00
+3266,posterolateral,2025-04-21 09:33:00
+3267,direct lateral,2025-04-23 10:22:00
+3268,anterior,2025-04-25 10:19:00
+3269,direct lateral,2025-04-25 08:16:00
+3270,unknown,2025-04-26 12:01:00
+3271,anterior,2025-04-26 08:05:00
+3272,posterolateral,2025-04-28 10:04:00
+3273,anterolateral,2025-04-28 10:13:00
+3274,anterior,2025-04-30 09:38:00
+3275,anterolateral,2025-04-30 09:12:00
+3276,anterolateral,2025-05-01 09:49:00
+3277,direct lateral,2025-05-03 08:47:00
+3278,anterolateral,2025-05-04 12:14:00
+3279,anterolateral,2025-05-04 11:33:00
+3280,anterolateral,2025-05-05 09:37:00
+3281,posterolateral,2025-05-06 11:17:00
+3282,unknown,2025-05-06 07:47:00
+3283,direct lateral,2025-05-07 11:38:00
+3284,anterolateral,2025-05-07 08:18:00
+3285,direct lateral,2025-05-07 11:14:00
+3286,anterolateral,2025-05-08 06:23:00
+3287,posterolateral,2025-05-08 09:32:00
+3288,posterolateral,2025-05-10 11:28:00
+3289,anterior,2025-05-11 11:32:00
+3290,posterolateral,2025-05-12 11:01:00
+3291,posterolateral,2025-05-12 11:10:00
+3292,direct lateral,2025-05-15 09:43:00
+3293,direct lateral,2025-05-16 11:47:00
+3294,posterolateral,2025-05-19 12:35:00
+3295,anterolateral,2025-05-20 09:58:00
+3296,anterior,2025-05-20 09:39:00
+3297,anterolateral,2025-05-21 09:33:00
+3298,anterior,2025-05-21 12:07:00
+3299,direct lateral,2025-05-23 08:57:00
+3300,posterolateral,2025-05-23 07:18:00
+3301,anterolateral,2025-05-24 07:18:00
+3302,anterolateral,2025-05-25 08:34:00
+3303,direct lateral,2025-05-27 10:01:00
+3304,direct lateral,2025-05-27 11:05:00
+3305,direct lateral,2025-05-28 12:08:00
+3306,anterior,2025-05-29 10:52:00
+3307,anterior,2025-05-29 11:56:00
+3308,direct lateral,2025-05-29 09:22:00
+3309,posterolateral,2025-05-29 10:26:00
+3310,anterior,2025-05-30 06:33:00
+3311,anterior,2025-05-31 07:15:00
+3312,anterior,2025-05-31 11:01:00
+3313,anterolateral,2025-05-31 12:09:00
+3314,anterior,2025-06-01 06:33:00
+3315,direct lateral,2025-06-01 12:33:00
+3316,posterolateral,2025-06-01 10:41:00
+3317,anterolateral,2025-06-02 09:29:00
+3318,direct lateral,2025-06-02 10:08:00
+3319,posterolateral,2025-06-03 07:20:00
+3320,anterior,2025-06-04 10:54:00
+3321,anterolateral,2025-06-04 09:02:00
+3322,anterior,2025-06-04 07:11:00
+3323,anterior,2025-06-04 09:25:00
+3324,anterior,2025-06-07 11:11:00
+3325,anterolateral,2025-06-09 08:08:00
+3326,anterolateral,2025-06-09 07:00:00
+3327,posterolateral,2025-06-12 11:16:00
+3328,anterolateral,2025-06-12 08:30:00
+3329,posterolateral,2025-06-13 08:35:00
+3330,posterolateral,2025-06-14 07:41:00
+3331,posterolateral,2025-06-16 08:48:00
+3332,direct lateral,2025-06-16 07:42:00
+3333,posterolateral,2025-06-17 11:03:00
+3334,posterolateral,2025-06-17 07:32:00
+3335,posterolateral,2025-06-18 06:25:00
+3336,posterolateral,2025-06-18 12:04:00
+3337,anterior,2025-06-19 10:27:00
+3338,anterolateral,2025-06-19 10:02:00
+3339,posterolateral,2025-06-21 07:19:00
+3340,direct lateral,2025-06-21 08:17:00
+3341,direct lateral,2025-06-21 07:10:00
+3342,posterolateral,2025-06-21 12:17:00
+3343,anterior,2025-06-25 11:55:00
+3344,posterolateral,2025-06-26 08:07:00
+3345,anterolateral,2025-06-28 10:58:00
+3346,direct lateral,2025-06-29 07:28:00
+3347,anterior,2025-06-29 06:44:00
+3348,direct lateral,2025-06-29 08:31:00
+3349,anterolateral,2025-06-30 09:50:00
+3350,anterolateral,2025-07-01 06:56:00
+3351,posterolateral,2025-07-02 11:42:00
+3352,posterolateral,2025-07-03 09:05:00
+3353,posterolateral,2025-07-03 07:54:00
+3354,posterolateral,2025-07-03 06:34:00
+3355,posterolateral,2025-07-03 11:36:00
+3356,unknown,2025-07-06 10:18:00
+3357,posterolateral,2025-07-07 07:31:00
+3358,unknown,2025-07-09 06:43:00
+3359,direct lateral,2025-07-10 10:41:00
+3360,anterior,2025-07-11 10:17:00
+3361,posterolateral,2025-07-11 09:16:00
+3362,anterolateral,2025-07-12 07:08:00
+3363,posterolateral,2025-07-13 12:28:00
+3364,anterior,2025-07-14 08:48:00
+3365,direct lateral,2025-07-14 07:57:00
+3366,anterolateral,2025-07-15 09:52:00
+3367,anterior,2025-07-15 10:44:00
+3368,direct lateral,2025-07-16 09:28:00
+3369,unknown,2025-07-17 09:23:00
+3370,posterolateral,2025-07-17 07:56:00
+3371,direct lateral,2025-07-18 08:09:00
+3372,posterolateral,2025-07-18 10:19:00
+3373,anterior,2025-07-18 10:15:00
+3374,anterior,2025-07-18 06:28:00
+3375,unknown,2025-07-19 08:44:00
+3376,anterior,2025-07-19 07:09:00
+3377,posterolateral,2025-07-20 07:23:00
+3378,unknown,2025-07-20 11:07:00
+3379,posterolateral,2025-07-20 12:20:00
+3380,anterolateral,2025-07-20 09:12:00
+3381,posterolateral,2025-07-21 08:30:00
+3382,anterior,2025-07-21 11:05:00
+3383,anterolateral,2025-07-22 10:11:00
+3384,anterior,2025-07-22 10:12:00
+3385,anterior,2025-07-23 11:53:00
+3386,posterolateral,2025-07-24 08:03:00
+3387,posterolateral,2025-07-24 10:17:00
+3388,anterior,2025-07-24 07:31:00
+3389,posterolateral,2025-07-24 09:55:00
+3390,anterolateral,2025-07-27 11:10:00
+3391,direct lateral,2025-07-28 07:12:00
+3392,posterolateral,2025-07-28 12:10:00
+3393,direct lateral,2025-07-29 10:49:00
+3394,anterior,2025-07-29 10:35:00
+3395,posterolateral,2025-07-29 10:33:00
+3396,posterolateral,2025-07-30 10:23:00
+3397,anterior,2025-07-30 06:47:00
+3398,anterior,2025-07-31 06:52:00
+3399,anterior,2025-07-31 08:55:00
+3400,direct lateral,2025-07-31 07:15:00
+3401,direct lateral,2025-08-01 06:55:00
+3402,direct lateral,2025-08-03 11:57:00
+3403,posterolateral,2025-08-06 09:25:00
+3404,anterior,2025-08-06 10:25:00
+3405,posterolateral,2025-08-06 11:10:00
+3406,posterolateral,2025-08-07 07:18:00
+3407,posterolateral,2025-08-07 07:12:00
+3408,anterolateral,2025-08-08 06:25:00
+3409,anterior,2025-08-10 09:46:00
+3410,posterolateral,2025-08-12 06:28:00
+3411,anterolateral,2025-08-12 11:44:00
+3412,posterolateral,2025-08-14 08:50:00
+3413,posterolateral,2025-08-15 07:46:00
+3414,direct lateral,2025-08-15 11:37:00
+3415,anterolateral,2025-08-16 06:58:00
+3416,posterolateral,2025-08-16 09:59:00
+3417,anterolateral,2025-08-17 10:58:00
+3418,direct lateral,2025-08-18 07:10:00
+3419,posterolateral,2025-08-19 12:11:00
+3420,anterolateral,2025-08-20 09:16:00
+3421,anterior,2025-08-21 09:43:00
+3422,anterolateral,2025-08-22 08:53:00
+3423,posterolateral,2025-08-23 09:58:00
+3424,anterolateral,2025-08-26 07:07:00
+3425,anterior,2025-08-28 07:54:00
+3426,posterolateral,2025-08-28 11:01:00
+3427,posterolateral,2025-08-29 10:47:00
+3428,anterolateral,2025-08-30 10:38:00
+3429,anterolateral,2025-08-30 09:56:00
+3430,unknown,2025-08-31 10:08:00
+3431,anterior,2025-08-31 06:55:00
+3432,anterior,2025-09-02 10:54:00
+3433,posterolateral,2025-09-04 08:19:00
+3434,direct lateral,2025-09-06 12:34:00
+3435,direct lateral,2025-09-06 11:34:00
+3436,anterior,2025-09-07 06:45:00
+3437,posterolateral,2025-09-08 09:35:00
+3438,posterolateral,2025-09-10 09:32:00
+3439,anterior,2025-09-11 09:38:00
+3440,posterolateral,2025-09-11 10:39:00
+3441,anterior,2025-09-11 07:21:00
+3442,posterolateral,2025-09-13 07:08:00
+3443,anterior,2025-09-13 11:51:00
+3444,direct lateral,2025-09-13 07:57:00
+3445,anterior,2025-09-14 10:52:00
+3446,unknown,2025-09-14 06:57:00
+3447,anterolateral,2025-09-14 10:47:00
+3448,anterior,2025-09-15 10:26:00
+3449,anterolateral,2025-09-16 07:42:00
+3450,anterolateral,2025-09-16 10:35:00
+3451,direct lateral,2025-09-17 08:57:00
+3452,anterior,2025-09-19 12:05:00
+3453,anterior,2025-09-20 10:46:00
+3454,direct lateral,2025-09-22 07:01:00
+3455,posterolateral,2025-09-22 08:43:00
+3456,posterolateral,2025-09-23 07:29:00
+3457,anterolateral,2025-09-23 10:58:00
+3458,posterolateral,2025-09-26 08:26:00
+3459,posterolateral,2025-09-28 06:35:00
+3460,anterior,2025-09-29 07:30:00
+3461,anterolateral,2025-09-29 09:08:00
+3462,unknown,2025-09-29 08:47:00
+3463,anterolateral,2025-09-30 10:13:00
+3464,unknown,2025-10-01 07:38:00
+3465,anterolateral,2025-10-04 09:50:00
+3466,anterior,2025-10-05 11:22:00
+3467,anterior,2025-10-05 12:13:00
+3468,anterolateral,2025-10-05 11:25:00
+3469,direct lateral,2025-10-05 10:42:00
+3470,posterolateral,2025-10-06 07:21:00
+3471,direct lateral,2025-10-07 09:34:00
+3472,anterior,2025-10-08 07:39:00
+3473,unknown,2025-10-09 10:33:00
+3474,anterior,2025-10-10 12:23:00
+3475,posterolateral,2025-10-10 08:11:00
+3476,posterolateral,2025-10-10 12:09:00
+3477,posterolateral,2025-10-11 11:36:00
+3478,anterior,2025-10-11 08:37:00
+3479,anterior,2025-10-11 11:24:00
+3480,anterolateral,2025-10-12 09:06:00
+3481,direct lateral,2025-10-13 08:28:00
+3482,anterior,2025-10-14 11:12:00
+3483,anterior,2025-10-14 11:39:00
+3484,unknown,2025-10-16 11:08:00
+3485,posterolateral,2025-10-16 06:55:00
+3486,posterolateral,2025-10-16 06:27:00
+3487,direct lateral,2025-10-16 07:30:00
+3488,anterior,2025-10-16 06:56:00
+3489,anterolateral,2025-10-17 12:07:00
+3490,posterolateral,2025-10-17 08:10:00
+3491,posterolateral,2025-10-19 06:57:00
+3492,posterolateral,2025-10-19 08:11:00
+3493,anterolateral,2025-10-22 11:54:00
+3494,anterior,2025-10-24 10:20:00
+3495,direct lateral,2025-10-24 08:08:00
+3496,anterior,2025-10-25 09:58:00
+3497,posterolateral,2025-10-28 08:04:00
+3498,anterior,2025-10-28 10:08:00
+3499,direct lateral,2025-10-28 09:57:00
+3500,anterior,2025-10-29 07:07:00
+3501,posterolateral,2025-10-31 10:46:00
+3502,posterolateral,2025-11-01 09:27:00
+3503,unknown,2025-11-02 10:09:00
+3504,anterolateral,2025-11-02 12:26:00
+3505,direct lateral,2025-11-02 06:52:00
+3506,unknown,2025-11-03 11:59:00
+3507,direct lateral,2025-11-04 09:07:00
+3508,anterolateral,2025-11-05 07:16:00
+3509,direct lateral,2025-11-05 06:31:00
+3510,posterolateral,2025-11-06 07:18:00
+3511,anterior,2025-11-06 08:02:00
+3512,direct lateral,2025-11-06 10:45:00
+3513,posterolateral,2025-11-09 10:45:00
+3514,anterolateral,2025-11-09 12:08:00
+3515,posterolateral,2025-11-10 06:57:00
+3516,anterior,2025-11-10 07:08:00
+3517,anterolateral,2025-11-10 09:43:00
+3518,anterolateral,2025-11-10 08:35:00
+3519,posterolateral,2025-11-11 08:08:00
+3520,direct lateral,2025-11-12 11:52:00
+3521,posterolateral,2025-11-12 12:05:00
+3522,direct lateral,2025-11-13 11:51:00
+3523,anterior,2025-11-13 07:37:00
+3524,anterolateral,2025-11-14 09:34:00
+3525,posterolateral,2025-11-14 08:03:00
+3526,direct lateral,2025-11-16 11:52:00
+3527,posterolateral,2025-11-16 08:51:00
+3528,direct lateral,2025-11-17 12:12:00
+3529,posterolateral,2025-11-17 11:27:00
+3530,direct lateral,2025-11-18 11:07:00
+3531,direct lateral,2025-11-18 09:20:00
+3532,posterolateral,2025-11-19 11:28:00
+3533,posterolateral,2025-11-19 08:04:00
+3534,posterolateral,2025-11-20 10:20:00
+3535,unknown,2025-11-21 08:22:00
+3536,anterior,2025-11-22 07:25:00
+3537,direct lateral,2025-11-23 10:47:00
+3538,posterolateral,2025-11-24 09:52:00
+3539,direct lateral,2025-11-26 11:57:00
+3540,direct lateral,2025-11-26 06:31:00
+3541,direct lateral,2025-11-27 08:33:00
+3542,anterolateral,2025-11-27 08:52:00
+3543,anterolateral,2025-11-28 08:01:00
+3544,anterior,2025-11-28 07:38:00
+3545,posterolateral,2025-12-01 11:18:00
+3546,anterior,2025-12-02 08:24:00
+3547,direct lateral,2025-12-02 07:33:00
+3548,anterolateral,2025-12-03 10:10:00
+3549,anterior,2025-12-03 09:35:00
+3550,anterolateral,2025-12-03 07:19:00
+3551,posterolateral,2025-12-03 07:21:00
+3552,direct lateral,2025-12-04 10:41:00
+3553,anterolateral,2025-12-06 12:15:00
+3554,posterolateral,2025-12-08 09:14:00
+3555,posterolateral,2025-12-08 09:50:00
+3556,posterolateral,2025-12-10 07:06:00
+3557,posterolateral,2025-12-10 11:02:00
+3558,posterolateral,2025-12-10 10:49:00
+3559,anterior,2025-12-11 10:00:00
+3560,posterolateral,2025-12-11 09:48:00
+3561,anterolateral,2025-12-11 10:06:00
+3562,posterolateral,2025-12-12 06:33:00
+3563,direct lateral,2025-12-14 11:58:00
+3564,direct lateral,2025-12-14 11:36:00
+3565,anterolateral,2025-12-14 09:08:00
+3566,posterolateral,2025-12-14 10:47:00
+3567,anterolateral,2025-12-15 09:32:00
+3568,anterior,2025-12-17 08:46:00
+3569,anterior,2025-12-17 08:51:00
+3570,anterolateral,2025-12-18 07:12:00
+3571,direct lateral,2025-12-19 07:34:00
+3572,posterolateral,2025-12-21 10:57:00
+3573,anterior,2025-12-23 12:09:00
+3574,anterolateral,2025-12-23 10:13:00
+3575,anterolateral,2025-12-24 10:52:00
+3576,posterolateral,2025-12-25 11:51:00
+3577,posterolateral,2025-12-25 09:21:00
+3578,posterolateral,2025-12-26 08:02:00
+3579,anterior,2025-12-27 10:58:00
+3580,anterolateral,2025-12-30 09:31:00
+3581,direct lateral,2025-12-31 11:20:00
