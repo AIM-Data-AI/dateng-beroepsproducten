@@ -10,7 +10,7 @@ CREATE TABLE patient (
 CREATE TABLE patient_statistic_type (
     stid INT PRIMARY KEY NOT NULL,
     stname NVARCHAR(512) NOT NULL,
-    sttype ENUM ('int', 'float', 'bool', 'string') NOT NULL
+    sttype NVARCHAR(10) NOT NULL CHECK (sttype IN ('int', 'float', 'bool', 'string'))
 );
 
 -- Patient statistsics, such as BMI, smoking status, ASA score, etc.
@@ -19,9 +19,9 @@ CREATE TABLE patient_statistic (
     stid INT NOT NULL,
     stvalue_int INTEGER NULL,
     stvalue_float FLOAT NULL,
-    stvalue_bool BOOLEAN NULL,
+    stvalue_bool BIT NULL,
     stvalue_string NVARCHAR(512) NULL,
-    stat_ts DATETIME NULL,
+    stat_ts DATETIME NOT NULL,
     stat_note TEXT NULL,
     PRIMARY KEY (pid, stid, stat_ts),
     FOREIGN KEY (pid) REFERENCES patient(pid),
@@ -55,7 +55,7 @@ CREATE TABLE eoc (
 CREATE TABLE eoc_treatment (
     eocid INT NOT NULL,
     tid INT NOT NULL,
-    is_primary BOOLEAN NOT NULL,
+    is_primary BIT NOT NULL,
     eoc_time DATETIME NOT NULL,
     PRIMARY KEY (eocid, tid),
     FOREIGN KEY (eocid) REFERENCES eoc(eocid),
